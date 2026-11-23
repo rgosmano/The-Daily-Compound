@@ -1,0 +1,769 @@
+{
+  "date": "2026-11-23",
+  "title": "The bounce after the bloodbath",
+  "dek": "Futures jump as Asia props up its markets and Trump urges Nvidia to bring back Jensen Huang, inflation week begins, and big pharma keeps shopping, from a $725 million Huntington's bet to a possible $40 billion Insmed deal.",
+  "readingMinutes": 30,
+  "bigPicture": [
+    "After the worst week for U.S. stocks since 2020, Monday morning brought relief. Stock futures jumped about 2%–3% before the opening bell, led by the same AI and chip stocks that had collapsed last week. Three things drove the bounce: governments in Asia stepped in to steady their markets, **President Trump** publicly urged **Nvidia's** board to rehire ousted CEO **Jensen Huang**, and many traders decided the selling had simply gone too far.",
+    "The question that matters this week is whether this is the start of a recovery or just a **relief rally**, a sharp bounce inside a longer decline. History has plenty of both. One useful tell: the bounce hasn't changed the forces that caused the selloff. Investors still don't know when AI spending will pay off, Nvidia still has no permanent CEO and faces two investigations, and the Federal Reserve still looks set to *raise* interest rates in December. Wednesday's inflation report could decide which story wins before markets close for Thanksgiving.",
+    "Notice, too, how the board changed overnight. On Friday, investors piled into Treasury bonds and the dollar for safety. On Monday, they partly reversed that: Treasury yields rose, the dollar slipped from a 19-month high and gold bounced 3%. Money moved back toward risk. That's what a market looks like when fear eases but doesn't disappear.",
+    "In biotech, the deal machine kept running regardless of the stock market's mood. **Eli Lilly** made its 15th acquisition of the year, a bet on an early-stage Huntington's disease drug. **Sanofi** is reportedly weighing a takeover of **Insmed** that could cost $35 billion to $43 billion. And **Merck** reported that its new cancer drug extended patients' lives in a large global trial. The theme from yesterday still holds, in both worlds: money is chasing **proof**. Proof of AI profits for tech, proof of survival benefit for drugs, and proof of future revenue for the companies big pharma is willing to buy."
+  ],
+  "marketPulse": {
+    "asOf": "Premarket levels as of about 7:30–8 a.m. ET Monday, Nov. 23, versus Friday's close. Approximate figures are marked with ~. Futures can move a lot before the 9:30 a.m. open.",
+    "items": [
+      {
+        "name": "S&P 500 futures",
+        "value": "~7,094",
+        "change": "+2.3% to +2.8%",
+        "direction": "up",
+        "note": "Cash index closed Friday at 6,910, in a correction after 7 straight losses"
+      },
+      {
+        "name": "Nasdaq-100 futures",
+        "value": "~25,860",
+        "change": "+2.9% to +3.5%",
+        "direction": "up",
+        "note": "Tech led the bounce after the Nasdaq's ~10% weekly drop, its worst since March 2020"
+      },
+      {
+        "name": "Dow futures",
+        "value": "~49,040",
+        "change": "+~800 pts (1.7%)",
+        "direction": "up",
+        "note": "The Dow closed Friday at 48,147"
+      },
+      {
+        "name": "VIX (fear gauge)",
+        "value": "~31",
+        "change": "−13% from Fri.",
+        "direction": "flat",
+        "note": "Topped 40 intraday last week for the first time since April 2025"
+      },
+      {
+        "name": "10-yr Treasury",
+        "value": "~4.95%",
+        "change": "+~4.6 bp",
+        "direction": "flat",
+        "note": "Rising yields = investors selling some of Friday's safe-haven bonds"
+      },
+      {
+        "name": "Gold",
+        "value": "~$3,620/oz",
+        "change": "+2.5% to +3%",
+        "direction": "up",
+        "note": "Bouncing off a 14-month low ahead of inflation data"
+      },
+      {
+        "name": "Brent crude",
+        "value": "~$91.30/bbl",
+        "change": "−1.3%",
+        "direction": "down",
+        "note": "U.S. benchmark WTI near $82; more Middle East supply outweighs Gulf shipping attacks"
+      },
+      {
+        "name": "Bitcoin",
+        "value": "~$61,200",
+        "change": "+~0.6%",
+        "direction": "flat",
+        "note": "Barely joined the rebound after falling below $60,000 last week"
+      }
+    ],
+    "summary": [
+      "**How to read this board:** stocks, gold and Treasury yields are all *up* together. That's the mirror image of Friday's flight to safety. When fear eases, investors sell some of the bonds they rushed into (pushing yields up) and buy back riskier assets. The VIX falling 13% in one morning tells you traders are paying less for crash protection. But a VIX near 31 is still elevated; readings in the teens signal genuine calm.",
+      "**A note on futures:** the numbers above are **futures contracts**, agreements to buy or sell an index at a future date, which trade nearly around the clock. They're the market's best guess at how the regular session will open, not a guarantee. Big premarket moves sometimes fade by the close, as they did several times in October and November.",
+      "**Correction:** Sunday's edition put gold near $3,880 an ounce and the VIX near 29–30 at Friday's close. Reuters and WSJ market data indicate gold was closer to ~$3,530 (a 14-month low) and the VIX closed near ~36. We regret the errors."
+    ]
+  },
+  "sections": [
+    {
+      "id": "markets",
+      "title": "Markets & the economy",
+      "kicker": "A global relief rally, a president weighs in on a CEO, and the inflation test ahead.",
+      "stories": [
+        {
+          "headline": "Relief rally: futures jump as Asian governments step in to steady markets",
+          "tags": [
+            "Stocks",
+            "Global markets",
+            "AI"
+          ],
+          "takeaway": "U.S. stock futures rose 2%–3.5% Monday after last week's AI-driven rout, helped by emergency measures in China, Taiwan and South Korea. The rally is real, but the problems behind the selloff haven't gone away.",
+          "whatHappened": [
+            "By Monday morning in Europe, Reuters reported **Nasdaq-100 futures up 3.5%** and **S&P 500 futures up 2.8%**. Dow futures were up roughly 800 points. Europe's STOXX 600 rose about 0.8%, led by semiconductor stocks, and the Wall Street Journal reported European AI-linked shares rebounded sharply as traders bought the dip.",
+            "Asia was mixed but calmer. Governments there took action over the weekend. **Taiwan's** financial regulator tightened short-selling rules (limits on betting that stocks will fall). **China's** stock exchanges eased requirements for **margin financing**, which lets investors borrow money to buy stocks. **South Korea's** finance minister repeated that the government is ready to stabilize markets if needed. Taiwan's chip-heavy index rose 2.4% Monday after its worst week since 1990. South Korea's KOSPI fell another ~3.3% as memory-chip makers Samsung and SK Hynix slid, though it bounced off 10-month lows. Japan was closed for a holiday.",
+            "The scale of last week's damage explains the urgency. Reuters noted the KOSPI, which more than doubled in the first half of 2026 on chip-demand bets, has now **halved from its peak**. Deutsche Bank strategist Jim Reid wrote that the AI selloff had turned into a broader rush for cash: *no longer simply a tech selloff*, in his words."
+          ],
+          "whyItMatters": [
+            "When governments tighten short-selling rules or make it easier to borrow to buy stocks, they're trying to change the balance of buyers and sellers. Short sellers profit when prices fall, so limiting them removes some selling pressure. Easier margin financing adds potential buyers. These moves can stop a panic, but they can't create profits that aren't there. They buy time; they don't change fundamentals.",
+            "The bigger point is that the AI trade was **global**. Taiwan and South Korea are home to the companies that manufacture AI chips and memory, so their stock markets rose the most on the boom and fell the hardest in the bust. When one theme dominates markets worldwide, a crack in that theme spreads fast across borders.",
+            "Also worth knowing: Morgan Stanley still forecasts big tech companies' capital spending (money spent on data centers, chips and equipment) will rise **more than 70% next year** to top **$1.6 trillion**, according to Reuters. The spending isn't slowing yet. What changed is how much investors are willing to pay *today* for profits that spending might produce *later*."
+          ],
+          "bigPicture": [
+            "Relief rallies after big drops are common, and they're often violent, because short sellers rush to **cover** (buy back the shares they borrowed and sold) and bargain hunters jump in at once. During the 2000–2002 dot-com bust, the Nasdaq had several rallies of 20% or more on its way to an eventual ~78% decline. During the 2020 pandemic crash, the first sharp bounce turned into a full recovery. You usually can't tell which kind you're in until weeks later. What matters is whether the underlying worries ease: here, AI profits, Nvidia's leadership and the Fed."
+          ],
+          "whatToWatch": [
+            "- Whether the gains hold through the close. Monday's flash PMI surveys of business activity (9:45 a.m. ET) are the first data test.\n- Dell's results Tuesday after the close, which Reuters calls the next test for AI demand.\n- The VIX. A fall back toward 20 would signal fear is really fading; a jump back above 35 would suggest the rally failed."
+          ],
+          "sources": [
+            {
+              "name": "Reuters: Global markets",
+              "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-11-22/"
+            },
+            {
+              "name": "WSJ live coverage",
+              "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-23-2026"
+            },
+            {
+              "name": "WSJ: Asian regulators step in",
+              "url": "https://www.wsj.com/finance/stocks/asian-regulators-step-up-efforts-to-calm-ai-driven-market-turmoil-95ea6cf8"
+            },
+            {
+              "name": "Barron's live coverage",
+              "url": "https://www.barrons.com/livecoverage/stock-market-news-today-112326"
+            },
+            {
+              "name": "Fortune",
+              "url": "https://fortune.com/2026/11/22/stock-market-today-dow-futures-sp500-nasdaq-correction-ai-bust/"
+            }
+          ]
+        },
+        {
+          "headline": "Trump urges Nvidia's board to rehire Jensen Huang, and the stock jumps ~9% premarket",
+          "tags": [
+            "Semiconductors",
+            "Corporate governance",
+            "Policy"
+          ],
+          "takeaway": "The president publicly called for Nvidia to bring back the CEO who resigned 11 days ago, a rare and powerful intervention that sent shares up 8%–10% before the open, though the SEC and California investigations are still open.",
+          "whatHappened": [
+            "In a Truth Social post, **President Trump** said Nvidia's board should rehire **Jensen Huang**, its co-founder, who resigned on Nov. 12 after reports of extramarital affairs, including one with a woman U.S. intelligence officials reportedly believed had ties to Chinese intelligence. According to Yahoo Finance's summary, Trump said Huang **did not put U.S. national security at risk** and that he *would not mind* his return. Investing.com reported Trump renewed the call Monday, saying a return would benefit both the company and the country.",
+            "Nvidia shares rose roughly **8%–10% in premarket trading**, depending on the source and the minute, setting up a possible end to a seven-session losing streak. On Friday the stock fell **14%**, capping its worst week since the 2008–09 financial crisis, per Barron's.",
+            "Huang's personal stake helps explain why his status matters so much. The Journal reported Monday that Huang and his wife control about **870 million Nvidia shares** through trusts and other entities."
+          ],
+          "whyItMatters": [
+            "Last week, Huang's exit turned into a **key-person risk** for the whole market: Nvidia is one of the largest companies in every major index, and he was the face of the AI boom. Trump's statement attacks that risk directly, especially the national-security cloud that hung over Huang's departure. Investors reacted to the chance that the most important leader in AI might come back.",
+            "But it's worth being careful. A board decides who runs a public company, not a president, and the board is now led by an independent chair it named after Huang left. The **SEC's** civil probe into Nvidia's disclosures and **California's** subpoena, which Barron's reported is looking at whether advanced chips or confidential information reached China, haven't gone away. A rehiring could even complicate those investigations. Markets moved on hope; the facts on the ground are unchanged.",
+            "There's a governance lesson here too. Political pressure on corporate decisions cuts both ways. A company seen as doing a government's bidding can lose credibility with investors and with foreign customers, and China is a major chip market."
+          ],
+          "bigPicture": [
+            "Trump has repeatedly involved himself in big companies' affairs this year. On Friday, he said the U.S. would put **tremendous penalties** on American companies that build data centers abroad, part of a push to keep AI infrastructure at home and compete with China (see Quick hits). The pattern for investors: in AI, policy risk is now as important as product risk."
+          ],
+          "whatToWatch": [
+            "- Any statement from Nvidia's board, which has not publicly responded, according to the reports we reviewed.\n- Whether the premarket jump holds. Barron's flagged $150 as a key chart level for the stock last week.\n- Developments in the SEC and California probes."
+          ],
+          "sources": [
+            {
+              "name": "Barron's",
+              "url": "https://www.barrons.com/articles/nvidia-stock-price-trump-huang-return-bb303081"
+            },
+            {
+              "name": "Yahoo Finance",
+              "url": "https://finance.yahoo.com/markets/stocks/article/nvidia-stock-jumps-as-dc-makes-stunning-u-turn-on-jensen-huang-113419437.html"
+            },
+            {
+              "name": "Investing.com",
+              "url": "https://www.investing.com/news/stock-market-news/trump-urges-nvidia-board-to-rehire-jensen-huang-5044292"
+            },
+            {
+              "name": "MarketWatch",
+              "url": "https://www.marketwatch.com/story/nvidia-stock-bounces-as-trump-administration-pushes-for-rehiring-of-jensen-huang-08057c29"
+            },
+            {
+              "name": "WSJ: The Huangs' fortune",
+              "url": "https://www.wsj.com/finance/investing/jensen-and-lori-huang-have-amassed-a-vast-fortune-we-break-down-their-wealth-3d2287b1"
+            }
+          ]
+        },
+        {
+          "headline": "Inflation week: bonds give back Friday's gains as the Fed hike debate resumes",
+          "tags": [
+            "Federal Reserve",
+            "Bonds",
+            "Inflation",
+            "Currencies"
+          ],
+          "takeaway": "With panic easing, Treasury yields climbed back toward 4.95% and gold rebounded, setting up Wednesday's PCE inflation report as the week's main event before a likely December rate hike.",
+          "whatHappened": [
+            "The 10-year Treasury yield rose about **4.6 basis points to ~4.95%** Monday morning, per Reuters, reversing part of Friday's drop. The Journal reported U.S. and European bond yields both rose, *correcting some of last week's significant declines*. Germany's 10-year yield held near 3.30%.",
+            "The **dollar** stayed below Friday's **19-month high** against a basket of major currencies (the ICE dollar index sat near 103.9). Reuters said last week's selloff led traders to scale back bets on an *aggressive* Fed hike in December. Futures still point to a quarter-point increase at the Dec. 8–9 meeting. **Gold** rose 2.5%–3% to about **$3,620 an ounce**, recovering from a 14-month low.",
+            "Central banks elsewhere are leaning the same way. The European Central Bank's Gediminas Šimkus said Monday that a December hike *may not be enough*, though the ECB isn't in a rush to move again after that, according to a Reuters headline. Higher rates are becoming a global story, not just an American one."
+          ],
+          "whyItMatters": [
+            "Think of Friday and Monday as a tug of war between two forces that both act on bond prices. **Fear** makes investors buy Treasuries for safety, pushing prices up and yields down. **Inflation** makes investors demand higher yields to compensate for rising prices. On Friday fear won. On Monday, with fear fading, the inflation side pulled yields back up.",
+            "The dollar and gold tell the same story from another angle. Higher U.S. rates attract foreign money, lifting the dollar. Gold pays no interest, so it tends to suffer when rates rise and the dollar strengthens. When traders trimmed their hike bets, the dollar eased and gold bounced.",
+            "Wednesday's **PCE** (personal consumption expenditures) price report is the Fed's preferred inflation gauge. Some forecasters, including Perpetual's economics team, expect **core PCE** (excluding volatile food and energy) to rise 0.3% for a third straight month. That works out to roughly 3.6% annualized, far above the Fed's 2% target. A hotter number would revive talk of a half-point hike; a cooler one could extend the stock rally."
+          ],
+          "whatToWatch": [
+            "- **Wed., 8:30 a.m. ET:** October PCE, second estimate of Q3 GDP, durable goods orders and weekly jobless claims, all on one morning.\n- **Wed., 2 p.m. ET:** the Fed's Beige Book, a collection of business anecdotes from all 12 Fed districts.\n- The 10-year yield's 5% level. It broke above 5% last week; a return there would pressure stock valuations again."
+          ],
+          "sources": [
+            {
+              "name": "Reuters: Global markets",
+              "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-11-22/"
+            },
+            {
+              "name": "WSJ: Bond yields rise",
+              "url": "https://www.wsj.com/finance/investing/u-s-european-bond-yields-rise-reversing-last-weeks-sharp-falls-9afadf09"
+            },
+            {
+              "name": "WSJ: Gold climbs 3%",
+              "url": "https://www.wsj.com/finance/commodities-futures/gold-rises-in-likely-technical-rebound-f895016c"
+            },
+            {
+              "name": "Reuters: ECB's Šimkus",
+              "url": "https://www.reuters.com/world/europe/december-rate-hike-may-not-be-enough-not-rush-move-again-ecbs-simkus-2026-11-23/"
+            },
+            {
+              "name": "Perpetual weekly update",
+              "url": "https://www.perpetual.com.au/insights/weekly-economic-update-markets-test-the-rbas-resolve-after-weak-jobs-data/"
+            }
+          ]
+        },
+        {
+          "headline": "Anthropic after its debut: a blame game, a junk-debt question and a flat premarket",
+          "tags": [
+            "IPOs",
+            "AI",
+            "Credit"
+          ],
+          "disclosure": "**Disclosure:** this brief is written by Claude, which is made by Anthropic. Everything below comes from the outside reporting linked at the end, and both bullish and skeptical views are included. Read it with that conflict of interest in mind.",
+          "takeaway": "After closing Friday 8.5% lower, Anthropic's shares rose early Monday then went flat premarket, while the debate shifted from the IPO's pricing to how the company will fund its huge spending plans.",
+          "whatHappened": [
+            "Anthropic (ticker **ANT**) closed **8.5% lower on Friday**, its first full day of trading, per Reuters, after briefly trading just 5 cents above its $83 IPO price. On Monday it initially looked set to rebound with the rest of tech, but the Journal reported it was **flat in premarket trading**, wiping out earlier gains.",
+            "Over the weekend the Journal reported that *the blame game has begun* over the turbulent debut: questions about who set the price, how shares were allocated and whether bankers misread demand. A separate Journal analysis, updated Monday, laid out why Wall Street expects Anthropic's debt to be rated **junk** (below investment grade), given spending commitments of roughly **$900 billion** on computing and infrastructure.",
+            "Opinions on the stock remain split. A Journal *Heard on the Street* column argued the shares are a **rational bet** on the next phase of AI, when profits may shift from chipmakers (the *picks and shovels*) to the companies selling AI itself. Another Journal column on Monday, by Spencer Jakab, argued that **buying the dip** in a hot IPO is unlikely to make investors rich."
+          ],
+          "whyItMatters": [
+            "A **credit rating** is an agency's grade of how likely a borrower is to repay. Investment-grade companies borrow cheaply. Junk-rated companies pay higher interest rates because lenders demand compensation for more risk. For a company that has committed to spending far more than it earns today, the cost of borrowing directly affects how fast it can build. That's why the rating matters to the whole AI industry, not just to Anthropic's shareholders.",
+            "The debate also captures the central question of the AI trade. Bulls say the businesses selling AI products will eventually capture the profits that chipmakers enjoy now. Skeptics say the spending required is so large, and competition so fierce, that profits may disappoint. The stock price will swing as evidence arrives for either side."
+          ],
+          "whatToWatch": [
+            "- Formal credit ratings from the major agencies.\n- The first quarterly report as a public company.\n- The **quiet period**: analysts at the banks that ran the IPO typically can't publish research until about 25 days after the listing, so a wave of first coverage is likely in mid-December."
+          ],
+          "sources": [
+            {
+              "name": "WSJ live coverage",
+              "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-23-2026"
+            },
+            {
+              "name": "WSJ: The blame game",
+              "url": "https://www.wsj.com/finance/stocks/the-blame-game-has-begun-over-anthropics-turbulent-trading-debut-280a34b1"
+            },
+            {
+              "name": "WSJ: Anthropic's debt",
+              "url": "https://www.wsj.com/finance/investing/anthropic-committed-to-spend-900-billion-wall-street-expects-its-debt-to-be-junk-5514d55d"
+            },
+            {
+              "name": "WSJ: A rational bet",
+              "url": "https://www.wsj.com/tech/ai/anthropic-shares-are-a-rational-bet-on-the-next-phase-of-ai-a748dba3"
+            },
+            {
+              "name": "WSJ: Pouncing won't make you rich",
+              "url": "https://www.wsj.com/finance/stocks/pouncing-on-anthropic-wont-make-you-rich-4d500a06"
+            },
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-11-22/"
+            }
+          ]
+        },
+        {
+          "headline": "Quick hits from around the market",
+          "tags": [
+            "Policy",
+            "Commodities",
+            "Media",
+            "Insurance"
+          ],
+          "takeaway": "A threat to tax offshore data centers, oil's supply-driven slide, a billionaire's insurance empire under scrutiny, and what Disney is betting on.",
+          "whatHappened": [
+            "- **Data centers at home:** President Trump said Friday the U.S. will impose *tremendous* penalties on American companies that build data centers abroad, arguing China would otherwise capture them. No details yet on how a penalty would work. Big cloud companies build overseas to be near customers and cheap power, so this could raise their costs.\n- **Oil keeps sliding:** Brent fell about 1.3% to ~$91.30 Monday, extending three weekly losses, as rising Middle East output outweighed persistent attacks on shipping and refineries in the Persian Gulf. Prices are set by supply as much as by headlines about risk.\n- **European natural gas** climbed back above €90 per megawatt-hour on colder weather and low storage, a reminder that Europe's energy costs remain far above pre-2022 levels.\n- **Mark Walter probe:** a WSJ investigation detailed how the Dodgers owner's insurers made loans to entities he also controls. Delaware's insurance regulator says it was *intentionally misled* and has joined federal authorities in investigating. Insurers are supposed to invest customer premiums conservatively, so related-party lending draws scrutiny.\n- **Disney** is betting on more content, sports and possibly a free, ad-supported tier to make streaming a growth engine, the Journal reported, though the costs remain unclear.\n- **GLP-1s reach the snack aisle:** Nestlé's CEO told the Journal there are limits to reworking recipes as demand shifts toward high-protein, high-fiber foods, partly driven by weight-loss drugs. Drug trends now move consumer-staples stocks too."
+          ],
+          "whyItMatters": [
+            "Each item is a small case study: policy can reshape where companies invest, commodity prices follow supply and demand, regulators care where insurance money goes, and a health-care trend (GLP-1 drugs) can ripple into food companies' sales. Connecting sectors like this is what separates reading headlines from understanding markets."
+          ],
+          "sources": [
+            {
+              "name": "Reuters: Data centers",
+              "url": "https://www.reuters.com/technology/trump-says-us-penalize-firms-building-data-centers-abroad-2026-11-20/"
+            },
+            {
+              "name": "WSJ: Data centers",
+              "url": "https://www.wsj.com/politics/policy/trump-to-hold-white-house-press-conference-following-trip-to-asia-25c8ecc0"
+            },
+            {
+              "name": "WSJ: Oil",
+              "url": "https://www.wsj.com/finance/commodities-futures/oil-falls-amid-risk-off-sentiment-c478ebdc"
+            },
+            {
+              "name": "WSJ: European gas",
+              "url": "https://www.wsj.com/finance/commodities-futures/european-ttf-gas-climbs-on-colder-weather-low-storage-c3b99a8a"
+            },
+            {
+              "name": "WSJ: Mark Walter probe",
+              "url": "https://www.wsj.com/finance/regulation/dodgers-owner-walter-faces-probe-from-state-regulator-that-says-it-was-misled-8f527738"
+            },
+            {
+              "name": "WSJ: Disney streaming",
+              "url": "https://www.wsj.com/finance/disney-bets-big-on-streaming-just-dont-ask-what-it-costs-4b33553a"
+            },
+            {
+              "name": "WSJ: Nestlé",
+              "url": "https://www.wsj.com/arts-culture/food-cooking/nestles-ceo-sees-limits-to-recipe-reworks-amid-ultraprocessed-food-pushback-f02fb6ec"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "biotech",
+      "title": "Biotech & pharma",
+      "kicker": "Big pharma goes shopping, an ADC proves it extends lives, and a week of regulatory fine print.",
+      "stories": [
+        {
+          "headline": "Sanofi weighs a $35 billion-plus takeover of Insmed to fill its coming patent cliff",
+          "tags": [
+            "M&A",
+            "Patent cliff",
+            "Respiratory"
+          ],
+          "takeaway": "Sanofi is studying a bid for Insmed, maker of fast-growing lung drug Brinsupri, which could be the biggest biotech deal in years. Insmed's stock jumped 16%–18% on the report.",
+          "whatHappened": [
+            "**Bloomberg** reported Thursday that **Sanofi** is working with advisers on a possible acquisition of **Insmed**. Later reporting put the potential price at **$35 billion to $43 billion**. Talks are at an early stage. Sanofi could decide not to bid, other suitors could appear, and any deal could be weeks away. Neither company has commented.",
+            "Insmed's shares rose roughly **16%–18%** on the report. Reuters, citing LSEG data, put its market value at about **$26.3 billion**.",
+            "Insmed's main product is **Brinsupri (brensocatib)**, approved in 2025 as the first treatment of its kind (a **DPP1 inhibitor**) for **non-cystic fibrosis bronchiectasis**, a chronic lung disease in which damaged airways fill with infected mucus. Brinsupri brought in **$400.1 million** in the third quarter, and Insmed raised its 2026 sales forecast for the drug to **$1.35 billion–$1.4 billion**, in its first full year on the market. The company also sells Arikayce for a hard-to-treat lung infection, and projects total 2026 revenue of $1.8 billion–$1.9 billion. It still lost about $100 million in the third quarter."
+          ],
+          "whyItMatters": [
+            "This is the **patent cliff** we covered yesterday, in action. Sanofi's biggest drug, **Dupixent**, an antibody for eczema, asthma and other inflammatory diseases, faces biosimilar competition in the early 2030s. Biosimilars are near-copies of biologic drugs that, like generics, take most sales once they arrive. Sanofi needs new growth to replace that revenue, and buying a fast-growing drug is quicker than inventing one.",
+            "Why pay $35 billion-plus for a company that loses money? Buyers pay for **future** cash flows. Brinsupri hitting more than $1 billion in its first full year is a strong launch, and Insmed has modeled peak sales of over **$6 billion** for a separate pipeline drug called TPIP, per pharmaphorum. The price reflects what those drugs could earn over a decade or more, not this quarter's loss.",
+            "Analysts quoted by Fierce Pharma raised a practical question: can Sanofi, with about **€12 billion** of net debt, really afford a deal near $40 billion? A deal that size would likely require heavy borrowing, which ties back to today's markets story: higher interest rates make big debt-funded deals more expensive."
+          ],
+          "whatToWatch": [
+            "- Whether Sanofi makes a formal offer, and at what **premium** to Insmed's pre-rumor price (see today's Investing concept).\n- Rival bidders. A public rumor often draws in competitors.\n- Brinsupri's fourth-quarter sales, which will test whether the launch justifies the price."
+          ],
+          "sources": [
+            {
+              "name": "Fierce Pharma",
+              "url": "https://www.fiercepharma.com/pharma/facing-down-dupixent-cliff-sanofi-mulls-buyout-insmed-and-its-blockbuster-be-brinsupri"
+            },
+            {
+              "name": "Pharmaceutical Executive",
+              "url": "https://www.pharmexec.com/view/sanofi-eyes-insmed-potential-43b-deal-dupixent-patent-clock-ticks"
+            },
+            {
+              "name": "pharmaphorum",
+              "url": "https://pharmaphorum.com/news/sanofi-reported-be-looking-insmed-takeover"
+            },
+            {
+              "name": "Insmed Q3 results (SEC filing)",
+              "url": "https://www.sec.gov/Archives/edgar/data/0001104506/000114036126041097/ef20084500_ex99-1.htm"
+            },
+            {
+              "name": "Yahoo Finance",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/insmed-soars-18-report-sanofi-170034294.html"
+            }
+          ]
+        },
+        {
+          "headline": "Lilly makes its 15th acquisition of 2026, a $725 million bet on Huntington's disease",
+          "tags": [
+            "M&A",
+            "Neuroscience",
+            "Rare disease"
+          ],
+          "takeaway": "Flush with cash from its weight-loss drugs, Eli Lilly is buying UK startup LoQus23 and its early-stage pill designed to slow the genetic process that drives Huntington's disease.",
+          "whatHappened": [
+            "**Eli Lilly** agreed to acquire **LoQus23 Therapeutics**, a British biotech, for **up to $725 million** in cash, combining an upfront payment with milestones, Endpoints News and Pharmaceutical Technology reported. Endpoints counted it as Lilly's **15th acquisition of 2026**. The upfront amount wasn't disclosed in the reports we reviewed.",
+            "LoQus23's lead drug, **LQT-23**, is an oral small molecule that blocks a protein called **MSH3**. It's still **preclinical**: it has worked in cell and animal models, and the company hopes to apply to start human trials *in the near future*. Novartis's venture arm had backed the company in earlier funding rounds.",
+            "The deal follows Lilly's **$1.5 billion** purchase of Calytrix Bio and a licensing pact worth **up to $5.9 billion** with Stipple Bio, both announced recently."
+          ],
+          "whyItMatters": [
+            "**Huntington's disease** is an inherited, fatal brain disorder. It's caused by a stretch of repeated DNA letters (CAG) in one gene. In some cells, that repeat keeps getting longer over a person's life, a process called **somatic expansion**, and longer repeats appear to drive the disease. MSH3 is part of the cell's DNA-repair machinery that seems to help the repeat grow. Block MSH3, the theory goes, and you slow the disease at its source. About **75,000 people** across the U.S., U.K. and Europe have Huntington's, and there's no approved treatment that slows it.",
+            "For investors, this is a lesson in how early-stage deals are priced. A preclinical drug has a long, risky road ahead: most never reach approval. That's why the headline is *up to* $725 million. Lilly likely pays a fraction upfront and the rest only if LQT-23 succeeds. It's a cheap option on a big prize.",
+            "The bigger story is **Lilly's cash machine**. Sales of tirzepatide (Mounjaro and Zepbound) outsold several entire big-pharma companies in the third quarter, per Pharmaceutical Technology. Companies with huge profits and a long patent runway can afford many small bets, knowing a few big wins will cover the losers."
+          ],
+          "bigPicture": [
+            "The Huntington's field is heating up. **uniQure's** gene therapy AMT-130, the most advanced disease-modifying candidate, has an FDA decision date of **May 1, 2027**. Lineage Cell Therapeutics also bought into the space last week. A first approval would validate the whole field, and raise the value of earlier programs like LQT-23."
+          ],
+          "whatToWatch": [
+            "- LQT-23's first human trial application and start date.\n- uniQure's FDA advisory committee and decision next spring.\n- More Lilly deals. The company has been one of 2026's most active buyers."
+          ],
+          "sources": [
+            {
+              "name": "Endpoints News",
+              "url": "https://endpoints.news/lilly-buys-huntingtons-startup-loqus23-for-up-to-725m/"
+            },
+            {
+              "name": "Pharmaceutical Technology",
+              "url": "https://www.pharmaceutical-technology.com/news/eli-lilly-725m-loqus23-takeover-huntingtons-disease/"
+            }
+          ]
+        },
+        {
+          "headline": "Merck's sac-TMT extends survival in advanced stomach cancer, a win for China-sourced drugs done the global way",
+          "tags": [
+            "Oncology",
+            "ADC",
+            "Trial readout"
+          ],
+          "takeaway": "Merck's antibody-drug conjugate helped heavily pretreated gastroesophageal cancer patients live longer in a global Phase 3 trial, the drug's second late-stage win, even though it didn't delay tumor growth.",
+          "whatHappened": [
+            "**Merck** said its Phase 3 **TroFuse-015** trial of **sacituzumab tirumotecan (sac-TMT)** met its primary goal of improving **overall survival (OS)** in patients with advanced **gastroesophageal adenocarcinoma** (cancer of the stomach or the junction with the esophagus) who had already received two or more prior treatments. The comparison was against *treatment of physician's choice*, standard chemotherapy options. Merck hasn't released the numbers yet.",
+            "Sac-TMT is an **antibody-drug conjugate (ADC)** aimed at **TROP2**, a protein found at high levels on many tumor cells. Merck says it's the first TROP2 ADC to improve survival versus standard treatment in this setting in a global Phase 3 study. Targeted Oncology reported that **progression-free survival (PFS) was not improved**.",
+            "This is sac-TMT's **second positive Phase 3**. In May, Merck reported it improved survival in advanced endometrial cancer. Merck is running **18 Phase 3 trials** of the drug, which it **licensed from China's Kelun-Biotech**."
+          ],
+          "whyItMatters": [
+            "Yesterday we explained why **OS** is the gold standard in cancer, and why FDA rejected Summit's ivonescimab when it improved PFS but not OS. Sac-TMT is the reverse case: it hit OS but not PFS. That's unusual but not disqualifying, since living longer is what patients and regulators care about most. Expect the FDA to look closely at the full data when it's presented.",
+            "The China angle is the sharpest contrast with Summit. Both drugs came from Chinese biotechs. But Merck ran TroFuse-015 as a **global** trial, enrolling patients across regions from the start, which addresses exactly the concern that sank Summit's application: whether results apply to U.S. patients. The lesson for the wave of China-licensed drugs is that *where* you test matters as much as *what* you test.",
+            "Commercially, Merck needs new growth as its blockbuster **Keytruda** approaches patent expiration later this decade. A drug being tested in 18 Phase 3 trials is a big bet on finding several approvals."
+          ],
+          "whatToWatch": [
+            "- Full TroFuse-015 data at an upcoming medical meeting: how many extra months of survival, and at what side-effect cost.\n- Filings with the FDA for the endometrial and gastric indications.\n- Results from sac-TMT's lung and breast cancer trials, which are larger markets."
+          ],
+          "sources": [
+            {
+              "name": "Merck press release",
+              "url": "https://www.merck.com/news/merck-announces-trofuse-015-trial-evaluating-sacituzumab-tirumotecan-sac-tmt-met-primary-endpoint-of-overall-survival-os-in-third-line-or-later-locally-advanced-unresectable-or-metastatic-gastroes/"
+            },
+            {
+              "name": "Targeted Oncology",
+              "url": "https://www.targetedonc.com/view/sacituzumab-tirumotecan-trofuse-015-gastroesophageal-cancer"
+            },
+            {
+              "name": "Endpoints News",
+              "url": "https://endpoints.news/merck-gets-another-phase-3-win-for-sac-tmt-this-time-in-gastric-cancer/"
+            },
+            {
+              "name": "BioPharm International",
+              "url": "https://www.biopharminternational.com/view/merck-sac-tmt-trofuse-015-overall-survival-gastroesophageal-adenocarcinoma"
+            }
+          ]
+        },
+        {
+          "headline": "Regulatory roundup: an FDA delay, pharma pulls back from China's military hospitals, and a new safety watchdog",
+          "tags": [
+            "FDA",
+            "China biotech",
+            "Policy"
+          ],
+          "takeaway": "Smaller stories that show how rules, politics and timelines shape drug development, from a three-month review extension to a congressional push on China.",
+          "whatHappened": [
+            "- **Belite Bio's delay:** the FDA extended its review of **tinlarebant**, an oral pill for **Stargardt disease type 1**, an inherited condition that destroys central vision in young people, by **three months**. The new decision date (**PDUFA date**) is **May 12, 2027**. The company said the extension gives the FDA time to review additional information, and that if no major problems turn up, the agency plans to discuss labeling by April 12. There's no approved treatment for Stargardt.\n- **China trial sites:** **Merck, Eli Lilly, AbbVie, Pfizer and Bristol Myers Squibb** told the House Select Committee on China they won't start new clinical trials at hospitals linked to China's **People's Liberation Army**, STAT reported, and some said they won't open new sites in Xinjiang. The committee had raised concerns about intellectual property, military ties and research ethics.\n- **A new FDA safety council:** the FDA created a **CBER Safety Council** to oversee the safety of vaccines, gene therapies and blood products *after* approval. It reports directly to the head of the agency's biologics center, separating safety reviews from the offices that approve products, Reuters reported.\n- **Moderna and Merck** are preparing to manufacture their personalized mRNA cancer vaccine at commercial scale ahead of an expected FDA filing, Endpoints reported.\n- **Capricor**, whose Duchenne therapy the FDA rejected Friday, rescheduled a shareholder call originally set for today."
+          ],
+          "whyItMatters": [
+            "A **PDUFA extension** usually happens when a company submits significant new data during a review, which the FDA treats as a *major amendment* and which can add three months. It isn't a rejection, and the company's note about labeling talks is a hint the review is proceeding. But for a small biotech, three months of extra waiting means three more months of spending cash without product revenue, which is why these announcements can still hit stocks.",
+            "The China story connects to yesterday's Summit rejection. Trials in China are cheaper and enroll faster, which is why so many companies use them. Now both regulators (questioning China-heavy data) and lawmakers (questioning military-linked sites) are raising the cost of relying on China. Expect more companies to run global trials from the start.",
+            "Separating safety oversight from approval is a classic way to avoid a conflict of interest. Staff who approved a product may be reluctant to find problems with it later. Whether the new council changes outcomes will depend on its staffing and authority."
+          ],
+          "whatToWatch": [
+            "- Treasury's pending rules on U.S. investment in Chinese biotech, which lawmakers are pulling in different directions, per Endpoints.\n- Capricor's rescheduled call for clues about its cash and next steps.\n- Moderna and Merck's filing timeline for the cancer vaccine."
+          ],
+          "sources": [
+            {
+              "name": "Belite Bio press release",
+              "url": "https://www.biospace.com/press-releases/belite-bio-announces-extension-of-fda-review-timeline-for-tinlarebant-nda"
+            },
+            {
+              "name": "STAT: China trial sites",
+              "url": "https://www.statnews.com/pharmalot/2026/11/19/china-pharma-biotech-clinical-trials-security-risk-patents-drug-development/"
+            },
+            {
+              "name": "Reuters: FDA safety council",
+              "url": "https://www.reuters.com/legal/litigation/fda-sets-up-council-post-market-review-vaccines-gene-therapies-2026-11-19/"
+            },
+            {
+              "name": "Endpoints: Moderna",
+              "url": "https://endpoints.news/moderna-readies-commercial-cancer-vaccine-production-ahead-of-fda-filing/"
+            },
+            {
+              "name": "Endpoints: China biotech rules",
+              "url": "https://endpoints.news/more-lawmakers-stake-out-stances-on-china-biotech-investment/"
+            },
+            {
+              "name": "Stock Titan: Capricor",
+              "url": "https://www.stocktitan.net/news/CAPR/capricor-therapeutics-reschedules-conference-call-to-provide-g7k3kelem0ha.html"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "area": "Investing",
+      "title": "Market cap, enterprise value and takeover premiums: what a company really costs",
+      "body": [
+        "When you read that a company is *worth* $26 billion, that's usually its **market capitalization**: share price × shares outstanding. It's the price of owning all the stock. But a buyer who takes over a company gets more than its stock. It inherits the company's **cash** (which it can use) and its **debt** (which it must repay).",
+        "That's why acquirers focus on **enterprise value (EV)**: **EV = market cap + debt − cash**. Think of buying a house: if the house comes with a $50,000 mortgage you must pay off, it really costs you more than the sticker price. If there's $20,000 in a safe inside, it costs you less. Debt adds to the true cost; cash subtracts from it.",
+        "EV also lets you compare companies fairly. Two companies with the same market cap can have very different true costs if one is sitting on cash and the other is buried in debt. Ratios like **EV/sales** or **EV/EBITDA** (EBITDA is a rough measure of operating profit) use EV for exactly this reason. For money-losing biotechs, investors often compare EV to future sales estimates, because there are no profits yet.",
+        "In a takeover, buyers almost always pay a **premium**: a price above where the stock traded before deal news. Shareholders won't sell without one, and the buyer expects to gain more than it pays through cost savings, faster sales growth using its bigger sales force, or simply replacing lost revenue. Premiums of 30%–80% are common in biotech deals. A key wrinkle: when a deal is rumored, as with Insmed, the stock jumps *before* any offer. Analysts then measure the premium from the **undisturbed price**, the price before the rumor, to see what the buyer is truly paying."
+      ],
+      "example": [
+        "Take a hypothetical biotech, BioCo, with 200 million shares at $110: **market cap = $22 billion**. It has $1 billion in cash and $1.5 billion of debt. **EV = $22B + $1.5B − $1B = $22.5 billion**.",
+        "A rumor of a takeover sends BioCo up 17% to about $128.70 (market cap ~$25.7 billion). Then a buyer offers $165 a share, or **$33 billion** for the equity. Measured from the *undisturbed* $110 price, the premium is **50%** ($165 ÷ $110 − 1). Measured from the post-rumor price, it looks like only ~28%. And the buyer's true cost, after assuming the debt and getting the cash, is about **$33.5 billion** ($33B + $1.5B − $1B). If BioCo's main drug is expected to reach $1.4 billion in sales this year, the buyer is paying about **24 times current sales** (33.5 ÷ 1.4), a bet that sales will keep growing for years."
+      ]
+    },
+    {
+      "area": "Biotech",
+      "title": "Antibody-drug conjugates: guided missiles for cancer",
+      "body": [
+        "Traditional chemotherapy kills fast-dividing cells, but it can't tell cancer cells from healthy ones, which is why it causes hair loss, nausea and dangerous drops in blood counts. **Antibody-drug conjugates (ADCs)** try to fix that by delivering a toxic payload only where it's needed. Merck's sac-TMT is one.",
+        "An ADC has three parts:\n- **The antibody:** a protein that recognizes and sticks to a specific target on the surface of cancer cells. For sac-TMT, that target is **TROP2**, which many tumors carry in much higher amounts than normal cells. Other ADCs target HER2, Nectin-4 or other markers.\n- **The payload:** a toxic drug, often far too potent to give as a standalone chemotherapy. Sac-TMT's payload blocks **topoisomerase I**, an enzyme cells need to copy their DNA.\n- **The linker:** a chemical tether that keeps the payload attached while the ADC travels through the bloodstream, then releases it once the ADC is inside (or next to) a cancer cell.",
+        "**Drug-to-antibody ratio (DAR)** is the average number of payload molecules attached to each antibody. A higher DAR delivers more poison per hit but can raise side effects and make the drug clear from the body faster. Getting the linker and DAR right is much of the art.",
+        "ADCs have become one of oncology's hottest areas. AstraZeneca and Daiichi Sankyo's **Enhertu** showed how powerful the approach can be in breast cancer, and pharma companies have spent tens of billions licensing ADCs, many from **Chinese biotechs** like Kelun. The challenges: ADCs still cause side effects (payload can leak, and some healthy tissues carry the target too), they're complex and expensive to manufacture, and tumors can become resistant by reducing the target on their surface."
+      ],
+      "example": [
+        "Imagine an ADC with a **DAR of 8**. If a patient receives a dose containing 1 billion billion (10^18) antibody molecules, that's about 8 × 10^18 payload molecules, all addressed to cells carrying the target. A standalone chemo drug at the same total amount would spread throughout the body.",
+        "Now suppose tumor cells carry **100 times** more TROP2 than most healthy cells. If ADC binding is roughly proportional to the target, tumor cells receive about 100 times more payload. That ratio is the drug's **therapeutic window**: the room between a dose that kills cancer and a dose that harms the patient. ADC designers try to widen that window. Real tumors are messier, since target levels vary from cell to cell, which is one reason ADCs with payloads that can leak into neighboring cancer cells (the *bystander effect*) can work better on uneven tumors."
+      ]
+    }
+  ],
+  "weekAhead": [
+    {
+      "when": "Mon, Nov 23 · 9:45 a.m.",
+      "event": "S&P Global flash PMIs for November; Hewlett Packard Enterprise earnings (after close)",
+      "why": "PMIs survey purchasing managers; readings above 50 mean business is expanding. The composite was 55.9 last month. HPE is a read on AI server demand."
+    },
+    {
+      "when": "Tue, Nov 24",
+      "event": "Best Buy (before open); Dell and Workday (after close); NY Fed's John Williams scheduled to speak",
+      "why": "Reuters calls Dell the next test of AI demand after last week's rout. Williams is one of the Fed's most influential voices on the December decision."
+    },
+    {
+      "when": "Wed, Nov 25 · 8:30 a.m.",
+      "event": "October PCE inflation, Q3 GDP (2nd estimate), durable goods, jobless claims",
+      "why": "The week's main event. A third straight 0.3% rise in core PCE would keep a December hike firmly on track."
+    },
+    {
+      "when": "Wed, Nov 25 · 2 p.m.",
+      "event": "Fed Beige Book",
+      "why": "Anecdotes from businesses in all 12 Fed districts. Watch the language on prices and on how the stock selloff is affecting confidence."
+    },
+    {
+      "when": "Thu, Nov 26",
+      "event": "Thanksgiving: U.S. stock and bond markets closed",
+      "why": ""
+    },
+    {
+      "when": "Fri, Nov 27",
+      "event": "Shortened session (stocks close 1 p.m. ET); Black Friday",
+      "why": "Thin trading can exaggerate moves. Early holiday sales data shapes the consumer story."
+    },
+    {
+      "when": "Dec 8–9",
+      "event": "Fed meeting (FOMC) with new projections",
+      "why": "A quarter-point hike is priced in. Wednesday's PCE could tilt the odds toward a larger move."
+    },
+    {
+      "when": "From Dec 12",
+      "event": "American Society of Hematology (ASH) annual meeting, New Orleans",
+      "why": "The year's biggest meeting for blood cancers and blood disorders, where many cell-therapy and myeloma programs report data."
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Relief rally",
+      "definition": "A sharp rebound after a steep decline, often driven by short covering and bargain hunting. It may or may not mark the bottom."
+    },
+    {
+      "term": "Stock index futures",
+      "definition": "Contracts to buy or sell an index at a future date. They trade almost around the clock and signal how stocks may open."
+    },
+    {
+      "term": "Short selling",
+      "definition": "Borrowing shares and selling them, hoping to buy them back cheaper later. Short sellers profit when prices fall."
+    },
+    {
+      "term": "Short covering",
+      "definition": "Buying back borrowed shares to close a short position. A rush of covering can push prices up quickly."
+    },
+    {
+      "term": "Margin financing",
+      "definition": "Borrowing money from a broker to buy stocks. It magnifies gains and losses."
+    },
+    {
+      "term": "Basis point",
+      "definition": "One hundredth of a percentage point. A yield rising from 4.90% to 4.95% is a 5-basis-point move."
+    },
+    {
+      "term": "Credit rating",
+      "definition": "An agency's grade of how likely a borrower is to repay. Below investment grade is called junk or high yield, and costs more to borrow."
+    },
+    {
+      "term": "Quiet period",
+      "definition": "The weeks after an IPO when analysts at the underwriting banks usually don't publish research on the new stock."
+    },
+    {
+      "term": "Enterprise value (EV)",
+      "definition": "Market cap plus debt minus cash. Roughly what it would cost to buy a whole company."
+    },
+    {
+      "term": "Takeover premium",
+      "definition": "The amount an acquirer pays above a target's pre-deal (undisturbed) stock price."
+    },
+    {
+      "term": "Patent cliff",
+      "definition": "The sharp revenue drop when a blockbuster drug loses patent protection and generics or biosimilars arrive."
+    },
+    {
+      "term": "Biosimilar",
+      "definition": "A near-copy of a biologic drug (like an antibody) approved once the original's exclusivity ends."
+    },
+    {
+      "term": "Preclinical",
+      "definition": "The stage of drug development before human testing, using cells and animals."
+    },
+    {
+      "term": "Somatic expansion",
+      "definition": "The lengthening of a repeated DNA sequence in a person's cells over their lifetime, which appears to drive Huntington's disease."
+    },
+    {
+      "term": "Antibody-drug conjugate (ADC)",
+      "definition": "An antibody linked to a toxic payload, designed to deliver chemotherapy directly to cells carrying a target."
+    },
+    {
+      "term": "TROP2",
+      "definition": "A protein found at high levels on many tumor cells and the target of several ADCs, including sac-TMT."
+    },
+    {
+      "term": "Drug-to-antibody ratio (DAR)",
+      "definition": "The average number of payload molecules attached to each antibody in an ADC."
+    },
+    {
+      "term": "Therapeutic window",
+      "definition": "The range between a dose that works and a dose that causes unacceptable harm."
+    },
+    {
+      "term": "PDUFA date",
+      "definition": "The FDA's target date to decide on a drug application. It can be extended, typically by three months, after a major amendment."
+    },
+    {
+      "term": "OS / PFS",
+      "definition": "Overall survival (how long patients live) vs. progression-free survival (how long until the disease worsens)."
+    }
+  ],
+  "quiz": [
+    {
+      "topic": "Relief rallies",
+      "question": "U.S. stock futures jumped 2%–3.5% Monday. Why should a reader be cautious about calling this the bottom?",
+      "choices": [
+        "Futures can't predict how the regular session will open",
+        "The issues behind the selloff (AI profit doubts, Nvidia's leadership, likely Fed hikes) haven't changed, and sharp bounces often happen inside longer declines",
+        "Stocks never rise on Mondays",
+        "The S&P 500 can't rise until it has fallen 20%"
+      ],
+      "answer": 1,
+      "explanation": "Relief rallies are common and can be powerful, partly from short covering. During the dot-com bust the Nasdaq had several 20%+ rallies on the way down. What matters is whether the underlying worries ease, not the size of one day's bounce."
+    },
+    {
+      "topic": "Asia's response",
+      "question": "Taiwan tightened short-selling rules and China eased margin-financing requirements. How are these meant to support stock prices?",
+      "choices": [
+        "They lower interest rates for all borrowers",
+        "They force companies to buy back their own shares",
+        "They guarantee investors against losses",
+        "They remove some sellers betting on declines and make it easier for investors to borrow money to buy"
+      ],
+      "answer": 3,
+      "explanation": "Short sellers profit from falling prices, so limiting them reduces selling pressure. Margin financing lets investors borrow to buy, adding demand. These steps can calm a panic but don't change company profits."
+    },
+    {
+      "topic": "Bonds",
+      "question": "On Monday the 10-year Treasury yield rose about 4.6 basis points to ~4.95% as stocks rallied. What does that suggest?",
+      "choices": [
+        "Investors were selling some of the safe-haven Treasuries they bought Friday as fear eased",
+        "The Fed raised rates over the weekend",
+        "Bond prices rose sharply",
+        "The U.S. government stopped issuing bonds"
+      ],
+      "answer": 0,
+      "explanation": "Yields and prices move in opposite directions. When investors sell Treasuries, prices fall and yields rise. Friday's flight to safety partly reversed as risk appetite returned."
+    },
+    {
+      "topic": "Nvidia",
+      "question": "Nvidia jumped ~9% premarket after President Trump urged its board to rehire Jensen Huang. Which statement is most accurate?",
+      "choices": [
+        "Trump has the legal authority to reinstate Nvidia's CEO",
+        "Huang has already returned as CEO",
+        "The board decides who runs the company, and the SEC and California probes are still open, so the move reflects hope rather than a resolved situation",
+        "The SEC closed its investigation after Trump's post"
+      ],
+      "answer": 2,
+      "explanation": "Only Nvidia's board can hire a CEO. Trump's statement eased the national-security cloud over Huang's exit, which reduced perceived key-person risk, but none of the legal or governance issues has been resolved."
+    },
+    {
+      "topic": "Inflation math",
+      "question": "Some forecasters expect core PCE to rise 0.3% in October for a third straight month. Roughly what annual rate does 0.3% a month imply?",
+      "choices": [
+        "About 0.3%",
+        "About 1.2%",
+        "About 3.6%",
+        "About 30%"
+      ],
+      "answer": 2,
+      "explanation": "Twelve months of 0.3% compounds to roughly 3.7% (1.003^12 ≈ 1.037), or about 3.6% by simple multiplication. Either way, it's far above the Fed's 2% target, which is why markets expect a December hike."
+    },
+    {
+      "topic": "Anthropic and credit",
+      "question": "Wall Street expects Anthropic's debt to be rated junk. Why does that matter for a company with huge spending plans?",
+      "choices": [
+        "Junk-rated companies can't sell shares",
+        "Lower-rated borrowers pay higher interest rates, making it more expensive to fund big projects with debt",
+        "A junk rating means the company is bankrupt",
+        "Credit ratings only matter for government bonds"
+      ],
+      "answer": 1,
+      "explanation": "A credit rating measures the risk a borrower won't repay. Below investment grade, lenders demand higher interest. With roughly $900 billion in computing commitments reported by the Journal, borrowing costs directly affect how fast the company can build."
+    },
+    {
+      "topic": "Enterprise value",
+      "question": "A company has a $22 billion market cap, $1.5 billion of debt and $1 billion of cash. What is its enterprise value?",
+      "choices": [
+        "$21.5 billion",
+        "$22 billion",
+        "$22.5 billion",
+        "$24.5 billion"
+      ],
+      "answer": 2,
+      "explanation": "EV = market cap + debt − cash = $22B + $1.5B − $1B = $22.5B. A buyer must take on the debt but gets to use the cash, so EV is a better measure of what the whole company costs."
+    },
+    {
+      "topic": "Sanofi and Insmed",
+      "question": "Why is Sanofi interested in buying Insmed, even though Insmed lost about $100 million last quarter?",
+      "choices": [
+        "Sanofi needs new growth before its top drug, Dupixent, faces biosimilar competition, and Insmed's Brinsupri is a fast-growing launch",
+        "Insmed's losses would lower Sanofi's taxes",
+        "Regulators require Sanofi to buy a respiratory company",
+        "Insmed is the only company that makes antibodies"
+      ],
+      "answer": 0,
+      "explanation": "Buyers pay for future cash flows. Brinsupri is on track for $1.35–$1.4 billion in its first full year, and Sanofi faces a patent cliff on Dupixent in the early 2030s. Buying growth is faster than developing it."
+    },
+    {
+      "topic": "Lilly's deal",
+      "question": "Lilly agreed to buy LoQus23 for 'up to $725 million.' Why is the 'up to' structure especially common for a deal like this one?",
+      "choices": [
+        "Because Huntington's disease is common",
+        "Because UK law caps biotech acquisition prices",
+        "Because Lilly is short on cash",
+        "Because LoQus23's drug is still preclinical, so most of the payment is tied to milestones that will be paid only if it succeeds"
+      ],
+      "answer": 3,
+      "explanation": "LQT-23 hasn't been tested in humans yet, and most preclinical drugs never reach approval. Milestones let Lilly pay a smaller amount upfront and the rest only if the drug clears key hurdles."
+    },
+    {
+      "topic": "ADCs and endpoints",
+      "question": "Merck's sac-TMT is an antibody-drug conjugate that improved overall survival in a global Phase 3 trial. How does an ADC work, and why did running the trial globally matter?",
+      "choices": [
+        "An antibody carries a toxic payload to cells with a target like TROP2; global enrollment addresses the FDA's concern, seen with Summit, that China-heavy data may not apply to U.S. patients",
+        "It edits tumor DNA; global trials are cheaper",
+        "It trains the immune system like a vaccine; global trials avoid the FDA",
+        "It starves tumors of blood; global trials only measure PFS"
+      ],
+      "answer": 0,
+      "explanation": "ADCs pair an antibody that finds cancer cells with a potent payload, released by a linker inside or near the cell. Sac-TMT came from China's Kelun-Biotech, but Merck tested it globally, avoiding the data-applicability problem that sank Summit's ivonescimab."
+    }
+  ],
+  "footer": "Monday edition. Market figures are premarket as of about 8 a.m. ET and will change once trading opens."
+}

@@ -15,9 +15,9 @@
       { "name": "S&P 500", "value": "6,910", "change": "−3.70% Fri", "direction": "down", "note": "−8.6% on the week; 7 straight losing days; now in a correction" },
       { "name": "Nasdaq Composite", "value": "22,618", "change": "−5.28% Fri", "direction": "down", "note": "≈−10% on the week; negative for 2026" },
       { "name": "Dow Jones", "value": "48,147", "change": "−1.93% Fri", "direction": "down", "note": "−8% on the week; worst since March 2020" },
-      { "name": "VIX (fear gauge)", "value": "~29–30", "change": "Highest since Apr 2025", "direction": "flat", "note": "Was ~16 at the start of October" },
+      { "name": "VIX (fear gauge)", "value": "35.89", "change": "Highest close since Apr 2025", "direction": "flat", "note": "Was ~16 at the start of October and ~23 on Monday" },
       { "name": "10-yr Treasury", "value": "~4.9%", "change": "Yield fell Fri", "direction": "flat", "note": "Down from above 5% earlier in the week as investors sought safety" },
-      { "name": "Gold", "value": "~$3,880/oz", "change": "Down sharply on week", "direction": "down", "note": "Fell from ~$4,150 in four sessions; record was ~$5,590 in January" },
+      { "name": "Gold", "value": "~$3,515/oz", "change": "−4.6% Fri", "direction": "down", "note": "A 14-month low; the record was ~$5,590 in January" },
       { "name": "Brent crude", "value": "~$92/bbl", "change": "3rd weekly loss", "direction": "down", "note": "More Middle East supply outweighed shipping risks" },
       { "name": "Bitcoin", "value": "< $60,000", "change": "Down on week", "direction": "down", "note": "Dragged Coinbase, Robinhood and Strategy down 6–10% Friday" }
     ],
@@ -437,5 +437,5 @@
       "explanation": "Headline deal values usually add an upfront payment to contingent milestones ('biobucks'). The upfront cash is the best gauge of what the buyer is sure it's getting."
     }
   ],
-  "footer": "First edition: a week-in-review covering Nov. 16–22, 2026."
+  "footer": "First edition: a week-in-review covering Nov. 16–22, 2026. Correction (Nov. 23): the market board originally listed the VIX near 29–30 and gold near $3,880. Friday's closes were 35.89 and about $3,515."
 }
