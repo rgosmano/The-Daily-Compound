@@ -19,7 +19,7 @@ The reader is a smart college student building real fluency in **finance news, i
    - **Market pulse data:** previous close for the S&P 500, Nasdaq, Dow, VIX, 10-year Treasury yield, gold, Brent or WTI, and bitcoin. Mark estimates with `~` and say "as of" when.
 4. **Write** `content/<date>.json` following the schema below. Aim for **4,500–6,000 words** total (≈30 min).
 5. **Build:** run `node scripts/build.js` from the project folder. Fix every error it reports and re-run until it prints ✓. Address any word-count warnings.
-6. **Publish:** run `powershell -NoProfile -ExecutionPolicy Bypass -File scripts\publish.ps1`. It rebuilds, commits `content/` and pushes to GitHub, and the public site updates within about a minute. If it says there's no GitHub remote yet, that's fine: the edition is built locally.
+6. **Publish:** run `powershell -NoProfile -ExecutionPolicy Bypass -File scripts\publish.ps1`. It rebuilds, commits `content/` and pushes to GitHub, and the public site updates within about a minute. It then waits for the page to go live and emails the edition to Buttondown subscribers (once per day, automatically skipped if already sent). Never read, print or copy the Buttondown key. If it says there's no GitHub remote yet, that's fine: the edition is built locally.
 7. **Done.** Don't touch `site/`, `scripts/`, `site.config.json` or past editions. The 7:00 AM reminder is separate and already set up.
 
 This brief is **public**. Readers are anyone curious about finance and biotech, so write for them, not for one person.

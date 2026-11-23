@@ -1,4 +1,4 @@
-# Publishes new editions: builds locally (to catch errors), then commits content/ and pushes to GitHub.
+﻿# Publishes new editions: builds locally (to catch errors), then commits content/ and pushes to GitHub.
 # GitHub Actions rebuilds and deploys the site within about a minute of the push.
 # Usage: powershell -File scripts\publish.ps1
 $ErrorActionPreference = 'Stop'
@@ -11,7 +11,8 @@ if ($LASTEXITCODE -ne 0) { throw 'Build failed; nothing was published. Fix the e
 if (-not (git remote 2>$null)) { Write-Output 'No GitHub remote set up yet; the edition was built locally only.'; return }
 
 git add content/ site/ scripts/ docs/ site.config.json README.md .github/ .gitignore
-if (-not (git diff --cached --name-only)) { Write-Output 'Nothing new to publish.'; return }
+$nothingNew = -not (git diff --cached --name-only)
+if ($nothingNew) { Write-Output 'Nothing new to publish to the site.' } else {
 
 # Refuse to publish anything that looks like a secret
 $staged = git diff --cached --name-only
@@ -21,4 +22,10 @@ if ($hits) { git reset -q; throw ('Possible secret found, publishing stopped: ' 
 $today = Get-Date -Format 'yyyy-MM-dd'
 git commit -q -m "Edition $today"
 git push -q origin HEAD:main
+if ($LASTEXITCODE -ne 0) { throw 'Push to GitHub failed; the site and email were not updated.' }
 Write-Output "Published. The site updates in about a minute."
+}
+
+# Email today's edition to subscribers (skips quietly if no Buttondown key is saved, or if already sent)
+$edition = Join-Path $root ("content\" + (Get-Date -Format 'yyyy-MM-dd') + '.json')
+if (Test-Path $edition) { powershell -NoProfile -ExecutionPolicy Bypass -File (Join-Path $PSScriptRoot 'send-email.ps1') }
