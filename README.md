@@ -1,4 +1,4 @@
-# Market Brief
+# The Daily Compound
 
 A free daily briefing on markets, investing and biotech: about 30 minutes of reading, every story explained, and a quiz at the end.
 

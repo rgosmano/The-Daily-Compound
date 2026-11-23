@@ -1,4 +1,4 @@
-﻿# Shows the morning "time to read your Market Brief" Windows notification.
+﻿# Shows the morning "time to read The Daily Compound" Windows notification.
 # Clicking it (or "Open the brief") opens index.html in your default browser.
 param([switch]$OpenNow)
 
@@ -13,10 +13,10 @@ $ready = Test-Path (Join-Path $root "content\$today.json")
 if ($OpenNow) { Start-Process $uri; return }
 
 if ($ready) {
-  $title = 'Your Market Brief is ready'
+  $title = 'The Daily Compound is ready'
   $body  = "Today's ~30-minute read on markets, investing and biotech, plus your quiz."
 } else {
-  $title = 'Time for your Market Brief'
+  $title = 'Time for The Daily Compound'
   $body  = "Today's edition is still being written (Claude needs to be open). Start with the latest one."
 }
 

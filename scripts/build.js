@@ -13,7 +13,7 @@ const contentDir = path.join(root, 'content');
 const siteDir = path.join(root, 'site');
 const out = path.join(root, 'public');
 const config = Object.assign(
-  { name: 'Market Brief', tagline: '', description: '', url: '', buttondown: '', contact: '' },
+  { name: 'The Daily Compound', tagline: '', description: '', url: '', buttondown: '', contact: '' },
   JSON.parse(fs.readFileSync(path.join(root, 'site.config.json'), 'utf8'))
 );
 const baseUrl = (config.url || '').replace(/\/$/, '');

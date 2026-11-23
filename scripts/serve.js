@@ -30,4 +30,4 @@ http.createServer((req, res) => {
     res.writeHead(200, { ...headers, 'Content-Type': types[path.extname(target)] + (/^(text|application)\//.test(types[path.extname(target)]) ? '; charset=utf-8' : '') });
     res.end(req.method === 'HEAD' ? undefined : buf);
   });
-}).listen(process.env.PORT || 8787, '127.0.0.1', () => console.log('Market Brief at http://localhost:' + (process.env.PORT || 8787)));
+}).listen(process.env.PORT || 8787, '127.0.0.1', () => console.log('The Daily Compound at http://localhost:' + (process.env.PORT || 8787)));

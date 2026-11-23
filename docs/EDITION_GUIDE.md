@@ -1,4 +1,4 @@
-# Market Brief: how to write a daily edition
+# The Daily Compound: how to write a daily edition
 
 This is the rulebook for the scheduled task that writes each morning's edition. Follow it exactly.
 

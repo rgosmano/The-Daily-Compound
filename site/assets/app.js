@@ -1,11 +1,11 @@
-/* Market Brief — renders a daily edition, tracks reading, runs the quiz.
+/* The Daily Compound — renders a daily edition, tracks reading, runs the quiz.
    Works straight from file:// (editions are plain <script> files). */
 (function () {
   'use strict';
 
   var manifest = (window.MB_MANIFEST || []).slice().sort(function (a, b) { return b.date.localeCompare(a.date); });
   window.MB_EDITIONS = window.MB_EDITIONS || {};
-  var SITE = window.MB_SITE || { name: 'Market Brief' };
+  var SITE = window.MB_SITE || { name: 'The Daily Compound' };
   var ROOT = document.documentElement.getAttribute('data-root') || '';
   var PAGE_DATE = document.documentElement.getAttribute('data-date') || '';
   var IS_FILE = location.protocol === 'file:';
