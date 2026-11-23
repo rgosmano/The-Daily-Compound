@@ -1,0 +1,16 @@
+# Generated site (GitHub Actions rebuilds it on every push)
+public/
+
+# Local tool settings and secrets: never commit
+.claude/
+.env
+.env.*
+*.pem
+*.key
+node_modules/
+*.log
+Thumbs.db
+desktop.ini
+
+# Private notes (launch plan, drafts)
+private/

@@ -1,0 +1,441 @@
+{
+  "date": "2026-11-22",
+  "title": "The week the AI trade broke",
+  "dek": "Stocks fell into a correction, the biggest IPO ever couldn't stop the slide, the Fed started talking about rate hikes, and the FDA turned down two closely watched drugs.",
+  "readingMinutes": 30,
+  "bigPicture": [
+    "This was one of the most consequential weeks for markets in years, and almost all of it traces back to a single question: **has the artificial-intelligence boom gotten ahead of itself?** For most of 2026, the answer from investors was a confident no. Chipmakers, cloud companies and anything tied to AI carried the stock market to records. Then, starting in October, doubts crept in, and this week they took over.",
+    "Three things collided. First, **Nvidia**, the company whose chips power most AI systems, was already in crisis after its CEO resigned, and its stock kept falling even after strong earnings. Second, **Anthropic**, the maker of the Claude AI models, went public in the largest IPO in history. Many investors hoped it would be a vote of confidence that revived the AI trade. It wasn't. Third, the **Federal Reserve** made clear that inflation is its main worry and that it will probably *raise* interest rates in December. Higher rates make future profits, the kind AI companies promise, worth less today.",
+    "The result: the S&P 500 and the Dow both fell more than 10% from their records, the official threshold for a **correction**. The Nasdaq, packed with tech stocks, erased its entire gain for the year. Fear spread to bitcoin, gold and oil, which all fell together, while investors piled into U.S. government bonds.",
+    "Biotech had its own drama. The FDA rejected a Duchenne muscular dystrophy therapy from **Capricor** over problems with how its key trial was run, and rejected **Summit Therapeutics'** much-hyped lung cancer drug **ivonescimab**. It also approved a wave of new medicines, and dealmaking kept going. As you read, notice a theme across both worlds: **evidence matters more than excitement.** Markets punished AI stories that couldn't show near-term profits, and the FDA punished drug stories that couldn't show clean data."
+  ],
+  "marketPulse": {
+    "asOf": "Closing levels from Friday, Nov. 20. Weekly changes in the notes. Approximate figures are marked with ~.",
+    "items": [
+      { "name": "S&P 500", "value": "6,910", "change": "−3.70% Fri", "direction": "down", "note": "−8.6% on the week; 7 straight losing days; now in a correction" },
+      { "name": "Nasdaq Composite", "value": "22,618", "change": "−5.28% Fri", "direction": "down", "note": "≈−10% on the week; negative for 2026" },
+      { "name": "Dow Jones", "value": "48,147", "change": "−1.93% Fri", "direction": "down", "note": "−8% on the week; worst since March 2020" },
+      { "name": "VIX (fear gauge)", "value": "~29–30", "change": "Highest since Apr 2025", "direction": "flat", "note": "Was ~16 at the start of October" },
+      { "name": "10-yr Treasury", "value": "~4.9%", "change": "Yield fell Fri", "direction": "flat", "note": "Down from above 5% earlier in the week as investors sought safety" },
+      { "name": "Gold", "value": "~$3,880/oz", "change": "Down sharply on week", "direction": "down", "note": "Fell from ~$4,150 in four sessions; record was ~$5,590 in January" },
+      { "name": "Brent crude", "value": "~$92/bbl", "change": "3rd weekly loss", "direction": "down", "note": "More Middle East supply outweighed shipping risks" },
+      { "name": "Bitcoin", "value": "< $60,000", "change": "Down on week", "direction": "down", "note": "Dragged Coinbase, Robinhood and Strategy down 6–10% Friday" }
+    ],
+    "summary": [
+      "**How to read this board:** when stocks, bitcoin and gold all drop together while Treasury yields *fall*, investors are selling almost everything risky and parking money in the safest asset there is, U.S. government debt. Falling yields mean bond prices are rising, because buyers bid them up. That pattern is called a **flight to safety**.",
+      "**Sunday night update:** stock futures bounced, with S&P 500 futures up roughly 1–2% and Nasdaq-100 futures up even more, as traders bet the selling had gone too far. Bounces like this are common after brutal weeks. Whether this one holds will depend on Wednesday's inflation data (see *What's coming*)."
+    ]
+  },
+  "sections": [
+    {
+      "id": "markets",
+      "title": "Markets & the economy",
+      "kicker": "Four stories that explain the selloff, plus quick hits.",
+      "stories": [
+        {
+          "headline": "The AI trade cracks: the S&P 500 and the Dow fall into a correction",
+          "tags": ["Stocks", "AI", "Market structure"],
+          "takeaway": "A seven-day losing streak pushed the major indexes more than 10% below their records, as investors stopped paying up for AI growth they can't see in near-term profits.",
+          "whatHappened": [
+            "Friday capped the worst week for U.S. stocks since the early days of the pandemic. The **S&P 500 fell 3.7%** in a single day to 6,910, its seventh straight loss and longest losing streak since 2020. The **Nasdaq Composite dropped 5.3%** to 22,618, wiping out everything it had gained in 2026. The **Dow fell about 950 points (1.9%)** to 48,147. For the week, the S&P lost 8.6%, the Dow 8% and the Nasdaq about 10%.",
+            "Both the S&P 500 and the Dow ended more than 10% below their record closes, the line Wall Street uses to define a **correction**. The selling was concentrated in exactly the stocks that had led the rally. Barron's reported that the S&P 500's technology sector crossed into **bear-market territory** (down 20% or more). The Philadelphia semiconductor index, which was up more than 100% for the year in mid-June, saw its gain shrink to about 19%. The Wall Street Journal tallied roughly **$4 trillion in AI-linked market value** erased.",
+            "The damage spread beyond chips. Cloud-computing giants (Amazon −3.9%, Meta −5.9% on Friday) and so-called *neoclouds* that rent out AI computing power (CoreWeave −12%, Nebius −16%) fell hard. Even Caterpillar dropped 5% on worries that demand will slow for the generators and backup power gear that AI data centers need."
+          ],
+          "whyItMatters": [
+            "For two years the market's story has been that AI spending would turn into enormous profits. Companies have committed hundreds of billions of dollars to data centers. Investors are now asking *when* those profits arrive, and whether the spending can continue if they arrive slowly. When the stocks that drove most of the gains reverse, indexes fall fast, because those stocks are now a huge share of the market.",
+            "That last point is about **concentration**. The S&P 500 and Nasdaq are weighted by company size, so a handful of trillion-dollar tech firms move the whole index. That's why the tech-heavy Nasdaq fell 5.3% Friday while the Dow, which holds only 30 stocks and fewer AI names, fell 1.9%. If you own an S&P 500 index fund, you own a big bet on AI whether you meant to or not.",
+            "One strategist quoted by Reuters summed up the mood: on days like Friday, **sentiment beats fundamentals**. Prices moved on fear even though many of the companies' businesses look fine."
+          ],
+          "bigPicture": [
+            "Corrections are normal. Historically they arrive roughly every year or two and most don't turn into bear markets. What makes this one notable is its speed, and how much it resembles the 2000 dot-com bust, a parallel the Journal's chief markets columnist explored this weekend. Back then, the internet turned out to be every bit as important as promised, but many of the stocks priced for it still fell 80% or more. A technology can be real and its stocks can still be overpriced."
+          ],
+          "whatToWatch": [
+            "- Whether Sunday night's futures bounce turns into a real rebound, or fades the way rallies have since October.\n- The VIX: readings near 30 signal stress; a drop back toward 20 would suggest calm returning.\n- Wednesday's PCE inflation report, which could either soothe or sharpen fears of Fed rate hikes."
+          ],
+          "sources": [
+            { "name": "Reuters", "url": "https://www.reuters.com/legal/transactional/wall-st-futures-slip-anthropic-debut-fails-reassure-ai-investors-2026-11-20/" },
+            { "name": "WSJ live coverage", "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-20-2026" },
+            { "name": "CNBC", "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html" },
+            { "name": "Barron's", "url": "https://www.barrons.com/livecoverage/stock-market-news-today-112026" },
+            { "name": "WSJ: Has the AI bubble already burst?", "url": "https://www.wsj.com/finance/stocks/has-the-ai-bubble-already-burst-2f1dcca8" }
+          ]
+        },
+        {
+          "headline": "Anthropic's record IPO: a blockbuster debut that couldn't stop the slide",
+          "tags": ["IPOs", "AI"],
+          "disclosure": "**Disclosure:** this brief is written by Claude, which is made by Anthropic. Everything below comes from the outside reporting linked at the end, and both bullish and skeptical views are included. Read it with that conflict of interest in mind.",
+          "takeaway": "Anthropic raised about $81 billion, the most for any IPO ever, and briefly hit a $2 trillion valuation, but its shares gave back most of their gains within two days as the AI selloff deepened.",
+          "whatHappened": [
+            "Anthropic priced its initial public offering on Wednesday at **$83 a share**, above the $70–$78 range it had pitched to investors during its roadshow. That's a sign of strong demand. It sold about **980 million shares**, raising roughly **$81.3 billion** and topping SpaceX's $75 billion June listing as the largest IPO in history.",
+            "Trading opened Thursday on the Nasdaq under the ticker **ANT** at **$111.50**, about 34% above the offer price. That briefly valued the company near **$2 trillion**, making it one of the world's most valuable companies at its very first trade. The enthusiasm faded through the day, and the stock closed at **$97.17**, still up 17% from the IPO price, for a fully diluted value of about $1.76 trillion.",
+            "On Friday, the selloff caught up with it. Shares fell about 9% to roughly $88, after trading as low as $83.05, just 5 cents above the IPO price."
+          ],
+          "whyItMatters": [
+            "Many investors treated the IPO as a test of whether the public market still believed in AI. A huge, successful debut might have reassured everyone. Instead, as one money manager told Reuters, people looked to it as a **clearing event, and it wasn't one**. The broader market fell on both days Anthropic traded.",
+            "It's also a lesson in how IPO pricing works. The **offer price** ($83) is what the company and its bankers set for the big investors who get shares *before* trading begins. Everyone else buys on the open market. When a stock opens far above its offer price (a **pop**), the early allocations get an instant paper gain, and day-one buyers often pay the highest price the stock will see for a while. Buyers at Thursday's $111.50 open were down about 20% by Friday afternoon.",
+            "Valuation views are all over the map, which tells you how uncertain this is. NYU professor Aswath Damodaran, one of the best-known valuation experts, estimated about **$77 a share**, below the IPO price. Analyst price targets cited by Yahoo Finance ranged from $125 to $155. A Journal analysis noted the company's complex structure makes even the headline market value confusing: $1.5 trillion, $1.76 trillion and $2 trillion all floated around this week."
+          ],
+          "bigPicture": [
+            "Anthropic is the first frontier AI lab to trade publicly, so its stock is now a real-time referendum on the economics of building advanced AI. The Journal reported the company has committed to spend roughly **$900 billion** on computing and infrastructure over time, and that Wall Street expects its debt to be rated **junk** (below investment grade), which would make borrowing more expensive. The core tension: very fast revenue growth, against spending commitments that dwarf current revenue."
+          ],
+          "whatToWatch": [
+            "- How ANT trades as the market steadies. Newly public stocks are often volatile for months.\n- Its first earnings report as a public company, the first audited look at revenue and spending.\n- Credit ratings on its debt, which affect how cheaply it can fund those spending plans."
+          ],
+          "sources": [
+            { "name": "Reuters", "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/" },
+            { "name": "CNN", "url": "https://www.cnn.com/2026/11/19/business/live-news/anthropic-ipo" },
+            { "name": "Yahoo Finance", "url": "https://finance.yahoo.com/technology/live/anthropic-ipo-live-anthropic-stock-drops-after-first-day-of-trading-143300513.html" },
+            { "name": "CBS News", "url": "https://www.cbsnews.com/news/anthropic-ipo-nasdaq-debut-claude-ai/" },
+            { "name": "WSJ: Anthropic's debt", "url": "https://www.wsj.com/finance/investing/anthropic-committed-to-spend-900-billion-wall-street-expects-its-debt-to-be-junk-5514d55d" }
+          ]
+        },
+        {
+          "headline": "Nvidia's worst week since 2008: a leadership crisis meets a market that stopped rewarding good news",
+          "tags": ["Stocks", "Semiconductors", "Corporate governance"],
+          "takeaway": "Nvidia fell about 23% this week, including 14% on Friday, as a CEO scandal, regulatory probes and AI-spending doubts overwhelmed a quarter that analysts called excellent.",
+          "whatHappened": [
+            "The trouble started on **Nov. 12**, when **Jensen Huang**, Nvidia's co-founder and CEO of more than three decades, resigned after reports of extramarital affairs, including one with a woman U.S. intelligence officials reportedly believed was linked to Chinese intelligence (Beijing denies it). CFO **Colette Kress** became interim CEO, and the company named its first independent board chair. The board had earlier opened its own investigation.",
+            "Since then, the **SEC** opened a civil probe into whether Nvidia properly disclosed information to investors, and **California's attorney general** issued a subpoena on a similar question. Then Nvidia reported quarterly results that, by most accounts, were very strong. One investment chief told Reuters it may have been *one of the greatest quarters in corporate earnings history*. The stock fell anyway: down **13.8% on Friday** and roughly **23% for the week**, its worst week since the 2008 financial crisis, per the Journal."
+          ],
+          "whyItMatters": [
+            "When a company beats expectations and its stock still drops, it usually means the good news was already **priced in**. Investors had expected greatness, so greatness wasn't enough. What changed was the *risk* picture: a leadership vacuum at the most important company in AI, legal exposure, and growing doubts about whether customers can keep buying chips at this pace.",
+            "That last worry has a concrete angle. The Journal reported that a Wall Street plan to raise as much as **$500 billion** to help Nvidia's customers finance chip purchases hasn't actually deployed any money yet. If buyers rely on borrowed money to keep ordering, and that financing dries up, future sales could slow. Analysts call this **circular** or vendor-style financing risk.",
+            "Nvidia is also one of the largest companies in every major index, so its drop alone pulled the S&P 500 and Nasdaq down meaningfully. A **key-person risk** (dependence on one leader) just became a market-wide risk."
+          ],
+          "bigPicture": [
+            "Huang wasn't just a CEO. He was the public face of the AI boom and a key voice in Washington on chip export policy toward China. His exit raises questions about Nvidia's strategy, its relationships with governments, and who can replace him. The Financial Times reported he was even considering a return, another sign of how unsettled things are."
+          ],
+          "whatToWatch": [
+            "- The permanent CEO pick (insiders vs. an outside hire) and any details from the SEC or California probes.\n- Signals from big chip buyers (Microsoft, Meta, Amazon, Alphabet) about 2027 spending plans.\n- Whether chip stocks stabilize: the semiconductor index is the market's AI barometer."
+          ],
+          "sources": [
+            { "name": "Reuters: Huang resigns", "url": "https://www.reuters.com/live/nvidia-live-board-meets-fate-ceo-jensen-huang-after-affair-reports-2026-11-12/" },
+            { "name": "WSJ: SEC probe", "url": "https://www.wsj.com/business/sec-is-probing-nvidia-amid-departure-of-ceo-jensen-huang-ee7643f8" },
+            { "name": "WSJ: $500B pledge", "url": "https://www.wsj.com/finance/wall-street-pledged-to-mobilize-500-billion-for-nvidiabut-hasnt-put-up-a-dime-1e41f276" },
+            { "name": "WSJ: California subpoena", "url": "https://www.wsj.com/tech/california-attorney-general-issues-investigative-subpoena-to-nvidia-097cea9e" },
+            { "name": "Reuters market wrap", "url": "https://www.reuters.com/legal/transactional/wall-st-futures-slip-anthropic-debut-fails-reassure-ai-investors-2026-11-20/" }
+          ]
+        },
+        {
+          "headline": "The Fed is now talking about raising rates, not cutting them",
+          "tags": ["Federal Reserve", "Inflation", "Bonds"],
+          "takeaway": "Minutes from the Fed's October meeting and comments from several officials show the central bank is worried inflation is spreading, and markets now see a December rate hike as nearly certain.",
+          "whatHappened": [
+            "The Federal Reserve held its benchmark rate at **3.75%–4.00%** at its Oct. 28 meeting, but the vote was split 10–2. Governor **Lisa Cook** and Cleveland Fed President **Beth Hammack** wanted to raise rates right away. The meeting minutes, released Wednesday, said *almost all* officials think further hikes will likely be appropriate if the economy evolves as expected. A couple of officials floated a larger **half-point** (0.50 percentage point) hike.",
+            "Other officials piled on during the week. St. Louis Fed President Alberto Musalem said several hikes are likely needed before spring 2027. Governor Christopher Waller laid out the case for a bigger move. On Friday, Cook said current rates aren't doing enough to lean against inflation that is *spreading to more parts of the economy*. Futures markets now price a near-certain **quarter-point hike at the Dec. 8–9 meeting**.",
+            "The latest data back them up. October consumer prices rose **0.4%** in a single month (0.3% excluding food and energy), which annualizes to well above the Fed's 2% target."
+          ],
+          "whyItMatters": [
+            "Interest rates are the gravity of financial markets. When rates rise, borrowing costs more for companies and consumers, and future profits are worth less in today's dollars. That hurts high-growth stocks the most, because their value depends on profits expected years from now. That's exactly the AI-heavy group that sold off. Rising-rate fears and AI doubts reinforced each other this week.",
+            "Notice the twist in the bond market. All week, Treasury yields had been rising on the Fed news: the 10-year traded above 5%, its highest in a long time. Then on Friday, panic in stocks sent investors rushing *into* Treasuries, pushing the 10-year yield back toward 4.9%. Two forces pull bonds in opposite directions. Inflation pushes yields up, and fear pulls them down."
+          ],
+          "bigPicture": [
+            "A year ago, the debate was how fast the Fed would cut. Now it's how much it will hike. The shift matters for everything from mortgage rates to the value of the dollar. The WSJ Dollar Index hit a 52-week high this week, partly because higher U.S. rates attract foreign money. It's also why the Journal's markets columnist argued this week that buying **inflation protection** (like TIPS, Treasury bonds whose principal rises with inflation) looks sensible right now."
+          ],
+          "whatToWatch": [
+            "- **Wednesday, 8:30 a.m. ET:** the October PCE price index, the Fed's preferred inflation measure. A hot reading raises the odds of a half-point hike.\n- The Fed's next meeting, Dec. 8–9, with new economic projections.\n- November CPI on Dec. 10, the day after the decision."
+          ],
+          "sources": [
+            { "name": "Reuters: Fed minutes", "url": "https://www.reuters.com/business/fed-policymakers-focused-inflation-risks-october-with-some-seeing-need-bigger-2026-11-18/" },
+            { "name": "Federal Reserve minutes", "url": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20261028.htm" },
+            { "name": "WSJ: Lisa Cook", "url": "https://www.wsj.com/economy/central-banking/lisa-cook-federal-reserve-comments-inflation-44eb3f41" },
+            { "name": "WSJ: Inflation protection", "url": "https://www.wsj.com/finance/investing/grabbing-inflation-protection-now-is-a-no-brainer-45a6364e" }
+          ]
+        },
+        {
+          "headline": "Quick hits from around the market",
+          "tags": ["Earnings", "Banks", "Commodities"],
+          "takeaway": "A software giant's guidance cut, a bank's bookkeeping blunder, a payments data leak, and why oil can't catch a bid.",
+          "whatHappened": [
+            "- **Intuit fell 12.8%** after cutting its annual revenue-growth forecast and agreeing to sell email-marketing unit Mailchimp to Bending Spoons for about **$3.68 billion**. When a company lowers its *guidance* (its own forecast), the market often punishes it more than for a missed quarter, because guidance shapes every analyst's model.\n- **Citigroup** disclosed it undercounted about **$35 billion** of *risk-weighted assets* at a U.K. subsidiary. Banks must hold capital in proportion to those assets, so the error matters to regulators and sets back CEO Jane Fraser's push to fix internal controls.\n- Hackers leaked customer data tied to **Visa, Mastercard and JPMorgan** customers. The companies said payment services weren't disrupted, but cyber fears weighed on financial stocks Thursday.\n- **Oil** fell for a third straight week as rising Middle East supply outweighed attacks on shipping. Analysts quoted by the Journal see roughly **$85–$95 a barrel** as the new normal.\n- **UnitedHealth rose 2.8%** on an analyst upgrade, a reminder that defensive sectors like health care can hold up while tech sells off.\n- **Consumer sentiment** ticked up after the midterm elections, even as stocks fell."
+          ],
+          "whyItMatters": [
+            "Not every story is about AI. Reading quick hits like these builds pattern recognition: guidance cuts hurt, bank capital errors draw regulators, defensive stocks hold up in panics, and commodity prices respond to supply as much as to fear."
+          ],
+          "sources": [
+            { "name": "Reuters", "url": "https://www.reuters.com/legal/transactional/wall-st-futures-slip-anthropic-debut-fails-reassure-ai-investors-2026-11-20/" },
+            { "name": "WSJ: Citi", "url": "https://www.wsj.com/finance/banking/citi-undercounted-35-billion-in-assets-at-u-k-subsidiary-f8328559" },
+            { "name": "WSJ: Data leak", "url": "https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87" },
+            { "name": "WSJ: Oil's new normal", "url": "https://www.wsj.com/finance/commodities-futures/oil-prices-new-charts-f84ad9d7" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "biotech",
+      "title": "Biotech & pharma",
+      "kicker": "Two high-profile FDA rejections, a wave of approvals, and deals that kept coming.",
+      "stories": [
+        {
+          "headline": "FDA rejects Capricor's Duchenne cell therapy over how its key trial was run",
+          "tags": ["FDA", "Rare disease", "Cell therapy"],
+          "takeaway": "The FDA said problems with Capricor's pivotal trial made its data unreliable, and the stock collapsed about 77% after hours.",
+          "whatHappened": [
+            "On Friday the FDA declined to approve **deramiocel**, Capricor Therapeutics' experimental cell therapy for **Duchenne muscular dystrophy**, a fatal inherited disease that progressively destroys muscle, including the heart. The agency issued what's called a **complete response letter (CRL)**, its formal 'not approved' notice.",
+            "The FDA's reasoning was unusually pointed. According to Reuters, it cited **serious data integrity problems** in the key trial: changes to the statistical analysis plan made after the study began, breaches of the rules that keep patients and researchers from knowing who got the real treatment (called **blinding**), and other protocol violations. The agency said the data were *not considered reliable or interpretable* and that the therapy missed the study's main goals anyway.",
+            "This wasn't a surprise to close watchers. In July, an FDA advisory panel voted **9–3 against** the therapy. Capricor then resubmitted with longer, 24-month data and new analyses focused on arm and hand function. STAT's Adam Feuerstein wrote that a public pressure campaign couldn't change the underlying reality that the drug didn't work. Shares fell roughly **77%** in after-hours trading."
+          ],
+          "whyItMatters": [
+            "Rare-disease drugs often face enormous pressure from patient families, because there are few or no treatments. The FDA sometimes shows flexibility, but this decision underlines its line: **flexibility on what you measure, not on whether the measurement is trustworthy.** Changing your analysis plan after seeing data, or breaking blinding, lets bias creep in, and the agency won't accept it.",
+            "For investors, it's a textbook example of **binary risk**. A small biotech with one key product can lose most of its value on a single regulatory decision. That's why biotech stocks can move 50%–80% in a day, and why professionals size those positions carefully."
+          ],
+          "whatToWatch": [
+            "- Whether Capricor runs a new trial, appeals, or cuts costs. A 77% drop often forces hard choices about cash.\n- How the FDA treats other rare-disease applications that lean on flexible evidence."
+          ],
+          "sources": [
+            { "name": "Reuters", "url": "https://www.reuters.com/legal/litigation/us-fda-declines-approve-capricors-cell-therapy-duchenne-muscular-dystrophy-2026-11-20/" },
+            { "name": "STAT", "url": "https://www.statnews.com/2026/11/20/fda-rejects-capricor-duchenne-therapy/" }
+          ]
+        },
+        {
+          "headline": "Summit's ivonescimab rejection shows why it matters where a trial is run",
+          "tags": ["FDA", "Oncology", "China biotech"],
+          "takeaway": "The FDA turned down the much-hyped lung cancer drug because it didn't clearly extend survival, and because almost all of the trial's key data came from patients in China.",
+          "whatHappened": [
+            "Summit Therapeutics, which licensed **ivonescimab** from China's Akeso, received a CRL for the drug, combined with chemotherapy, in patients with EGFR-mutated non-small cell lung cancer whose disease progressed after targeted pills. The letter was dated Nov. 13, announced Nov. 15, and published by the FDA this week.",
+            "Ivonescimab is a **bispecific antibody**, one molecule that hits two targets: PD-1 (which unleashes the immune system against tumors) and VEGF (which feeds tumors' blood supply). It became one of the most hyped drug classes in oncology after impressive results in China.",
+            "Per Fierce Pharma's read of the letter, the FDA's problems were threefold. The trial (HARMONi) **missed statistical significance on overall survival**. About **93% of the progression-free survival events came from patients enrolled in China**, because the global study rolled over patients from an earlier China-only trial and enrolled Western patients much later. And the gain in progression-free survival, a median **6.8 months vs. 4.4 months** on chemo alone, didn't outweigh the drug's added side effects. The FDA called Summit's follow-up survival analyses *exploratory only* and asked for a new global trial."
+          ],
+          "whyItMatters": [
+            "Regulators approve drugs for *their* patients. If nearly all the evidence comes from one country, the FDA worries the results may not carry over to Americans, whose treatment patterns, genetics and standard care can differ. As more drugs are licensed from Chinese biotechs (a huge trend in 2025–26), this is a key risk to watch in every deal.",
+            "It also illustrates the hierarchy of cancer evidence: **overall survival (OS)** is the gold standard. **Progression-free survival (PFS)** is faster to measure but a weaker stand-in, especially when a drug adds toxicity."
+          ],
+          "whatToWatch": [
+            "- Summit's **HARMONi-3** trial in first-line squamous lung cancer. Analysts at Leerink call its PFS readout the critical catalyst for the stock.\n- Whether other PD-1×VEGF drugs being developed by big pharma design trials with more Western patients from the start."
+          ],
+          "sources": [
+            { "name": "Fierce Pharma: inside the CRL", "url": "https://www.fiercepharma.com/pharma/fdas-complete-response-letter-summit-ivonescimab-cites-china-heavy-data-beyond-survival-miss" },
+            { "name": "Summit press release", "url": "https://smmttx.com/news/press-releases/news-details/2026/Summit-Therapeutics-Provides-Update-Regarding-Ivonescimab-Biologics-License-Application/default.aspx" },
+            { "name": "OncLive", "url": "https://www.onclive.com/view/fda-issues-crl-to-ivonescimab-plus-chemo-for-locally-advanced-or-metastatic-nsclc" }
+          ]
+        },
+        {
+          "headline": "A busy week of approvals: Regeneron's first RNAi drug, Roche's new breast cancer pill and a rare-disease comeback",
+          "tags": ["FDA", "Approvals", "RNAi", "Oncology"],
+          "takeaway": "The FDA's novel drug count for 2026 reached 54, with approvals that show where the science and the money are heading.",
+          "whatHappened": [
+            "- **Regeneron's Livsayis (cemdisiran)** was approved Nov. 19 for adults with generalized **myasthenia gravis**, an autoimmune disease that causes muscle weakness. It's an **RNAi** drug: instead of blocking a harmful protein after it's made, it silences the instructions so the body makes less of it. Here the target is **C5**, part of the immune system's complement cascade. It's injected under the skin **four times a year**, carries a list price of about **$410,000 a year**, and will compete with established drugs from AstraZeneca (Soliris, Ultomiris) and argenx (Vyvgart). Alnylam, which discovered it, gets a $25 million milestone payment plus royalties on sales.\n- **Genentech/Roche's Wilserdly (giredestrant)** was approved Nov. 16 for HR-positive, HER2-negative breast cancer. It's an oral **SERD**, a pill that degrades the estrogen receptor that fuels these tumors, and Genentech says it's the first SERD approved for both early-stage (adjuvant) and advanced disease.\n- **Beren Therapeutics' Lembaz (adrabetadex)** won approval for **Niemann-Pick disease type C**, a fatal pediatric disorder. The drug had passed through four owners and survived a major trial failure before getting here.\n- **Neladalkib** received accelerated approval Nov. 17 for previously treated ALK-positive lung cancer, and **Sanofi's Infilbray (venglustat)** was approved Nov. 18 for neurological symptoms of type 3 Gaucher disease."
+          ],
+          "whyItMatters": [
+            "Approvals are where biotech value becomes real revenue. A few patterns stand out. **RNAi is going mainstream.** Its big advantage is convenient dosing (four shots a year vs. frequent infusions), which can win market share even against entrenched rivals. **Oral convenience matters in cancer too:** pills that patients take at home compete well against injections. And **rare-disease drugs** keep winning approval despite tiny patient populations, because high prices make small markets viable.",
+            "Notice the contrast with the two rejections. Every approval here rested on clean, convincing trial data."
+          ],
+          "whatToWatch": [
+            "- Launch numbers. Analysts will judge Livsayis by how many patients switch from established C5 drugs.\n- Pricing pressure. Drugs listed near $400,000 a year draw scrutiny from insurers and Washington."
+          ],
+          "sources": [
+            { "name": "BioPharma Dive: Livsayis", "url": "https://www.biopharmadive.com/news/regeneron-fda-approve-cemdisiran-livsayis-myasthenia-gravis-alnylam/875160/" },
+            { "name": "Genentech", "url": "https://www.gene.com/media/press-releases/15144/2026-11-16/fda-approves-genentechs-wilserdly-girede" },
+            { "name": "Endpoints: Beren", "url": "https://endpoints.news/beren-wins-fda-approval-for-long-studied-rare-disease-drug/" },
+            { "name": "FDA novel approvals 2026", "url": "https://www.fda.gov/drugs/novel-drug-approvals-fda/novel-drug-approvals-2026" }
+          ]
+        },
+        {
+          "headline": "Dealmaking keeps going even as markets wobble",
+          "tags": ["M&A", "Funding", "IPOs"],
+          "takeaway": "Big pharma kept buying biotechs, a biotech IPO priced, and a major fund closed, a sign the sector's capital pipeline is still open.",
+          "whatHappened": [
+            "- **Johnson & Johnson** agreed to buy **Ollin Biosciences**, a company developing eye-disease treatments, for **up to $3.3 billion**. Reporting differs on how much is paid upfront versus later.\n- **Eli Lilly** is buying startup **Calytrix Bio** for **$1.5 billion**. Calytrix works on blood cancers like myelofibrosis.\n- **Windward Bio** went public on the Nasdaq in a **$175 million IPO**, plus a **$50 million** investment from Sanofi.\n- Venture firm **Sofinnova** raised **€725 million** to back late-stage European biotechs.\n- A sobering counterpoint: an **IQVIA** analysis found rising development costs leave **9 in 10 new medicines unprofitable**."
+          ],
+          "whyItMatters": [
+            "Big pharma companies face **patent cliffs**: when patents on blockbusters expire, cheap generics take most of their sales. To replace that revenue, they buy promising biotechs. That steady demand supports biotech valuations even when the stock market is shaky.",
+            "Learn to read the phrase **'up to.'** Biotech deals usually combine an **upfront payment** with **milestone payments** that are owed only if the drug hits future goals like trial success, approval or sales targets. The headline number assumes everything goes right. Insiders call the contingent part *biobucks*, and the upfront cash is the truest measure of how much the buyer believes.",
+            "The IQVIA finding explains why pricing is so contentious. If most new drugs lose money, the winners have to pay for all the failures."
+          ],
+          "whatToWatch": [
+            "- Whether the stock selloff slows biotech IPOs. Windward's reception is an early test.\n- More pharma deals before year-end. Companies often announce deals ahead of January's J.P. Morgan Healthcare Conference."
+          ],
+          "sources": [
+            { "name": "RAPS Recon", "url": "https://www.raps.org/resource/recon-fda-rejects-ivonescimab-for-lung-cancer-indication-j-j-to-buy-eye-disease-biotech-ollin-biosciences-for-up-to-3-3b.html" },
+            { "name": "WSJ health care Market Talk", "url": "https://www.wsj.com/business/health-care-roundup-market-talk-37edbe6f" }
+          ]
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "area": "Investing",
+      "title": "Corrections, bear markets, and the 'fear gauge'",
+      "body": [
+        "Markets have shorthand for how bad a decline is, measured from the most recent peak (closing high):",
+        "- **Pullback:** down 5%–10%. Happens often, sometimes several times a year.\n- **Correction:** down 10%–20%. Historically roughly every year or two. Most recover within months.\n- **Bear market:** down 20% or more. Rarer, longer and usually tied to recessions or bursting bubbles. The opposite, a long rise, is a **bull market**.",
+        "These thresholds are conventions, not laws of nature. A 9.9% drop isn't meaningfully different from a 10.1% one. But they shape headlines and investor psychology, so they're worth knowing.",
+        "**Why the indexes fell by different amounts:** the S&P 500 (500 large companies) and the Nasdaq Composite are **market-cap weighted**. Bigger companies count more, so a few tech giants dominate. The Dow holds just 30 companies and is **price weighted**: a stock with a higher share price counts more, regardless of company size. In a tech selloff, the Nasdaq usually falls most and the Dow least.",
+        "**The VIX** is calculated from prices of S&P 500 options. It reflects how much volatility traders *expect* over the next 30 days. Rough guide: around 12–20 is calm, 20–30 is nervous, above 30 is fearful. It spiked near 80 in both 2008 and March 2020. It's called the fear gauge because investors pay up for protection when they're scared, which pushes the VIX higher."
+      ],
+      "example": [
+        "Say an index peaks at 7,700. A drop to 6,930 is −10% (7,700 × 0.90), a correction. A drop to 6,160 is −20% (7,700 × 0.80), a bear market. Recovery math is harsher than it looks: after a 20% fall, you need a **25% gain** to get back to even, because you're rising from a smaller base (6,160 × 1.25 = 7,700)."
+      ]
+    },
+    {
+      "area": "Biotech",
+      "title": "How a drug gets approved, and what a 'complete response letter' means",
+      "body": [
+        "Every drug you read about in the biotech section is somewhere on this path:",
+        "- **Preclinical:** lab and animal studies. Then the company files an **IND** (investigational new drug application) to start human testing.\n- **Phase 1:** a small number of people (often dozens). Is it safe, and what dose?\n- **Phase 2:** hundreds of patients. Is there a signal that it works?\n- **Phase 3 (pivotal):** often hundreds to thousands of patients, usually **randomized** (assigned by chance) and **blinded** (nobody knows who got what). Does it work better than the current standard, and is it safe enough?\n- **Application:** an **NDA** (for chemical drugs) or **BLA** (for biologics like antibodies and cell therapies). The FDA sets a target decision date, the **PDUFA date**: about 10 months for a standard review, 6 for priority review.\n- **Advisory committee (optional):** outside experts vote. The FDA isn't bound by the vote, but usually follows it, as with Capricor's 9–3 'no.'\n- **Decision:** approval, or a **complete response letter (CRL)** listing what's missing. A CRL isn't always final. Some are fixable with more analysis or manufacturing fixes, while others (like Summit's) require a whole new trial.",
+        "**Accelerated approval** lets drugs for serious diseases reach patients early based on a **surrogate endpoint**, an early marker likely to predict real benefit, like tumor shrinkage. The company must then run a confirmatory trial, and the FDA can pull the drug if it fails.",
+        "**Endpoints** are what a trial measures. In cancer, **overall survival (OS)** is the gold standard, because living longer is what patients care about. **Progression-free survival (PFS)**, how long until the tumor grows, is faster to measure but doesn't always translate into longer lives."
+      ],
+      "example": [
+        "In Summit's trial, median PFS was 6.8 months with ivonescimab plus chemo vs. 4.4 months with chemo alone: about 2.4 extra months before the cancer progressed. That sounds meaningful, but overall survival wasn't statistically better, and the drug added side effects. The FDA weighed the benefit against the risk and said the 2.4 months wasn't enough. For investors, this is why the market reacts so differently to 'hit PFS' vs. 'hit OS' headlines."
+      ]
+    }
+  ],
+  "weekAhead": [
+    { "when": "Mon, Nov 23", "event": "Hewlett Packard Enterprise earnings (after close)", "why": "A read on AI server demand from a company that sells data-center hardware." },
+    { "when": "Tue, Nov 24", "event": "Best Buy (before open); Dell and Workday (after close)", "why": "Best Buy previews holiday spending. Dell is another AI-server bellwether. Workday tests whether business software is holding up." },
+    { "when": "Wed, Nov 25 · 8:30 a.m.", "event": "October PCE inflation, Q3 GDP (2nd estimate), durable goods, jobless claims", "why": "The week's main event. PCE is the Fed's preferred inflation gauge (last reading: 3.6% year over year). A hot number raises odds of a big December hike. Jobless claims come a day early because of the holiday." },
+    { "when": "Wed, Nov 25 · 10 a.m. & 2 p.m.", "event": "New home sales; Fed Beige Book", "why": "The Beige Book collects anecdotes about the economy from all 12 Fed districts. Watch the language on prices and hiring." },
+    { "when": "Thu, Nov 26", "event": "Thanksgiving: U.S. stock and bond markets closed", "why": "" },
+    { "when": "Fri, Nov 27", "event": "Shortened session (stocks close 1 p.m. ET); Black Friday", "why": "Low trading volume can exaggerate moves. Early Black Friday sales data shapes the retail narrative." },
+    { "when": "Dec 8–9", "event": "Fed meeting (FOMC) with new projections", "why": "A quarter-point hike is priced in. The debate is whether it's bigger, and how many more follow." },
+    { "when": "Dec 10", "event": "November CPI", "why": "Lands the day after the Fed decides, so it'll shape expectations for 2027." }
+  ],
+  "glossary": [
+    { "term": "Correction", "definition": "A decline of 10%–20% from a recent peak. A bear market is a drop of 20% or more." },
+    { "term": "VIX", "definition": "An index of expected 30-day volatility in the S&P 500, derived from options prices. Higher means more fear." },
+    { "term": "Market-cap weighting", "definition": "Index method where bigger companies (share price × shares outstanding) count more. Used by the S&P 500 and Nasdaq." },
+    { "term": "Offer price (IPO)", "definition": "The price at which a company sells new shares to investors before public trading starts. Anthropic's was $83." },
+    { "term": "Fully diluted valuation", "definition": "Company value counting all shares that could exist, including options and restricted stock, not just shares already issued." },
+    { "term": "Priced in", "definition": "When expected news is already reflected in a stock's price, so the news itself doesn't move it up." },
+    { "term": "Key-person risk", "definition": "The danger that a company depends heavily on one individual whose departure hurts the business." },
+    { "term": "Basis point", "definition": "One hundredth of a percentage point. A quarter-point hike is 25 basis points." },
+    { "term": "Hawkish / dovish", "definition": "Hawkish means favoring higher rates to fight inflation. Dovish means favoring lower rates to support growth and jobs." },
+    { "term": "PCE price index", "definition": "The Commerce Department's measure of consumer prices. It's the Fed's preferred inflation gauge." },
+    { "term": "Flight to safety", "definition": "When investors sell risky assets and buy safe ones like Treasuries, pushing bond yields down." },
+    { "term": "TIPS", "definition": "Treasury Inflation-Protected Securities: U.S. government bonds whose principal rises with inflation." },
+    { "term": "Guidance", "definition": "A company's own forecast for future revenue or earnings. Cuts often hit stocks hard." },
+    { "term": "Complete response letter (CRL)", "definition": "The FDA's formal notice that it won't approve an application as submitted, with the reasons." },
+    { "term": "BLA / NDA", "definition": "The application to market a biologic (BLA) or a chemical drug (NDA) in the U.S." },
+    { "term": "Blinding", "definition": "Keeping patients and researchers from knowing who receives the real treatment, to prevent bias." },
+    { "term": "OS / PFS", "definition": "Overall survival (how long patients live) vs. progression-free survival (how long until the disease worsens)." },
+    { "term": "RNAi", "definition": "RNA interference: drugs that silence a gene's instructions so the body makes less of a disease-causing protein." },
+    { "term": "Bispecific antibody", "definition": "A single antibody engineered to bind two different targets at once." },
+    { "term": "Biobucks / milestones", "definition": "Deal payments owed only if a drug hits future goals. They inflate 'up to' headline deal values." },
+    { "term": "Patent cliff", "definition": "The sharp revenue drop when a blockbuster drug loses patent protection and generics arrive." }
+  ],
+  "quiz": [
+    {
+      "topic": "Corrections",
+      "question": "The S&P 500 and the Dow 'entered a correction' this week. What does that mean?",
+      "choices": [
+        "They fell 10% or more from their most recent record close",
+        "They fell 20% or more from their most recent record close",
+        "They fell for five days in a row",
+        "Trading was halted by circuit breakers"
+      ],
+      "answer": 0,
+      "explanation": "A correction is a 10%–20% drop from a recent peak. 20% or more is a bear market. The seven-day losing streak was notable, but streaks don't define a correction."
+    },
+    {
+      "topic": "Index construction",
+      "question": "On Friday the Nasdaq fell 5.3% but the Dow fell only 1.9%. What best explains the gap?",
+      "choices": [
+        "The Dow trades fewer hours than the Nasdaq",
+        "The Nasdaq is packed with large tech and AI stocks, and big companies carry more weight in it",
+        "The Dow includes bonds, which rose Friday",
+        "Nasdaq stocks are all newly public companies"
+      ],
+      "answer": 1,
+      "explanation": "The Nasdaq is tech-heavy and market-cap weighted, so giants like Nvidia drive it. The Dow holds just 30 price-weighted stocks with less AI exposure, so a tech selloff hits it less."
+    },
+    {
+      "topic": "Anthropic IPO",
+      "question": "Anthropic priced its IPO at $83, above its marketed range of $70–$78. What does pricing above the range usually signal?",
+      "choices": [
+        "The company needed emergency cash",
+        "Regulators required a higher price",
+        "Demand from investors was strong enough to charge more",
+        "The stock is guaranteed to rise after listing"
+      ],
+      "answer": 2,
+      "explanation": "Raising the price above the range means bankers saw more orders than shares available. It guarantees nothing afterward: Anthropic opened at $111.50 but traded near $88 by Friday."
+    },
+    {
+      "topic": "Nvidia",
+      "question": "Nvidia reported a quarter some called one of the best in corporate history, yet its stock fell about 14% on Friday. Which explanation fits best?",
+      "choices": [
+        "The results were later found to be fake",
+        "Strong results were already priced in, while risks like the leadership crisis, probes and AI-spending doubts grew",
+        "Nvidia announced it would stop making AI chips",
+        "Companies' stocks always fall after earnings"
+      ],
+      "answer": 1,
+      "explanation": "When expectations are sky-high, even great numbers can disappoint. The bigger change was in risk: a CEO exit, SEC and California probes, and questions about whether customers can keep financing chip purchases."
+    },
+    {
+      "topic": "Federal Reserve",
+      "question": "After this week's Fed minutes and speeches, what are futures markets pricing for the Fed's Dec. 8–9 meeting?",
+      "choices": [
+        "A quarter-point rate cut",
+        "No change, with a cut in early 2027",
+        "A nearly certain quarter-point rate hike",
+        "An emergency rate cut before the meeting"
+      ],
+      "answer": 2,
+      "explanation": "With inflation running hot and two officials having dissented for a hike in October, markets see a 0.25-point hike as nearly certain. Some officials have even floated 0.50."
+    },
+    {
+      "topic": "Bonds",
+      "question": "On Friday stocks, gold and bitcoin all fell while the 10-year Treasury yield dropped toward 4.9%. What happened to Treasury bond prices?",
+      "choices": [
+        "They rose, because investors bought Treasuries as a safe haven",
+        "They fell, because yields and prices move together",
+        "They didn't change, because yields and prices are unrelated",
+        "Treasuries stopped trading during the selloff"
+      ],
+      "answer": 0,
+      "explanation": "Bond prices and yields move in opposite directions. Heavy buying in a 'flight to safety' pushes prices up and yields down."
+    },
+    {
+      "topic": "Capricor / FDA",
+      "question": "What was the FDA's central reason for rejecting Capricor's Duchenne therapy, deramiocel?",
+      "choices": [
+        "The drug's price was too high",
+        "Manufacturing capacity was too small",
+        "Data-integrity problems, like analysis changes after the trial began and blinding breaches, made the results unreliable",
+        "Duchenne already has a cure"
+      ],
+      "answer": 2,
+      "explanation": "The FDA said protocol violations compromised the trial so badly that the data weren't 'reliable or interpretable,' and the therapy also missed its main goals. Price isn't part of FDA approval decisions."
+    },
+    {
+      "topic": "Summit / ivonescimab",
+      "question": "Besides missing on overall survival, what trial-design issue did the FDA flag in Summit's ivonescimab application?",
+      "choices": [
+        "The trial was too short to measure anything",
+        "About 93% of the progression-free survival events came from patients enrolled in China",
+        "The trial had no control group",
+        "Patients were given the wrong drug"
+      ],
+      "answer": 1,
+      "explanation": "Because the global trial rolled over patients from a China-only study, Western data were sparse and immature. The FDA wants evidence that applies to U.S. patients, so it asked for a new global trial."
+    },
+    {
+      "topic": "RNAi",
+      "question": "Regeneron's newly approved Livsayis is an RNAi drug. How does RNAi work?",
+      "choices": [
+        "It edits a patient's DNA permanently",
+        "It silences a gene's instructions so the body makes less of a target protein, in this case C5",
+        "It replaces the patient's immune cells",
+        "It is a vaccine that trains antibodies"
+      ],
+      "answer": 1,
+      "explanation": "RNAi drugs intercept the messenger RNA that carries a gene's instructions, cutting production of a protein. Livsayis lowers complement protein C5, which drives myasthenia gravis, with just four shots a year."
+    },
+    {
+      "topic": "Biotech deals",
+      "question": "J&J agreed to buy Ollin Biosciences for 'up to $3.3 billion.' What does 'up to' usually mean in a biotech deal?",
+      "choices": [
+        "The buyer may cancel at any time for free",
+        "The total includes milestone payments owed only if the drug hits future goals",
+        "The price will be adjusted for inflation",
+        "Shareholders vote on a price within that range"
+      ],
+      "answer": 1,
+      "explanation": "Headline deal values usually add an upfront payment to contingent milestones ('biobucks'). The upfront cash is the best gauge of what the buyer is sure it's getting."
+    }
+  ],
+  "footer": "First edition: a week-in-review covering Nov. 16–22, 2026."
+}
