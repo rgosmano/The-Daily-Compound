@@ -1,0 +1,415 @@
+{
+  "date": "2026-11-24",
+  "title": "One CEO, $1 trillion, and a market that can't make up its mind",
+  "dek": "Jensen Huang's return to Nvidia sparked the best day for stocks since April 2025, Tuesday gave much of the tech gain back as Anthropic slipped below its IPO price, and Sanofi agreed to pay $41 billion for Insmed to get ahead of its own patent cliff.",
+  "readingMinutes": 30,
+  "bigPicture": [
+    "On Monday, Nvidia's board reversed itself and reinstated **Jensen Huang** as chief executive, effective immediately, less than two weeks after he resigned. The stock jumped **31%**, adding roughly **$950 billion** in market value in a single session, and pulled the whole market up with it. The S&P 500 rose **4.73%** and the Nasdaq **6.51%**, both their best days since April 2025. President Trump said publicly that he *convinced* the board, and the Wall Street Journal reported that Vice President JD Vance spent the weekend lobbying directors.",
+    "Then came Tuesday. By early afternoon the Nasdaq was down about **1.7%**, Nvidia had given back about 7%, memory-chip maker Micron was off more than 10%, and **Anthropic** fell below its **$83** IPO price for the first time. The Dow, by contrast, was *up*, helped by retailers and other non-tech stocks. That split is today's lesson: a market where one company can add a trillion dollars on a personnel decision is a market that is very **concentrated**, and concentration cuts both ways. Our Investing concept explains how a single stock can move an index of 500.",
+    "Underneath the Nvidia drama, the bigger forces haven't changed. The Federal Reserve still looks almost certain to **raise** rates in December, Wednesday's PCE inflation report is the last big data point before that meeting, and the Journal reported the U.S. is preparing new tariffs on China, the EU and 14 other countries. On the other hand, consumers got more cheerful: the Conference Board's confidence index jumped to **103.3**, far above forecasts.",
+    "In biotech, the story is about running out of time. **Sanofi** agreed to buy **Insmed** for **$41 billion** in cash, its biggest deal in more than two decades, because its blockbuster **Dupixent**, about two-fifths of its revenue, loses patent protection around 2031. The same week, **Kymera** showed that a once-a-day *pill* might match Dupixent's injections in eczema. Our Biotech concept explains patent cliffs: why drug revenue can vanish almost overnight, and why it pushes big pharma to pay big premiums years in advance."
+  ],
+  "marketPulse": {
+    "asOf": "Closing levels from Monday, Nov. 23, with change versus Friday's close. Notes include Tuesday's moves as of about 2 p.m. ET. Approximate figures are marked with ~.",
+    "items": [
+      { "name": "S&P 500", "value": "7,237.17", "change": "+4.73%", "direction": "up", "note": "Best day since Apr 2025. Tue ~2 p.m.: ~7,190 (−0.6%)" },
+      { "name": "Nasdaq Composite", "value": "24,089.56", "change": "+6.51%", "direction": "up", "note": "Added >$2 trillion in value Mon (WSJ). Tue ~2 p.m.: −1.7%" },
+      { "name": "Dow Jones", "value": "49,595.31", "change": "+1,447.98 (+3.01%)", "direction": "up", "note": "Tue ~2 p.m.: ~49,950 (+0.7%), led by non-tech stocks" },
+      { "name": "VIX (fear gauge)", "value": "26.62", "change": "−~26% from 35.89", "direction": "flat", "note": "Still elevated; ~27 on Tuesday afternoon" },
+      { "name": "10-yr Treasury", "value": "~4.92%", "change": "Little changed", "direction": "flat", "note": "~4.90% Tue ahead of Wednesday's PCE report" },
+      { "name": "Gold (Dec futures)", "value": "$3,651.40/oz", "change": "+~4%", "direction": "up", "note": "Bounced off a 14-month low Mon; settled −2.4% Tue" },
+      { "name": "Brent crude", "value": "$89.37/bbl", "change": "Down", "direction": "down", "note": "Near lowest since late Aug despite mines hitting tankers near Hormuz; ~+2% Tue" },
+      { "name": "Bitcoin", "value": "~$61,100", "change": "Up slightly", "direction": "flat", "note": "Back below $60,000 on Tuesday (~$59,800)" }
+    ],
+    "summary": [
+      "**How to read this board:** Monday was a classic *risk-on* day. Stocks soared, the VIX collapsed by about a quarter, and gold bounced too. But look at the 10-year yield: it barely moved. Bond traders didn't treat Huang's return as news about the economy or inflation, which is what yields mostly respond to. They're waiting for Wednesday's PCE report and the Fed's Dec. 8–9 meeting. A VIX in the mid-20s still signals worry; calm markets usually sit in the teens.",
+      "**Tuesday's split screen** is worth noticing. The Dow rose while the Nasdaq fell. The Dow is a 30-stock index weighted by share *price*, with fewer big tech names, while the Nasdaq Composite is weighted by market value and is dominated by tech. When money rotates out of chip stocks and into retailers, health care and industrials, the two indexes can move in opposite directions on the same day.",
+      "**Sourcing note:** Monday's index closes come from CNBC and match levels implied by WSJ market data. VIX, gold, Brent and bitcoin previous closes are from CNBC quote pages, cross-checked against WSJ data where available. Tuesday figures are intraday and will change by the close."
+    ]
+  },
+  "sections": [
+    {
+      "id": "markets",
+      "title": "Markets & the economy",
+      "kicker": "A trillion-dollar reinstatement, a reversal, and the Fed still waiting",
+      "stories": [
+        {
+          "headline": "Nvidia brings back Jensen Huang, and stocks have their best day since April 2025",
+          "tags": ["Stocks", "Nvidia", "Governance", "AI"],
+          "takeaway": "Nvidia's board reinstated its co-founder as CEO after the White House intervened. The stock rose 31% and lifted the whole market, but the investigations and governance questions that followed his exit are still open.",
+          "whatHappened": [
+            "Before Monday's open, **Nvidia** announced that **Jensen Huang** was reinstated as CEO, effective immediately. Huang had resigned on **Nov. 12** after reports of extramarital affairs, including one with a former executive of Singapore-based **Megaspeed** who, per CNBC, is under investigation by U.S. authorities. CFO **Colette Kress** had been serving as interim CEO. CNBC reported the board voted **unanimously**, less than a week after board chair **Harvey Jones** said directors didn't intend to bring Huang back.",
+            "The White House played an open role. On Truth Social, President Trump called the decision *correct and proper* and said the government had no reason to believe Huang's return poses a national security risk. He told CNBC he spoke to the board and *convinced* them, and that the market rout *probably* influenced him, though he said the bigger factor was the long term. The Wall Street Journal reported that Trump asked **Vice President JD Vance** to work on the board over the weekend, and that Vance told directors the government didn't view Huang as a security risk.",
+            "Nvidia stock closed up about **31%**, after rising as much as 36%, adding about **$950 billion** in market value, per CNBC data. CNBC's Michael Santoli noted that Nvidia alone provided **more than a third** of the S&P 500's 4.73% gain. Options trading exploded too: more than **11 million** Nvidia options contracts changed hands, the most ever for the stock in one day, with calls (bets on a rise) outnumbering puts roughly 6.7 million to 4.3 million, per Cboe data cited by CNBC.",
+            "The rally spread. **Micron** rose 19%, **CoreWeave** 22% and **AMD** almost 7%; **Alphabet** and **Meta** each gained about 6%. CNBC reported the VanEck semiconductor ETF was on pace for its best day since April 2025. Analysts at **Melius**, **Bernstein** and **StoneX** upgraded Nvidia, with price targets of $200 to $270. In Asia on Tuesday, South Korea's **KOSPI** jumped **6.3%** and Nvidia partners **TSMC** and **Foxconn** rose close to 10%."
+          ],
+          "whyItMatters": [
+            "Why would one person be worth nearly a trillion dollars of market value? Investors price companies on expected future profits, and the risk around them. Huang co-founded Nvidia and has run it for more than three decades; investors saw him as central to its strategy and its relationships with customers, suppliers and governments. His departure added uncertainty about all of that. His return removed some of it overnight. Lower uncertainty means investors demand a smaller **risk premium**, so they'll pay a higher price for the same expected profits.",
+            "But this episode also raises a different risk: **key-person** and **governance** risk. Good corporate governance means a board makes decisions independently, in shareholders' interest. Here the board reversed a stated position within days after political pressure. Some investors cheer that because it worked out for the stock; others worry it shows the company can be steered by Washington. A CNBC-quoted analyst at Deep33 joked that the *Trump put*, the belief the president will step in to stop market slides, may now extend to some CEOs.",
+            "There were real losers, too. The Journal profiled retail investors who sold after the board said Huang wouldn't return, then watched the stock jump 31%. It's a reminder that official statements can change, and that selling on a single headline locks in a loss that might have reversed."
+          ],
+          "bigPicture": [
+            "CEO returns are rare but not unheard of: Steve Jobs at Apple (1997), Howard Schultz at Starbucks (2008 and 2022) and Bob Iger at Disney (2022). What makes this one unusual is the speed (11 days), the scale of the market move, and the direct involvement of the U.S. government. Nvidia is now so large, and so central to AI spending, that its leadership has become something close to a matter of national economic policy. That's flattering for the company, and a source of political risk."
+          ],
+          "whatToWatch": [
+            "- The open probes: the **SEC** civil inquiry into Nvidia's disclosures, the **California attorney general's** subpoena and the company's internal review of export-control compliance, which Trump said should continue.\n- The Commerce Department on Monday added **Megaspeed** and six other Southeast Asian firms to its trade blacklist over concerns about diverting advanced chips, per CNBC. More export-control action could hit Nvidia's China-related sales.\n- Whether the board adds independent directors or a succession plan. Credit markets were less enthusiastic than stocks about the reinstatement, the Journal noted."
+          ],
+          "sources": [
+            { "name": "CNBC: Monday market close", "url": "https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html" },
+            { "name": "WSJ: U.S. stocks jump as Huang return triggers AI rally", "url": "https://www.wsj.com/finance/stocks/u-s-stocks-jump-as-huang-return-triggers-ai-rally-7c008308" },
+            { "name": "WSJ: Trump engineered Huang's reinstatement", "url": "https://www.wsj.com/business/trump-engineered-huangs-reinstatement-as-nvidia-ceo-4e9c1cd3" },
+            { "name": "WSJ: Investigations still surround Huang", "url": "https://www.wsj.com/tech/ai/jensen-huang-is-back-at-nvidia-major-investigations-still-surround-him-c904001c" },
+            { "name": "WSJ: Retail investors burned by the U-turn", "url": "https://www.wsj.com/finance/stocks/the-retail-investors-who-believed-nvidias-boardand-got-burned-by-its-u-turn-05349a63" },
+            { "name": "WSJ: Nvidia chief's return lifts many boats", "url": "https://www.wsj.com/finance/stocks/nvidia-chiefs-return-lifts-many-boats-3b515f16" },
+            { "name": "CNBC: Tuesday live updates (Asia, Megaspeed, options)", "url": "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html" }
+          ]
+        },
+        {
+          "headline": "The day after: tech gives back gains, and Anthropic slips below its IPO price",
+          "tags": ["Stocks", "AI", "IPO", "Anthropic"],
+          "disclosure": "**Disclosure:** this brief is written by Claude, which is made by Anthropic. The Anthropic section below is based only on the outside reporting linked at the end, and includes both bullish and skeptical views. Read it with that conflict of interest in mind.",
+          "takeaway": "Tuesday erased part of Monday's tech rally. Chip stocks fell sharply, Anthropic dropped about 9% to below its $83 offer price, and several strategists warned that giant one-day gains often happen inside falling markets.",
+          "whatHappened": [
+            "As of about 2 p.m. ET Tuesday, the **Nasdaq** was down about **1.7%** and the **S&P 500** about **0.6%**, while the **Dow** was up about 340 points (0.7%), helped by Amgen, Nike and Salesforce, per CNBC. **Nvidia** was down roughly 7%, **Micron** more than 10%, **AMD** about 9% and the iShares Semiconductor ETF nearly 8%. Analog Devices fell about 18% even after reporting results that beat expectations, CNBC said.",
+            "**Anthropic** (ticker ANT), which sat out Monday's rally, falling about 3% that day, was down about **9%** Tuesday afternoon at around **$79**. That's below the **$83** price at which it sold shares in its record IPO last week. Shares opened at $111.50 on their first day, Nov. 19, and closed that day at $97.17. On Monday, Wealth Alliance president Eric Diton told CNBC that a leading AI stock that can't rally on a day like Monday suggests *something's not right*. On the other side, **Wedbush** began coverage with an *outperform* rating and a **$120** price target, calling the stock a strong play on the AI build-out.",
+            "Strategists were cautious about Monday's surge. BTIG's **Jonathan Krinsky** wrote that extreme one-day gains are *more often* associated with downtrending markets, and noted the S&P 500 rallied while still below its **200-day moving average**. In similar past cases, he said, the index fell an average of 2.1% over the next five trading days. **Wolfe Research** called Monday a likely *bear market rally* in chips, noting the iShares Semiconductor ETF was still down more than 42% from its June high. Deutsche Bank's Henry Allen offered a counterpoint: over the past 50 years, 20% declines have almost always come with a recession, recession fears or a Fed hiking cycle with multiple increases."
+          ],
+          "whyItMatters": [
+            "When a stock trades below its IPO price, it's said to have **broken issue**. It matters for more than pride. Every investor who bought in the offering is now underwater, which can make them more eager to sell on any bounce. It also hurts the reputation of the banks that set the price, and it can make other companies wary of going public. Remember, the Journal had already reported a *blame game* over how the deal was priced and allocated.",
+            "Anthropic also faces a funding question that most young public companies don't. The Journal reported it has committed to spend about **$900 billion** on computing and infrastructure, and that Wall Street expects its debt to be rated **junk** (below investment grade). Lower ratings mean higher borrowing costs. A falling stock price makes raising money by selling new shares more expensive too, because the company must issue more shares to raise the same amount.",
+            "Monday-then-Tuesday is a textbook example of why one day says little about the trend. Note Deutsche Bank's point carefully, though: it's an argument from history, not a guarantee. The Fed *is* in a hiking cycle now, which is one of the conditions Allen listed."
+          ],
+          "bigPicture": [
+            "Big IPOs that break issue aren't automatically doomed. Facebook fell below its $38 offer price soon after its 2012 debut and didn't recover it for more than a year; it later became one of the best-performing large stocks of the decade. Others never recover. The difference comes down to whether the business grows into its valuation. For Anthropic, its first earnings report as a public company and its credit ratings will be the first real tests."
+          ],
+          "whatToWatch": [
+            "- **Dell** and **Workday** report after Tuesday's close: fresh reads on AI hardware demand and software spending.\n- Whether Nvidia holds above Monday's open, and whether chip stocks stabilize before Thanksgiving.\n- Anthropic's first formal credit ratings, and the end of the research **quiet period** in mid-December, when the banks that ran the IPO can publish coverage."
+          ],
+          "sources": [
+            { "name": "CNBC: Tuesday live updates", "url": "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html" },
+            { "name": "WSJ: Nasdaq resumes selloff as Nvidia, Anthropic slump", "url": "https://www.wsj.com/finance/stocks/nasdaq-futures-fall-as-questions-linger-over-ai-trade-68ba6d71" },
+            { "name": "WSJ: Anthropic's debt expected to be junk", "url": "https://www.wsj.com/finance/investing/anthropic-committed-to-spend-900-billion-wall-street-expects-its-debt-to-be-junk-5514d55d" },
+            { "name": "WSJ: Pouncing on Anthropic won't make you rich", "url": "https://www.wsj.com/finance/stocks/pouncing-on-anthropic-wont-make-you-rich-4d500a06" },
+            { "name": "WSJ: Jensen is back, but AI's problems haven't gone away", "url": "https://www.wsj.com/finance/stocks/jensen-is-back-but-ais-problems-havent-gone-away-7551770e" }
+          ]
+        },
+        {
+          "headline": "Tariffs, cheerful consumers and a Fed hike that's 'locked in': the macro picture before PCE",
+          "tags": ["Economy", "Fed", "Trade", "Bonds"],
+          "takeaway": "The U.S. is reportedly preparing new tariffs on China, the EU and 14 other countries, consumer confidence jumped, and markets are treating a December rate hike as a near-certainty. Wednesday's inflation data decides how big the debate gets.",
+          "whatHappened": [
+            "The Wall Street Journal reported exclusively Tuesday that the administration is preparing to **raise tariffs** on **China**, the **European Union** and **14 other nations**, targeting what it calls excess industrial capacity, meaning foreign governments supporting their industries so heavily that they flood world markets with cheap goods. U.S. Trade Representative **Jamieson Greer** could unveil the results as soon as this week. Rates and timing weren't available in the portions we could access.",
+            "The **Conference Board's consumer confidence index** jumped **11.4 points to 103.3** in November, far above the **92.2** economists expected, CNBC reported. More Americans said the job market was improving and they expected inflation to cool. CNBC tied the mood shift partly to the midterm elections. Monday's **S&P Global flash PMIs** showed growth slowing but still solid: manufacturing 53.7 (from 54.5) and services 54.7 (from 56.1). Readings above 50 mean expansion. S&P Global's Chris Williamson said the surveys still point to roughly **3%** annualized GDP growth this quarter, and that price gauges suggest inflation will stay well above the Fed's 2% target.",
+            "Bond markets were calm. The **10-year Treasury yield** sat near **4.90%** Tuesday, slightly below Monday's 4.92%. CNBC reported money-market pricing has a **quarter-point rate hike** at the Dec. 8–9 Fed meeting *firmly locked in*. A Treasury auction of 5-year notes Tuesday showed slightly soft demand, per the Journal. The dollar hit its highest close since April 2025 Monday on the WSJ Dollar Index, and J.P. Morgan analysts told the Journal it could strengthen further in 2027 if the Fed keeps hiking."
+          ],
+          "whyItMatters": [
+            "Tariffs and rate hikes are connected. A tariff is a tax on imports, usually paid by the importing company and often passed partly on to consumers. That pushes prices up at the exact moment the Fed is trying to bring inflation down. Higher prices could make the Fed hike more, which raises borrowing costs for everyone. That's one reason stocks dipped on the tariff report.",
+            "Strong confidence is good news for spending, which drives about two-thirds of the U.S. economy, but it can be awkward news for the Fed. An economy that's growing around 3% with inflation above target doesn't need help. It may need cooling. That's why some *good* economic data can be *bad* for stock and bond prices when inflation is the main concern.",
+            "The **dollar** matters too. Higher U.S. rates attract foreign money looking for better returns, which pushes up the dollar. A strong dollar makes imports cheaper for Americans (helpful against inflation), but it makes U.S. exports pricier abroad and reduces the dollar value of foreign profits for American multinationals."
+          ],
+          "whatToWatch": [
+            "- **Wed., 8:30 a.m. ET:** October **PCE** price index, the second estimate of Q3 GDP, durable goods orders and weekly jobless claims. A hot PCE could revive talk of a half-point hike.\n- **Wed., 2 p.m. ET:** the Fed's **Beige Book** of business anecdotes from its 12 districts.\n- Details of the tariff plan from USTR, possibly this week, including rates, countries and start dates."
+          ],
+          "sources": [
+            { "name": "WSJ: U.S. prepares to raise tariffs on China and other countries", "url": "https://www.wsj.com/economy/trade/u-s-prepares-to-raise-tariffs-on-china-and-other-countries-37981740" },
+            { "name": "CNBC: Consumer confidence, bond yields and PMIs", "url": "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html" },
+            { "name": "CNBC: Flash PMIs (Monday live blog)", "url": "https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html" },
+            { "name": "WSJ: 5-year note auction", "url": "https://www.wsj.com/finance/jgb-futures-rise-buoyed-by-decline-in-crude-oil-prices-deebd8c8" },
+            { "name": "WSJ: Dollar could rise further in 2027", "url": "https://www.wsj.com/articles/dollar-stays-strong-after-nvidia-news-boosts-u-s-tech-stocks-a0c603c2" }
+          ]
+        },
+        {
+          "headline": "Quick hits from around the market",
+          "tags": ["M&A", "Retail", "Commodities", "Listings"],
+          "takeaway": "A $43.9 billion cybersecurity merger, a strong week for retailers, mines in the Strait of Hormuz, and another company leaving London for New York.",
+          "whatHappened": [
+            "- **CrowdStrike buys Zscaler:** CrowdStrike agreed to acquire fellow cybersecurity company Zscaler in a deal valued at **$43.9 billion**, CNBC reported Monday. CrowdStrike holders would own about 84% of the combined company. Zscaler rose about 14% premarket while CrowdStrike fell about 8%: the buyer's stock often falls when investors think it's paying a lot.\n- **Retailers surprise:** Dick's Sporting Goods (up ~12%), Abercrombie & Fitch (~22%) and Kohl's (~12%) jumped Tuesday after beating estimates and raising forecasts. Best Buy said comparable-store sales grew **6.1%**, its strongest in five years. **Comparable sales** compare stores open at least a year, so they show real demand rather than growth from new stores.\n- **Oil shrugs off mines:** Brent hovered near its lowest level since late August even after three tankers hit naval mines in the **Strait of Hormuz**, per CNBC, as traders focused on forecasts of a supply surplus. It recovered about 2% Tuesday afternoon.\n- **Metals slide:** Gold settled 2.4% lower Tuesday, its fourth drop in five sessions, and silver fell 5.5% to a new 52-week low, the Journal reported.\n- **Compass Group** said it's considering moving its primary listing from London to New York, since North America produces about 75% of its operating profit. It's the latest in a string of departures from the London market.\n- **Boeing** rose more than 4% Monday after Trump said he expects China to buy another 250 Boeing jets.\n- **Tokenized stocks:** OKXICE, a venue run by Intercontinental Exchange and crypto exchange OKX to trade blockchain-based versions of stocks, was set to launch Monday even though 56 of the first 62 companies it planned to list objected, CNBC reported."
+          ],
+          "whyItMatters": [
+            "These items show the market is more than AI. Consumer spending looks healthy at the start of the holiday season, consolidation is reshaping software, and commodity prices are being driven by supply and demand rather than scary headlines. Notice the oil example especially: physical attacks on shipping didn't lift prices for long, because traders expect more supply than the world needs."
+          ],
+          "sources": [
+            { "name": "CNBC: Monday live blog (CrowdStrike, Boeing, OKXICE)", "url": "https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html" },
+            { "name": "CNBC: Tuesday live blog (retail, oil, Compass)", "url": "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html" },
+            { "name": "WSJ: Gold gives back gains", "url": "https://www.wsj.com/finance/commodities-futures/gold-rises-amid-risk-on-sentiment-across-markets-ae66946a" },
+            { "name": "WSJ: Oil prices rebound as shipping risks persist", "url": "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-supply-outlook-shipping-risks-7225885e" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "biotech",
+      "title": "Biotech & pharma",
+      "kicker": "Racing the patent clock",
+      "stories": [
+        {
+          "headline": "Sanofi agrees to buy Insmed for $41 billion, pharma's biggest deal since 2023",
+          "tags": ["M&A", "Respiratory", "Patent cliff"],
+          "takeaway": "Last week's rumor became a deal: Sanofi will pay $175 a share in cash, a 46% premium, to add a fast-growing lung-disease franchise before its Dupixent patents expire.",
+          "whatHappened": [
+            "**Sanofi** announced it will acquire **Insmed** for **$175 per share in cash**, an equity value of about **$41.0 billion** (€37.6 billion). Per the companies' press release, that's roughly a **46% premium** to Insmed's *unaffected* closing price on **Nov. 18**, the day before Bloomberg first reported talks. Insmed closed Monday at $149.09 and rose about 14% in premarket trading Tuesday. Both boards approved the deal. It still needs a vote by Insmed shareholders and antitrust approvals, and is expected to close in the **first half of 2027**. Sanofi will pay with a mix of debt and cash.",
+            "Sanofi gets two approved drugs and a late-stage candidate. **Brinsupri (brensocatib)**, approved in August 2025 for **non-cystic fibrosis bronchiectasis**, brought in **$1.09 billion** through Sept. 30 and is forecast to reach $1.35–$1.4 billion in its first full year. **Arikayce** treats a hard-to-treat lung infection (MAC lung disease) and made $433.8 million in 2025; Fierce Pharma reported the FDA could approve it as a first-line treatment in January. **TPIP**, an inhaled therapy for forms of pulmonary hypertension and lung fibrosis, has phase 3 readouts coming in four conditions. Guggenheim analysts estimate the three could exceed **$15 billion** in combined peak sales; Sanofi CEO **Belén Garijo** put the opportunity at more than $10 billion.",
+            "It's Sanofi's largest deal since its 2004 merger with Aventis, Fierce reported, and well above the **€25 billion** ceiling its CFO floated in April for a single commercial asset. Sanofi says the deal should add to earnings per share by the end of 2028 and that it expects to keep a strong credit rating."
+          ],
+          "whyItMatters": [
+            "This is a **patent cliff** deal (see today's Biotech concept). **Dupixent**, Sanofi's eczema and asthma blockbuster, makes up about **two-fifths** of the company's revenue and faces patent expiry around **2031**, per Fierce. When that happens, cheaper copies called **biosimilars** will take much of its sales. Sanofi needs new products big enough to fill the hole, and buying them already approved is less risky than hoping its own labs deliver in time.",
+            "Why pay a 46% premium? Because a buyer gets control of all the future cash flows, plus the ability to sell the drugs through its own much larger global sales force. If Sanofi believes it can sell more Brinsupri, faster, than Insmed could alone, the deal can be worth more to Sanofi than to the market. Analysts at BMO noted the drugs fit Sanofi's existing respiratory business, which keeps selling costs down.",
+            "**Accretive** means the deal adds to earnings per share. Sanofi says that won't happen until the end of 2028, about two years after closing. That's common in big pharma deals: interest on new debt and integration costs come first, and the payoff comes later as sales grow."
+          ],
+          "bigPicture": [
+            "Sanofi has been here before. In 2011 it paid $20.1 billion upfront for Genzyme, a rare-disease company. Big pharma's patent cliff later this decade is enormous: dozens of top-selling drugs lose protection between 2027 and 2032. That's why takeover activity stays strong even when stock markets wobble, as we noted last week."
+          ],
+          "whatToWatch": [
+            "- The FDA decision on **Arikayce** as a first-line treatment, expected in January.\n- Antitrust review and the Insmed shareholder vote. Rival bids are rare after a signed deal but possible.\n- **TPIP's** phase 3 data, the biggest uncertainty in that $10–15 billion estimate."
+          ],
+          "sources": [
+            { "name": "Insmed 8-K: Sanofi press release (SEC)", "url": "https://www.sec.gov/Archives/edgar/data/0001104506/000114036126045364/ef20086426_ex99-1.htm" },
+            { "name": "Fierce Pharma", "url": "https://www.fiercepharma.com/pharma/sanofi-inks-41b-insmed-buyout-post-dupixent-growth-drivers" },
+            { "name": "CNBC: Insmed shares rally", "url": "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html" },
+            { "name": "WSJ: Health care roundup", "url": "https://www.wsj.com/business/health-care-roundup-market-talk-0f197179" }
+          ]
+        },
+        {
+          "headline": "Kymera's eczema pill matches Dupixent-like results in a mid-stage trial",
+          "tags": ["Clinical trials", "Immunology", "Protein degraders"],
+          "takeaway": "A once-daily pill that destroys the STAT6 protein cleared skin in a 244-patient phase 2b trial about as well as Dupixent injections did in their trials. The stock jumped ~26%, and the company quickly raised money.",
+          "whatHappened": [
+            "**Kymera Therapeutics** reported results Monday from a **phase 2b** trial of **KT-621** in **atopic dermatitis** (eczema) involving **244** adults and adolescents. At the middle dose, patients' average **EASI** score, a standard measure of how much skin is affected and how badly, fell **72%**, versus **27%** on placebo. **62%** of patients reached **EASI-75** (at least a 75% improvement), versus **22%** on placebo, a 40-point placebo-adjusted difference, Fierce Biotech reported.",
+            "Itch improved too: a 58% drop on the itch scale (versus 21% on placebo), and 52% of patients saw at least a 4-point reduction (versus 13%). Fierce noted that the placebo-adjusted EASI-75 result topped the **36.8%** figure often quoted for Dupixent. Guggenheim analysts had named a 30-point difference as the bar for investor excitement. Kymera plans to start phase 3 by **mid-2027**. The page we reviewed didn't detail safety results, so we can't assess them here.",
+            "Shares jumped about **26%** Monday morning. On Tuesday, Kymera priced an upsized stock offering at **$150.37** per share, and the stock rose more than 10%, per CNBC."
+          ],
+          "whyItMatters": [
+            "**STAT6** is a protein inside immune cells that carries the signal from **IL-4** and **IL-13**, two chemical messengers whose signal Dupixent blocks at the cell surface. Kymera's drug is a **targeted protein degrader**: rather than blocking a protein, it tags it for the cell's own garbage-disposal system to destroy. If it works and proves safe, patients could take a pill instead of injections every two weeks. That's a big deal for convenience, and a threat to Dupixent, the very drug Sanofi is protecting itself against with the Insmed deal.",
+            "A caution on comparisons: this trial didn't test KT-621 against Dupixent directly. Comparing results across different trials (called *cross-trial comparison*) is risky, because the patients, timing and placebo responses differ. Phase 2 trials are also smaller than phase 3; results often shrink in bigger studies.",
+            "Why raise money right after good news? Because the stock price is high, so the company can raise more cash while selling fewer new shares, which limits **dilution** for existing shareholders. Phase 3 trials in eczema are large and expensive, so funding them early reduces risk."
+          ],
+          "whatToWatch": [
+            "- Full safety and dose data, likely at a medical meeting.\n- Phase 3 design and start date (by mid-2027), and whether Kymera tests other Dupixent conditions like asthma.\n- Partnership interest from large drugmakers. Analysts at Guggenheim see a U.S. opportunity above $10 billion if results hold."
+          ],
+          "sources": [
+            { "name": "Fierce Biotech", "url": "https://www.fiercebiotech.com/biotech/kymeras-oral-eczema-drug-impresses-analysts-dupixent-phase-2-efficacy" },
+            { "name": "CNBC: Kymera offering", "url": "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html" }
+          ]
+        },
+        {
+          "headline": "Trial roundup: Arcus stops a pancreatic cancer study, Invivyd plans a COVID antibody filing",
+          "tags": ["Clinical trials", "Oncology", "Infectious disease"],
+          "takeaway": "An independent monitoring committee concluded Arcus's phase 3 study would fail, while Invivyd's next COVID-prevention antibody showed promising early data.",
+          "whatHappened": [
+            "**Arcus Biosciences** halted its phase 3 **PRISM-1** trial of **quemliclustat**, a pill that blocks the enzyme **CD73**, in metastatic pancreatic cancer. An **independent data monitoring committee** reviewed an interim analysis and concluded the study would miss its main goal of improving **overall survival**, Fierce Biotech reported Monday. It follows Arcus's earlier retreat from the TIGIT target after a Gilead-partnered trial failed, leaving its kidney cancer drug **casdatifan** as its main hope.",
+            "**Invivyd** said it plans to file for FDA approval in the **first quarter of 2027** for **VYD2311**, a follow-up to its COVID-prevention antibody Pemgarda. In a 90-day interim look at its ~2,400-person Declaration study, both doses produced antibody levels the company says are consistent with **70%–90%** protection against symptomatic COVID, with safety similar to a saltwater placebo, per Fierce."
+          ],
+          "whyItMatters": [
+            "Arcus shows why a **futility analysis** exists. Midway through a large trial, an independent committee peeks at the unblinded data. If there's almost no chance of success, it recommends stopping early. That spares patients from an ineffective treatment and saves the company money. Pancreatic cancer remains one of the hardest cancers to treat, and **overall survival** (how long patients live) is the toughest, most meaningful endpoint.",
+            "Invivyd's data show a different shortcut: measuring **antibody levels** in the blood as a **surrogate** for protection rather than waiting to count infections. Regulators accept surrogates when they're well linked to real outcomes. The FDA will decide whether that link is strong enough here."
+          ],
+          "whatToWatch": [
+            "- Arcus's casdatifan data and how it funds the pipeline after this setback.\n- Invivyd's full results and FDA's response to its surrogate-based approach."
+          ],
+          "sources": [
+            { "name": "Fierce Biotech: Arcus", "url": "https://www.fiercebiotech.com/biotech/arcus-halts-phase-3-study-cd73-inhibitor-looked-destined-fail" },
+            { "name": "Fierce Biotech: Invivyd", "url": "https://www.fiercebiotech.com/biotech/invivyd-aims-q127-approval-submission-after-pemgarda-successor-shows-potential-phase-3" }
+          ]
+        },
+        {
+          "headline": "A House panel wants to reverse the 'hollowing out' of U.S. biotech as China rises",
+          "tags": ["Policy", "China", "FDA"],
+          "takeaway": "The House Select Committee on China issued 12 recommendations, including limiting the FDA's acceptance of Chinese clinical trial data. It builds on last week's news that big drugmakers are pulling back from Chinese military hospitals.",
+          "whatHappened": [
+            "The **House Select Committee on the Chinese Communist Party** published a report called *Prescription America*, drawing on interviews with biotech executives and investors, Fierce Biotech reported Monday. It makes **12 recommendations**, including restricting the FDA's acceptance of **clinical trial data from China**, banning data from trial sites in **Xinjiang** and Chinese **military hospitals**, modernizing the U.S. clinical trial system, exploring **centralized ethics review boards**, and creating a **White House biotechnology coordinator**.",
+            "It follows a STAT report, covered in yesterday's edition, that Merck, Lilly, AbbVie, Pfizer and Bristol Myers Squibb told the committee they won't start new trials at hospitals linked to China's People's Liberation Army."
+          ],
+          "whyItMatters": [
+            "China has become a major source of new drug candidates. U.S. drugmakers increasingly **license** molecules discovered in China, and run trials there because they're often faster and cheaper. Merck's stomach cancer drug sac-TMT, which we covered yesterday, began in China. Limiting the use of Chinese data would raise costs and slow some programs, but supporters argue it protects research integrity and U.S. competitiveness. Investors care because it could change the value of China-sourced drugs that many biotechs and big pharma companies have already bought."
+          ],
+          "whatToWatch": [
+            "- Whether any recommendations make it into legislation, such as the **Biotech Investment National Security Act** introduced earlier this year.\n- Pending Treasury rules on U.S. investment in Chinese biotech."
+          ],
+          "sources": [
+            { "name": "Fierce Biotech", "url": "https://www.fiercebiotech.com/biotech/select-committee-china-makes-final-push-us-biotech-vs-china" }
+          ]
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "area": "Investing",
+      "title": "Market-cap weighting: how one stock can move an index of 500",
+      "body": [
+        "When you hear that *the S&P 500 rose 4.7%*, it sounds like an average of 500 companies. It is, but a **weighted** one. The S&P 500 and the Nasdaq Composite are **market-cap weighted**: each company counts in proportion to its total market value (share price × shares outstanding). A $4 trillion company counts about 400 times as much as a $10 billion one.",
+        "The math is simple: **a stock's contribution to the index's move = its weight × its own percentage move.** Add up every company's contribution and you get the index's return. So a giant stock making a giant move can account for a big share of the whole index's change, which is exactly what happened Monday, when CNBC calculated that Nvidia alone supplied more than a third of the S&P 500's gain.",
+        "Weighting has a big upside: it's cheap and automatic. An index fund doesn't need to trade when prices change, because winners naturally become larger weights. But it also means investors in a *diversified* index fund can be more concentrated than they realize. When a handful of mega-cap tech companies make up a large share of the index, the fund's fate rides heavily on them, in both directions.",
+        "Not every index works this way. The **Dow Jones Industrial Average** is **price-weighted**: a stock with a $500 share price counts more than one at $50, regardless of company size. That's one reason the Dow rose Tuesday while the Nasdaq fell. An **equal-weight** S&P 500 index gives each company 0.2% (1/500), and comparing it to the regular S&P 500 is a quick way to see whether a rally is broad or driven by a few giants."
+      ],
+      "example": [
+        "Imagine a tiny index with three companies. **Giant Co** is worth $600 billion, **Middle Co** $300 billion and **Small Co** $100 billion: total $1 trillion. Weights: **60%**, **30%** and **10%**.",
+        "One day Giant Co rises **20%**, Middle Co falls **2%** and Small Co rises **5%**. Contributions: 0.60 × 20% = **+12.0 points**; 0.30 × −2% = **−0.6**; 0.10 × 5% = **+0.5**. Index return = **+11.9%**. Giant Co produced about **101%** of the gain (12.0 ÷ 11.9), even though the other two together roughly broke even.",
+        "Now the equal-weight version: (20% − 2% + 5%) ÷ 3 = **+7.7%**. The gap between 11.9% and 7.7% shows how much the rally depended on one stock. Apply the same logic to Monday: if Nvidia's 31% jump supplied about a third of the S&P's 4.73% gain (~1.6 points), its weight in the index was roughly 1.6 ÷ 31 ≈ **5%** (an estimate from CNBC's figures, not an official weight)."
+      ]
+    },
+    {
+      "area": "Biotech",
+      "title": "Patent cliffs and loss of exclusivity: why drug revenue can vanish fast",
+      "body": [
+        "A new drug usually gets a **patent**, a legal monopoly that lasts **20 years from the date it's filed**. The catch: companies file patents early, often before human trials begin, and development takes about a decade. So a drug might have only 8–12 years of protected sales left when it launches. Laws add some extra time: patent term extensions for time lost to FDA review, and separate **regulatory exclusivity** (for example, 12 years for biologics in the U.S. before a biosimilar can be approved).",
+        "When protection ends, a drug faces **loss of exclusivity (LOE)**. For small-molecule pills, **generics** (identical chemical copies) can enter, and prices often fall 80% or more within a year or two as several competitors arrive. For **biologics**, large proteins like antibodies made in living cells, copies are called **biosimilars**. They're harder and costlier to make, so the decline is usually slower, but it can still be steep.",
+        "A **patent cliff** is when a company's biggest products lose exclusivity around the same time, so revenue drops off sharply. Companies fight it three ways: invent new drugs in-house, extend franchises (new uses, new formulations, more patents on manufacturing), or **buy** growth. Buying is the fastest, which is why companies facing cliffs often pay large premiums for businesses with drugs already on the market, like Sanofi with Insmed.",
+        "Investors watch the LOE calendar closely. A company can look cheap on today's earnings and still be expensive if a third of those earnings are about to disappear. Analysts therefore model revenue drug by drug, with a date when each one starts to decline."
+      ],
+      "example": [
+        "Take a hypothetical drugmaker, **PharmaCo**, with **$50 billion** in annual revenue. Its top drug, an antibody, brings in **$20 billion** (40%), and loses exclusivity in year 0. Assume biosimilars cut that drug's sales by **30%** in year 1, **50%** in year 2 and **65%** by year 3 (versus the original $20 billion).",
+        "Lost revenue: **$6 billion** in year 1, **$10 billion** in year 2 and **$13 billion** in year 3. If the rest of the business grows 4% a year ($30B → $31.2B → $32.4B → $33.7B), total revenue goes from $50B to about **$45.2B** in year 1 ($31.2B + $14B), **$42.4B** in year 2 and **$40.7B** in year 3: a ~19% drop despite steady growth elsewhere.",
+        "To stay flat at $50 billion by year 3, PharmaCo needs about **$9.3 billion** of new annual sales ($50B − $40.7B). If it buys a company whose drugs should reach $9–10 billion a year and pays 5× those future sales, the price is about **$45–50 billion**. That's why a $41 billion price for drugs with $10–15 billion in estimated peak sales can make sense to a company facing a cliff."
+      ]
+    }
+  ],
+  "weekAhead": [
+    { "when": "Tue, Nov 24 · after close", "event": "Dell and Workday earnings", "why": "Dell is a read on AI server demand; Workday on whether companies are still spending on software." },
+    { "when": "Wed, Nov 25 · 8:30 a.m.", "event": "October PCE inflation, Q3 GDP (2nd estimate), durable goods, jobless claims", "why": "PCE is the Fed's preferred inflation gauge and the last big reading before the Dec. 8–9 meeting. A hot number could revive talk of a half-point hike." },
+    { "when": "Wed, Nov 25 · 2 p.m.", "event": "Fed Beige Book", "why": "Business anecdotes from all 12 Fed districts: are prices and hiring still running hot?" },
+    { "when": "Thu, Nov 26", "event": "Thanksgiving: U.S. stock and bond markets closed", "why": "Thin trading around holidays can exaggerate moves on Wednesday and Friday." },
+    { "when": "Fri, Nov 27", "event": "Shortened session (stocks close 1 p.m. ET); Black Friday", "why": "Early holiday sales data will test this week's strong retailer forecasts and consumer confidence." },
+    { "when": "This week (possible)", "event": "USTR tariff announcement on China, the EU and 14 other countries", "why": "Rates and timing will show how much tariffs could add to inflation and corporate costs." },
+    { "when": "Dec 8–9", "event": "Fed meeting (FOMC) with new projections", "why": "Markets price a quarter-point hike as close to certain; the projections will show how many more officials expect." },
+    { "when": "January 2027", "event": "Expected FDA decision on Arikayce as a first-line treatment", "why": "An early test of the drugs Sanofi is buying with Insmed." }
+  ],
+  "glossary": [
+    { "term": "Market-cap weighting", "definition": "An index method in which each company counts in proportion to its total market value, so the biggest companies move the index the most." },
+    { "term": "Price-weighted index", "definition": "An index, like the Dow, in which stocks with higher share prices count more, regardless of company size." },
+    { "term": "Equal-weight index", "definition": "An index that gives every member the same weight. Comparing it with the cap-weighted version shows how broad a move is." },
+    { "term": "Key-person risk", "definition": "The risk that a company depends heavily on one individual, so their departure would hurt its value." },
+    { "term": "Corporate governance", "definition": "The rules and practices by which a board oversees a company's management on behalf of shareholders." },
+    { "term": "Risk premium", "definition": "The extra return investors demand for holding a riskier asset. More uncertainty means a bigger premium and a lower price." },
+    { "term": "Breaking issue", "definition": "When a newly public stock falls below the price at which it was sold in its IPO." },
+    { "term": "200-day moving average", "definition": "The average closing price over the past 200 trading days. Technical analysts use it to judge a long-term trend." },
+    { "term": "Bear market rally", "definition": "A sharp, temporary rise in prices during a longer decline." },
+    { "term": "Comparable-store sales", "definition": "Sales growth at stores open at least a year, which strips out growth from new locations." },
+    { "term": "Unaffected price", "definition": "A takeover target's share price before deal rumors, used to measure the true premium a buyer pays." },
+    { "term": "Accretive", "definition": "A deal that increases the buyer's earnings per share. Dilutive means it lowers them." },
+    { "term": "Loss of exclusivity (LOE)", "definition": "When a drug's patents and regulatory protections end, allowing generic or biosimilar competitors." },
+    { "term": "Biosimilar", "definition": "A close copy of a biologic drug, approved once its exclusivity ends. Usually cheaper than the original." },
+    { "term": "Targeted protein degrader", "definition": "A drug that tags a disease-causing protein for destruction by the cell's own disposal system, rather than just blocking it." },
+    { "term": "EASI-75", "definition": "An eczema trial measure: the share of patients whose skin-severity score improves by at least 75%." },
+    { "term": "Futility analysis", "definition": "A planned interim check in which an independent committee stops a trial that has little chance of meeting its goal." },
+    { "term": "Surrogate endpoint", "definition": "A measurable marker, like antibody levels, used in place of a clinical outcome when it reliably predicts that outcome." }
+  ],
+  "quiz": [
+    {
+      "topic": "Index weighting",
+      "question": "Nvidia's 31% jump supplied more than a third of the S&P 500's 4.73% gain on Monday. Why can one stock have that much influence?",
+      "choices": [
+        "The S&P 500 gives extra weight to companies whose CEO just changed",
+        "The S&P 500 is market-cap weighted, so the largest companies count most, and a big move in a huge company has a big effect",
+        "The S&P 500 is price-weighted, so the stock with the highest share price dominates",
+        "Index providers manually adjust the index on volatile days"
+      ],
+      "answer": 1,
+      "explanation": "Each stock's contribution equals its weight times its own move. A company with roughly a 5% weight that rises 31% adds about 1.6 percentage points by itself."
+    },
+    {
+      "topic": "Weighting math",
+      "question": "In a two-stock index, Stock A has a 70% weight and rises 10%; Stock B has a 30% weight and falls 10%. What's the index return?",
+      "choices": ["0%", "+10%", "+4%", "+7%"],
+      "answer": 2,
+      "explanation": "0.70 × 10% = +7 points; 0.30 × −10% = −3 points. The total is +4%. An equal-weight version of the same index would be flat (0%)."
+    },
+    {
+      "topic": "Dow vs. Nasdaq",
+      "question": "On Tuesday afternoon the Dow was up about 0.7% while the Nasdaq was down about 1.7%. What best explains the split?",
+      "choices": [
+        "Money rotated out of tech and chip stocks, which dominate the Nasdaq, into other sectors that matter more in the 30-stock, price-weighted Dow",
+        "The Dow only trades in the morning",
+        "The Nasdaq includes only foreign companies",
+        "Thanksgiving closures affect the Nasdaq first"
+      ],
+      "answer": 0,
+      "explanation": "The indexes hold different stocks and use different weighting methods. When chips fall and retailers, health care and industrials rise, they can move in opposite directions."
+    },
+    {
+      "topic": "Why a CEO matters",
+      "question": "Why could reinstating one executive add roughly $950 billion to Nvidia's market value in a day?",
+      "choices": [
+        "Nvidia's quarterly earnings were restated upward",
+        "The Fed cut interest rates the same morning",
+        "Investors saw him as central to Nvidia's strategy, so his return reduced uncertainty about future profits, lowering the risk premium investors demand",
+        "The company bought back $950 billion of stock"
+      ],
+      "answer": 2,
+      "explanation": "Stock prices reflect expected future profits and the risk around them. Lower uncertainty means investors accept a lower risk premium, so they pay more today for the same expected cash flows. It also highlights key-person risk."
+    },
+    {
+      "topic": "Breaking issue",
+      "question": "Anthropic fell below its $83 IPO price on Tuesday. Why does breaking issue matter beyond the share price itself?",
+      "choices": [
+        "The company must refund IPO buyers",
+        "Trading is automatically halted for a week",
+        "The stock is removed from the Nasdaq",
+        "Every IPO buyer is now underwater and may sell on bounces, it hurts the underwriters' reputation, and it makes raising new equity more expensive"
+      ],
+      "answer": 3,
+      "explanation": "There's no refund or delisting. But a stock below its offer price can face selling pressure from underwater holders, and a lower price means the company must issue more shares to raise the same money."
+    },
+    {
+      "topic": "Big one-day gains",
+      "question": "BTIG noted that extreme one-day gains like Monday's are more common in downtrending markets. Why might that be?",
+      "choices": [
+        "Big rallies are illegal in rising markets",
+        "Sharp bounces often come from short sellers covering and bargain hunting after steep drops, which can happen inside a longer decline",
+        "Index funds only buy on down days",
+        "Volatility is always lowest in falling markets"
+      ],
+      "answer": 1,
+      "explanation": "Large daily swings, both up and down, cluster in volatile, falling markets. The S&P was still below its 200-day moving average. A big up day alone doesn't confirm a new uptrend."
+    },
+    {
+      "topic": "Good news, bad news",
+      "question": "Consumer confidence jumped to 103.3, far above forecasts. Why might strong data not help stocks right now?",
+      "choices": [
+        "With inflation above target, a strong economy gives the Fed more reason to keep raising rates",
+        "Consumer confidence is unrelated to spending",
+        "Strong confidence always causes a recession the following month",
+        "The Conference Board's index only measures stock prices"
+      ],
+      "answer": 0,
+      "explanation": "Consumer spending drives about two-thirds of the economy, so confidence matters. But when the main worry is inflation, signs of strength raise the odds of more hikes and higher borrowing costs."
+    },
+    {
+      "topic": "Takeover premium",
+      "question": "Sanofi's $175 offer is about a 46% premium to Insmed's unaffected price, but only ~17% above Monday's $149.09 close. Why do the two figures differ?",
+      "choices": [
+        "Sanofi changed its offer overnight",
+        "Insmed paid a dividend on Monday",
+        "Insmed's stock had already risen on the Nov. 19 takeover reports, so the unaffected Nov. 18 price is the better baseline for what Sanofi is really paying",
+        "Premiums are always measured in euros"
+      ],
+      "answer": 2,
+      "explanation": "Rumors push a target's price up before any deal. Measuring from the unaffected price (about $120) captures the full premium. Measured from the rumor-inflated price, it looks smaller."
+    },
+    {
+      "topic": "Patent cliffs",
+      "question": "Dupixent is about two-fifths of Sanofi's revenue and loses patent protection around 2031. Why buy Insmed now, years ahead?",
+      "choices": [
+        "Patents can be renewed by acquiring another company",
+        "Biosimilar competition will cut Dupixent sales after exclusivity ends, and growing a replacement franchise takes years, so Sanofi needs big new products in place before the cliff",
+        "Insmed owns Dupixent's patents",
+        "The FDA requires companies to replace lost revenue"
+      ],
+      "answer": 1,
+      "explanation": "Once exclusivity ends, cheaper copies take share and prices fall. Buying approved, growing drugs now gives them time to ramp up before the cliff arrives."
+    },
+    {
+      "topic": "Reading trial data",
+      "question": "Kymera's pill produced a 40-point placebo-adjusted EASI-75 result, versus about 37 points often quoted for Dupixent. What's the main caution in comparing them?",
+      "choices": [
+        "EASI-75 measures blood pressure, not skin",
+        "Placebo results never vary between trials",
+        "Phase 2 results always improve in phase 3",
+        "It's a cross-trial comparison: different patients, designs and placebo responses, and a smaller phase 2 study, so a head-to-head phase 3 test is needed"
+      ],
+      "answer": 3,
+      "explanation": "Numbers from separate trials aren't directly comparable, and results often shrink in larger studies. KT-621's next tests are phase 3 trials planned to start by mid-2027."
+    }
+  ],
+  "footer": "Tuesday edition, written in the afternoon. The market board shows Monday's closes; Tuesday figures are intraday as of about 2 p.m. ET and will change. Some WSJ articles cited are paywalled; we used their headlines, summaries and freely visible details."
+}
