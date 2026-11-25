@@ -1,0 +1,711 @@
+{
+  "date": "2026-11-25",
+  "title": "Hot prices, cheaper drugs and a 1,100-point round trip",
+  "dek": "Inflation ran hotter, the economy grew faster and Washington proposed tariffs on 14 economies, sending the Dow down more than 1,100 points before it closed higher; meanwhile Medicare unveiled its third round of negotiated drug prices.",
+  "readingMinutes": 30,
+  "bigPicture": [
+    "Wednesday packed a week of news into the last full trading day before Thanksgiving. At 8:30 a.m. the government reported that the Federal Reserve's preferred inflation gauge, the **PCE price index**, rose **3.8%** from a year earlier in October, with *core* prices (excluding food and energy) up **3.3%**, the fastest since late 2023. In the same release window, third-quarter growth was revised up to a **4.3%** annual rate. Hours later, the U.S. Trade Representative proposed new tariffs on **14 economies**, including China, the European Union and Japan. Add another slide in AI stocks, and by late morning the **Dow** was down more than **1,100 points**, the **Nasdaq** **4.6%** and the **S&P 500** **3.2%**.",
+    "Then the selling stopped. Bargain hunters stepped in, investor Michael Burry wrote that his portfolio was *temporarily almost entirely long*, and thin holiday trading amplified the bounce. The Dow closed **up 164 points** at **50,182.95**. The S&P 500 finished down just **0.25%** and the Nasdaq **0.62%**. Anthropic, which had fallen as much as about 10%, closed slightly higher, a hair below its $83 IPO price. If you're wondering what a day like that tells you, the honest answer is: not much about the trend, and a lot about how jumpy markets are.",
+    "The thread running through today's news is **prices**. Inflation that won't come down is why markets expect the Fed to *raise* rates on Dec. 8–9, which our Investing concept explains through the difference between headline and core inflation and how monthly numbers become annual rates. Tariffs are a tax that can push prices higher still. And in health care, the government moved the other way: Medicare announced negotiated prices for **13 drugs** that would have saved it an estimated **$9.2 billion** in 2025, including an **84%** cut on Lilly's diabetes drug Trulicity. Our Biotech concept explains how Medicare drug price negotiation works and why the headline discounts are bigger than the real savings.",
+    "Pricing fights also reached Europe, where Bayer said it will pull its kidney and heart drug Kerendia from Germany after a dispute over reimbursement, even as it agreed to pay **$150 million upfront** for a Chinese-discovered cancer drug. Markets are closed Thursday for Thanksgiving and close early Friday. Happy Thanksgiving to readers who celebrate."
+  ],
+  "marketPulse": {
+    "asOf": "Closing levels from Wednesday, Nov. 25, with change versus Tuesday's close. Treasury, gold and bitcoin are late-afternoon quotes (about 4:15 p.m. ET). Approximate figures are marked with ~.",
+    "items": [
+      {
+        "name": "S&P 500",
+        "value": "7,182.78",
+        "change": "−0.25%",
+        "direction": "down",
+        "note": "Down as much as 3.2% intraday; roughly −5% for November (Reuters)"
+      },
+      {
+        "name": "Nasdaq Composite",
+        "value": "23,585.80",
+        "change": "−0.62%",
+        "direction": "down",
+        "note": "Down as much as 4.6% intraday before bargain hunters stepped in"
+      },
+      {
+        "name": "Dow Jones",
+        "value": "50,182.95",
+        "change": "+164.25 (+0.33%)",
+        "direction": "up",
+        "note": "Erased a loss of more than 1,100 points (2.2%)"
+      },
+      {
+        "name": "VIX (fear gauge)",
+        "value": "~28.3",
+        "change": "+~7.5%",
+        "direction": "flat",
+        "note": "Topped 33 in the morning; closed 28.34 per CNBC"
+      },
+      {
+        "name": "10-yr Treasury",
+        "value": "~4.87%",
+        "change": "−~3.5 bp",
+        "direction": "down",
+        "note": "Fell as low as ~4.82% as investors sought safety; 4.90% Tue"
+      },
+      {
+        "name": "Gold (Dec futures)",
+        "value": "~$3,570/oz",
+        "change": "~Flat",
+        "direction": "flat",
+        "note": "Hit ~$3,425 intraday; Tue settled $3,561.90"
+      },
+      {
+        "name": "Brent crude",
+        "value": "$94.61/bbl",
+        "change": "+3.5%",
+        "direction": "up",
+        "note": "Settled higher after Houthis claimed an attack on Saudi Arabia's biggest refinery"
+      },
+      {
+        "name": "Bitcoin",
+        "value": "~$60,200",
+        "change": "+~0.9%",
+        "direction": "flat",
+        "note": "Traded below $60,000 for much of the session"
+      }
+    ],
+    "summary": [
+      "**How to read this board:** the closing numbers hide the day. Stocks, the VIX and gold all swung hard intraday and ended near where they started. Two moves did stick. **Bond yields fell**, which is unusual on a day of hot inflation data: investors bought Treasuries as a safe place to hide while stocks were falling, and that *flight to safety* outweighed the inflation news. And **oil jumped 3.5%** on a supply scare in the Middle East, a reminder that energy prices can feed straight back into the inflation numbers the Fed is fighting. A VIX in the high 20s still signals plenty of fear; calm markets usually sit in the teens.",
+      "**Tuesday's final numbers, for the record.** Yesterday's edition was written mid-afternoon and used intraday figures. At Tuesday's close, the S&P 500 fell **0.5%** to 7,201.09, the Nasdaq **1.48%** to 23,733.54, and the Dow rose **0.85%** to 50,018.70. Nvidia ended down nearly 6% (not ~7%), Micron about 11%, and Anthropic about 6% at **$81.91**, its first close below the $83 IPO price (we had reported ~9% and ~$79 intraday). Brent settled at $91.40, up 2.3%.",
+      "**Sourcing note:** index closes are from CNBC and match WSJ market data; Reuters' preliminary figures differed by a few points. The VIX close is from CNBC (WSJ showed ~28.0 at an earlier read). The 10-year yield is from CNBC and WSJ quotes (4.866% and 4.869%). Brent is Reuters' settlement, matching CNBC's quote. For gold, CNBC's late quote showed December futures up 0.25%, but the WSJ reported futures *settled* lower for a second session, so we show it as roughly flat. Bitcoin is from CNBC and WSJ quotes ($60,160 and $60,380)."
+    ]
+  },
+  "sections": [
+    {
+      "id": "markets",
+      "title": "Markets & the economy",
+      "kicker": "Hot inflation, new tariffs and a market that refused to stay down",
+      "stories": [
+        {
+          "headline": "Down 1,100, up 164: the Dow's stunning pre-holiday reversal",
+          "tags": [
+            "Stocks",
+            "Volatility",
+            "AI"
+          ],
+          "takeaway": "Hot inflation data, new tariff proposals and another AI selloff sent stocks sharply lower Wednesday morning, but buyers returned and the Dow finished higher. The swing says more about nervous, thin holiday markets than about where stocks go next.",
+          "whatHappened": [
+            "At their lows on Wednesday morning, the **Dow** was down more than **1,100 points** (2.2%), the **Nasdaq Composite** **4.6%** and the **S&P 500** **3.2%**, per CNBC. By the close, the Dow was **up 164.25 points (0.33%)** at **50,182.95**, while the S&P 500 slipped **0.25%** to **7,182.78** and the Nasdaq **0.62%** to **23,585.80**. Reuters noted the S&P 500 is down roughly **5%** for November.",
+            "Several forces hit at once. October's **PCE** inflation report came in hot (see the next story but one). The administration proposed tariffs on **14 economies**. And AI stocks resumed their slide: **Nvidia** fell **3.91%** to **$149.30**, **Oracle** more than 5%, **Micron** about 4.5% and **Alphabet** more than 2%. Chipmaker **Ambarella** plunged more than 19% after a weak forecast. Reuters also cited fears of tougher regulation of the AI sector after Democrats' sweep in this month's midterm elections, and rising oil prices tied to the U.S.-Iran war.",
+            "The pain started overseas. South Korea's **KOSPI** plunged **6.16%** and Japan's **Nikkei 225** fell **2.78%**, with chip-equipment makers Advantest, Tokyo Electron and Lasertec each down more than 10%, CNBC reported. Europe's Stoxx 600 held up better, led by industrial and luxury stocks.",
+            "What turned it around? Traders pointed to bargain hunting before the holiday and to a newsletter post from **Michael Burry**, the investor famous for betting against housing before 2008, who wrote that apart from bets against Palantir and MetLife he was *temporarily almost entirely long*, meaning positioned for prices to rise. Wealthspire's **Oliver Pursche** told Reuters that investors have been *conditioned* to buy dips, and that broad selloffs often throw the baby out with the bathwater. Deutsche Bank's **Jim Reid** called the mood *risk-off*, but said the market was back to rotating between sectors rather than selling everything, as it did late last week."
+          ],
+          "whyItMatters": [
+            "An **intraday reversal** this big is a sign of a fragile, emotional market. When prices fall fast, some investors are forced to sell (for example, those who borrowed to buy, facing **margin calls**), while others see bargains. Which side wins can flip within hours. Thin trading before a holiday makes this worse: with fewer buyers and sellers, each order moves prices more.",
+            "Notice the split again: the Dow rose while the Nasdaq fell, for the second day in a row. Aptus Capital's **David Wagner** told CNBC the market is *very bifurcated*, meaning split in two, between AI and non-AI stocks. He said he sees a *sentiment-based* scare rather than a *growth* scare, but warned it could become one if markets start pricing in too many Fed rate hikes. That's the key distinction: a sentiment scare is about mood and valuations; a growth scare is about falling profits, which is harder to recover from."
+          ],
+          "whatToWatch": [
+            "- **Friday's shortened session** (stocks close at 1 p.m. ET). Low volume can exaggerate moves either way.\n- Whether the S&P 500 holds above Wednesday's intraday low, a level traders will watch as support.\n- **Dec. 1 and Dec. 3:** Nvidia CEO Jensen Huang is scheduled to appear before the House Foreign Affairs Committee and the Senate Banking Committee, per CNBC."
+          ],
+          "sources": [
+            {
+              "name": "CNBC: Wednesday live updates",
+              "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html"
+            },
+            {
+              "name": "Reuters: Nasdaq, S&P 500 end well off lows",
+              "url": "https://www.reuters.com/business/nasdaq-futures-slide-over-2-fresh-us-tariff-concerns-inflation-data-focus-2026-11-25/"
+            },
+            {
+              "name": "WSJ: Stocks pare losses as tech selloff eases",
+              "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-25-2026"
+            },
+            {
+              "name": "WSJ: Asian stocks lower on AI doubts, tariff jitters",
+              "url": "https://www.wsj.com/finance/stocks/asian-stocks-mostly-lower-on-ai-doubts-tariff-jitters-a0da3389"
+            }
+          ]
+        },
+        {
+          "headline": "The AI trade's mixed signals: Dell's revenue doubles, Nvidia gets a credit warning, Anthropic round-trips",
+          "tags": [
+            "AI",
+            "Earnings",
+            "Credit",
+            "Anthropic"
+          ],
+          "disclosure": "**Disclosure:** this brief is written by Claude, which is made by Anthropic. The Anthropic portion of this story is based only on the outside reporting and market data linked below, and includes skeptical views. Read it with that conflict of interest in mind.",
+          "takeaway": "AI demand looks enormous in the numbers, with Dell's AI server sales nearly quadrupling, yet investors keep selling AI stocks. A credit-rating agency flagged governance risk at Nvidia, and Anthropic swung from a 10% loss to a small gain.",
+          "whatHappened": [
+            "**Dell** reported after Tuesday's close that third-quarter revenue rose **103%** to about **$54.9 billion**, well above the roughly $49.3 billion analysts expected. Adjusted earnings were **$9.45** a share versus estimates around **$6.57**. Sales of **AI-optimized servers** rose **291%** to **$22.0 billion**. Dell raised its full-year revenue forecast to **$202 billion** from $192 billion, lifted its AI server forecast to **$78 billion** from $74 billion, and its board approved a **$25 billion** expansion of its stock buyback. The reaction was muted: Dell had fallen about 12% during Tuesday's chip selloff before reporting, and it ended Wednesday little changed at about $296.70, per Benzinga data.",
+            "**Workday**, which sells HR and finance software, reported a modest beat and raised its full-year outlook, but its forecast for fourth-quarter subscription revenue was slightly soft. Shares fell as much as about 7% early Wednesday before recovering to close slightly higher.",
+            "Credit-rating agency **S&P Global** placed **Nvidia's AA** rating on **CreditWatch with negative implications**, meaning a downgrade is possible. It cited questions about Nvidia's *management and governance framework, including board independence and key man risk* after Jensen Huang's resignation and reinstatement, plus questions about possible export-control violations, CNBC reported. Nvidia fell 3.91% for the day.",
+            "**Anthropic** (ticker ANT) had its wildest session yet. After closing Tuesday at **$81.91**, its first finish below its **$83** IPO price, the stock fell as low as **$73.85** Wednesday morning, about 10% lower, then rallied as high as $85.92 before closing at **$82.79**, up about 1.1%, per CNBC quote data. A Wall Street Journal headline Tuesday evening said the trade in the biggest IPO ever was *already unraveling*, and a MarketWatch headline said the slide was spooking investors in rival OpenAI."
+          ],
+          "whyItMatters": [
+            "Dell's results show the disconnect at the heart of this market. Companies building AI infrastructure are reporting extraordinary growth, but investors are worried about the *next* stage: whether the customers buying all these servers, often with borrowed money, will earn enough to keep buying. A WSJ report this week said higher interest rates and debt-driven data center spending are curbing investors' appetite for tech. When a stock barely moves after a blowout quarter, it usually means the good news was already **priced in**, or that investors doubt it will last.",
+            "A **CreditWatch negative** listing matters even for a company as cash-rich as Nvidia. Credit ratings tell bond investors how likely a borrower is to repay. AA is the second-highest tier. A downgrade would barely change Nvidia's borrowing costs, but S&P's reasoning is the news: it's an independent judgment that governance, not finances, has become a real risk. Bond analysts and stock analysts look at the same company through different lenses, and lately the bond side has been more cautious.",
+            "For Anthropic, trading around the IPO price shows how much uncertainty surrounds a newly public company with no earnings history as a public company. Skeptics point to its huge spending commitments and expected junk-rated debt, which we covered yesterday. Bulls, including some analysts who began coverage this week, argue it's an early way to own AI software profits. Neither side has hard data yet; the first quarterly report will provide some."
+          ],
+          "whatToWatch": [
+            "- Huang's congressional appearances on **Dec. 1** and **Dec. 3**, and whether S&P resolves its CreditWatch.\n- Anthropic's first credit ratings and the end of the IPO research **quiet period** in mid-December.\n- More AI hardware earnings in early December, a further test of whether strong results can lift the group."
+          ],
+          "sources": [
+            {
+              "name": "WSJ: Dell lifts outlook as revenue doubles",
+              "url": "https://www.wsj.com/business/earnings/dell-lifts-outlook-as-revenue-doubles-on-server-demand-40c14b0b"
+            },
+            {
+              "name": "Dell Technologies Q3 FY2027 results",
+              "url": "https://investors.delltechnologies.com/news-events/press-releases/detail/1665/dell-technologies-delivers-third-quarter-fiscal-2027-financial-results"
+            },
+            {
+              "name": "Benzinga: Workday outlook disappoints",
+              "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/11/63639490/workday-q3-outlook-ai-adoption"
+            },
+            {
+              "name": "CNBC: S&P Global puts Nvidia on CreditWatch (live updates)",
+              "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html"
+            },
+            {
+              "name": "CNBC: Anthropic quote",
+              "url": "https://www.cnbc.com/quotes/ANT"
+            },
+            {
+              "name": "WSJ: Anthropic's IPO trade is already unraveling",
+              "url": "https://www.wsj.com/finance/stocks/anthropic-had-the-biggest-ipo-ever-the-trade-is-already-unraveling-f971d7c5"
+            }
+          ]
+        },
+        {
+          "headline": "Inflation heats up as the economy runs faster: PCE hits 3.8% and GDP is revised to 4.3%",
+          "tags": [
+            "Economy",
+            "Inflation",
+            "Fed",
+            "GDP"
+          ],
+          "takeaway": "The Fed's preferred inflation measure rose to 3.8% in October, core inflation hit its highest since 2023, and third-quarter growth was much stronger than first reported. Together they cement expectations for a rate hike next month.",
+          "whatHappened": [
+            "The **Bureau of Economic Analysis** said the **PCE price index** rose **0.3%** in October and **3.8%** from a year earlier, up from 3.7% in September. **Core PCE**, which excludes food and energy, also rose **0.3%** on the month and **3.3%** from a year earlier, up from 3.1%: the highest since November 2023. CNBC said headline inflation matched forecasts and core was 0.1 point above them. Investor's Business Daily noted that the monthly core rise was about **0.29%**, in line with forecasts; the yearly figure ticked up partly because earlier months were revised higher.",
+            "**Third-quarter GDP** was revised to a **4.3%** annual growth rate from **3.4%** in the first estimate, beating the 3.5% economists expected and marking the fastest pace since the third quarter of 2023, Reuters reported. Consumer spending was revised up to a 4.2% rate, and business investment, much of it tied to AI, was revised sharply higher. **Final sales to private domestic purchasers**, a measure of underlying demand that strips out inventories, trade and government, grew at a **5.8%** rate.",
+            "In October, incomes rose **0.7%**, well above the 0.4% forecast, while spending rose 0.3%. After adjusting for inflation, spending was essentially flat, and the **saving rate** rose to **4.1%** from 3.6%. Weekly **jobless claims** fell to **189,000**, below the 200,000 expected. **Durable goods orders** rose just 0.2%, below forecasts. CNBC said markets fully price a **quarter-point rate hike** at the Fed's **Dec. 8–9** meeting, and Reuters said the data reinforced expectations of another hike in early 2027."
+          ],
+          "whyItMatters": [
+            "The Fed's target is **2%** inflation as measured by PCE. At 3.8% headline and 3.3% core, inflation has now been above target for about five and a half years, CNBC noted. The Fed raises rates to cool demand: higher borrowing costs mean fewer loans for houses, cars and expansion, which eventually slows price increases. A 4.3% growth rate tells the Fed the economy can handle tighter policy, and may need it.",
+            "So why did bond yields *fall*? Two reasons. First, the core monthly number was in line, so the surprise was smaller than the yearly figure suggested. Second, when stocks plunge, investors buy Treasuries for safety, which pushes prices up and yields down. There's also a subtler point: rate hikes now could mean slower growth later, and bond investors who expect a slowdown accept lower long-term yields.",
+            "Note the saving rate. Real spending was flat in October even as incomes jumped, which ING economists read as a sign that fourth-quarter growth will be weaker than the third. ING's **James Knightley** wrote that strong growth and elevated inflation *signal more Fed tightening*."
+          ],
+          "whatToWatch": [
+            "- **Dec. 8–9:** the Fed's meeting and new projections. Watch the *dot plot* of officials' rate expectations for 2027.\n- **Dec. 10:** November CPI, the other major inflation gauge.\n- Early-December jobs data. A labor market this strong (claims under 200,000) gives the Fed little reason to hold back."
+          ],
+          "sources": [
+            {
+              "name": "BEA: Personal Income and Outlays, October 2026",
+              "url": "https://www.bea.gov/news/2026/personal-income-and-outlays-october-2026"
+            },
+            {
+              "name": "Reuters: Economy roars ahead in Q3, inflation stays high",
+              "url": "https://www.reuters.com/business/us-inflation-rises-further-october-2026-11-25/"
+            },
+            {
+              "name": "CNBC: PCE inflation report",
+              "url": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html"
+            },
+            {
+              "name": "ING Think: More Fed tightening",
+              "url": "https://think.ing.com/articles/strong-growth-and-elevated-inflation-signal-more-fed-tightening/"
+            },
+            {
+              "name": "Investor's Business Daily: Core PCE",
+              "url": "https://www.investors.com/news/pce-inflation-oct-federal-reserve-sp-500-ai-nvidia-liquidity-crunch/"
+            }
+          ]
+        },
+        {
+          "headline": "Washington proposes tariffs of up to 35% on 14 economies, from China to the EU",
+          "tags": [
+            "Trade",
+            "Tariffs",
+            "Policy"
+          ],
+          "takeaway": "The U.S. Trade Representative found that 14 economies' industrial policies unfairly hurt U.S. manufacturing and proposed new tariffs ranging from 15% for the EU and Japan to 35% for Vietnam. Nothing takes effect yet; hearings start in January.",
+          "whatHappened": [
+            "Following up on Tuesday's WSJ report, **USTR Jamieson Greer** announced determinations in **14 investigations** under **Section 301 of the Trade Act of 1974**, finding that the economies' practices relating to *structural excess capacity* in manufacturing are unreasonable and burden U.S. commerce. **Excess capacity** means building far more factories than domestic demand needs, often with government support, and exporting the surplus cheaply.",
+            "Proposed rates, per USTR: **Vietnam** up to **35%** (20% if it reaches a trade agreement); **India** up to **25%** (17% with an agreement); **China** up to **20%** on most goods, up to 10% on a list of goods in an annex, and exemptions for another list; **Singapore** up to 20% (10% with an agreement); **Bangladesh, Cambodia, Indonesia, Malaysia and Thailand** up to **18%**; and the **European Union, Japan, South Korea, Switzerland and Taiwan** at **15%**, a rate that counts the normal tariff already charged. Each economy has some exemptions. Written comments are due **Jan. 5, 2027**, and public hearings begin **Jan. 25**.",
+            "Greer argued that trading partners have for decades used subsidies, wage suppression and other practices that *tilt the trade balance in their favor* while eroding U.S. manufacturing. He said of allies like Japan, South Korea and the EU that they know what's being proposed and *a lot of this is baked in*, per MLQ.ai's report."
+          ],
+          "whyItMatters": [
+            "A tariff is a tax on imports, paid by the importing company. Some of the cost gets passed to consumers as higher prices, some is absorbed in lower profits, and some is pushed back onto foreign suppliers. With inflation already at 3.8%, broad new tariffs risk adding to price pressure just as the Fed is hiking, which is why stocks fell when the details hit Wednesday morning.",
+            "The numbers matter for specific industries. Vietnam and the other Southeast Asian countries became major manufacturing hubs partly because companies moved production out of China to avoid earlier tariffs. Higher rates on them would raise costs for apparel, electronics and furniture importers. The 15% all-in rate for the EU and Japan appears to mirror the 15% rates in earlier trade deals with them, which helps explain why Greer said much of it is *baked in*.",
+            "Using **Section 301** matters too. It's a long-standing law that lets the government act against unfair foreign trade practices, but only after an investigation, public comments and hearings. That process is why nothing takes effect immediately, and it gives trading partners a window to negotiate."
+          ],
+          "whatToWatch": [
+            "- How China, the EU and others respond. Retaliation would hit U.S. exporters.\n- Whether countries negotiate the lower rates offered for trade agreements before the January hearings.\n- Company warnings about tariff costs in upcoming earnings calls, especially retailers after the holiday season."
+          ],
+          "sources": [
+            {
+              "name": "USTR press release",
+              "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ustr-makes-determinations-and-proposes-actions-14-section-301-investigations-relating-structural"
+            },
+            {
+              "name": "MLQ.ai: Excess-capacity tariffs explained",
+              "url": "https://mlq.ai/news/us-proposes-excess-capacity-tariffs-on-china-the-eu-and-12-other-economies-with-20-on-china-on-top-of-existing-duties/"
+            },
+            {
+              "name": "CNBC: Tariff details (live updates)",
+              "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html"
+            },
+            {
+              "name": "WSJ: U.S. prepares to raise tariffs",
+              "url": "https://www.wsj.com/economy/trade/u-s-prepares-to-raise-tariffs-on-china-and-other-countries-37981740"
+            }
+          ]
+        },
+        {
+          "headline": "Quick hits from around the market",
+          "tags": [
+            "Commodities",
+            "Banking",
+            "Retail",
+            "Deals"
+          ],
+          "takeaway": "An attack claim on Saudi Arabia's biggest refinery lifted oil, copper headed for a historically bad month, JPMorgan's CEO took aim at a U.K. bank tax, and Urban Outfitters slid.",
+          "whatHappened": [
+            "- **Oil jumps on a refinery attack:** Brent settled up **3.5%** at **$94.61** a barrel and U.S. crude (WTI) rose 2% to $83.68 after Yemen's Iran-aligned **Houthis** said they attacked Saudi Arabia's **Ras Tanura** refinery, the kingdom's largest, Reuters reported. Saudi Arabia said it shot down four drones over the site, per OilPrice.com. U.S. crude stockpiles rose 1.1 million barrels, the third straight weekly increase. OPEC+ ministers meet **Nov. 29**.\n- **Copper's rough month:** the metal was heading for one of its worst monthly performances in more than a decade as investors retreated from riskier assets, even though physical supply remains tight, the WSJ reported.\n- **Dimon vs. Britain:** JPMorgan CEO **Jamie Dimon** wants to push back against the U.K. after its government raised taxes on banks, the WSJ reported.\n- **Retail misses:** Urban Outfitters fell about 13% after weaker-than-expected comparable sales, CNBC said, a contrast with the strong retailer results earlier this week.\n- **Deere** rose about 4.7% after reporting results, after trading down more than 5% at its session low, per CNBC market data."
+          ],
+          "whyItMatters": [
+            "Oil is the item to remember. On Monday, traders shrugged off mines hitting tankers because they expected a supply glut. On Wednesday, an attack claim on a 550,000-barrel-a-day refinery lifted prices 3.5%. Markets constantly weigh a slow-moving force (forecasts of surplus supply) against sudden shocks (attacks), and the balance can shift quickly. Higher oil also feeds straight into headline inflation, the number the Fed is fighting."
+          ],
+          "sources": [
+            {
+              "name": "Reuters: Oil rises after Houthi attack claim",
+              "url": "https://www.reuters.com/business/energy/oil-prices-fall-supply-glut-concerns-offset-middle-east-disruption-fears-2026-11-25/"
+            },
+            {
+              "name": "OilPrice.com: Saudi Arabia downs drones",
+              "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Jumps-Over-2-as-Saudi-Arabia-Downs-Drones-Over-Ras-Tanura.html"
+            },
+            {
+              "name": "WSJ: Copper slumps amid AI roller coaster",
+              "url": "https://www.wsj.com/finance/commodities-futures/copper-slumps-amid-ai-roller-coaster-but-physical-supply-remains-tight-14fd2a91"
+            },
+            {
+              "name": "WSJ: Jamie Dimon and the U.K. bank tax",
+              "url": "https://www.wsj.com/finance/banking/jamie-dimon-loved-britainuntil-it-raised-taxes-on-jpmorgan-3462d7b6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "biotech",
+      "title": "Biotech & pharma",
+      "kicker": "Who sets the price of a medicine?",
+      "stories": [
+        {
+          "headline": "Medicare's third round of drug price negotiations: 13 drugs, $9.2 billion in estimated savings",
+          "tags": [
+            "Drug pricing",
+            "Medicare",
+            "Policy"
+          ],
+          "takeaway": "Medicare negotiated lower prices for 13 high-spend drugs, including Trulicity, Cosentyx and Biktarvy, starting in 2028. It's the first round to include drugs given in a doctor's office, and the headline savings are larger than the real ones.",
+          "whatHappened": [
+            "The **Centers for Medicare & Medicaid Services (CMS)** announced negotiated prices for **13 drugs** in the third round of the program created by the **Inflation Reduction Act** of 2022. CMS estimates the prices would have saved Medicare **$9.2 billion**, a **45%** net savings, had they been in effect in 2025. The new prices take effect in **2028**. AARP reported beneficiaries would save about **$464 million** in out-of-pocket costs.",
+            "The drugs: Lilly's **Trulicity** and **Verzenio**, Gilead's **Biktarvy**, Bristol Myers Squibb's **Orencia**, Novartis' **Cosentyx** and **Kisqali**, J&J's **Erleada**, Eisai's **Lenvima**, Takeda's **Entyvio**, UCB's **Cimzia**, Otsuka's **Rexulti**, Boehringer Ingelheim's **Tradjenta** and GSK's **Anoro Ellipta**. This round is the first to include **Part B** drugs, medicines given in clinics and doctors' offices; the first two rounds covered only **Part D** pharmacy drugs.",
+            "Per Fierce Pharma, the monthly price of **Trulicity**, a GLP-1 diabetes drug, falls **84%**, from $965 to **$150**. **Cosentyx** drops 67% to $2,600, **Biktarvy** 37% to $2,600, **Entyvio** 34% to $2,645, and the four cancer drugs fall 40% to 50%. AbbVie's **Botox Cosmetic** was originally selected but dropped out after a federal court ruled in October that it could be excluded. CMS Administrator **Mehmet Oz** said millions of seniors leave the pharmacy without medicines they can't afford."
+          ],
+          "whyItMatters": [
+            "Before 2022, Medicare was barred from negotiating drug prices directly. Now it can, for a growing list of the drugs it spends the most on. That shifts power from drugmakers to the government for older, best-selling products, and it changes how investors value them. A drug's last years before generic competition used to be among its most profitable; now some face government-set prices first. Our Biotech concept walks through how this works.",
+            "Look closely at the savings figures. The discounts above are measured against **list prices**, but Medicare's drug plans already received confidential **rebates** off those prices. Measured against what was really being paid, Fierce reported that CMS put savings at **$5.5 billion (33%)** once a separate manufacturer discount program is counted. That's still large, but smaller than the headline. For investors, the real hit to a company's revenue depends on the net price, not the list price."
+          ],
+          "bigPicture": [
+            "The program is growing: the first round's 10 drug prices took effect this year, the second round's 15 take effect in 2027, and this round's 13 in 2028. CMS can select up to 20 drugs a year from 2029. The pharmaceutical industry argues the program discourages investment in new medicines, especially small-molecule pills, which become eligible for negotiation sooner than biologics. Supporters say it targets drugs that have already earned back their development costs many times over."
+          ],
+          "whatToWatch": [
+            "- CMS's selection of drugs for the next round, and any further legal challenges from drugmakers.\n- Whether companies with negotiated drugs lower their 2028 sales forecasts.\n- How Medicare negotiation interacts with the administration's separate *most favored nation* pricing push, which ties U.S. prices to those in other wealthy countries."
+          ],
+          "sources": [
+            {
+              "name": "CMS press release",
+              "url": "https://www.cms.gov/newsroom/press-releases/cms-announces-lower-negotiated-prices-13-high-cost-drugs"
+            },
+            {
+              "name": "Fierce Pharma",
+              "url": "https://www.fiercepharma.com/pharma/medicare-projects-92b-drug-cost-savings-latest-round-price-negotiations"
+            },
+            {
+              "name": "AARP: What beneficiaries save",
+              "url": "https://www.aarp.org/medicare/medicare-2028-drug-price-negotiations-list/"
+            },
+            {
+              "name": "Endpoints News",
+              "url": "https://endpoints.news/cms-reveals-medicares-negotiated-drug-prices-for-2028/"
+            }
+          ]
+        },
+        {
+          "headline": "Bayer's two-sided week: a $3.3 billion bet on a Chinese cancer drug, and a pricing walkout in Germany",
+          "tags": [
+            "Licensing",
+            "China",
+            "ADC",
+            "Drug pricing"
+          ],
+          "takeaway": "Bayer licensed a phase 1 antibody-drug conjugate from China's Hansoh for $150 million upfront and up to $3.1 billion more. Separately, it will pull its blockbuster Kerendia from Germany after regulators judged it offered no added benefit in heart failure.",
+          "whatHappened": [
+            "**Bayer** will pay **Hansoh Pharma** **$150 million upfront** for rights outside China to **HS-20122**, an **antibody-drug conjugate (ADC)** in phase 1 testing for solid tumors such as **non-small-cell lung cancer**. Hansoh could earn up to **$3.1 billion** in milestone payments plus tiered royalties on sales, Fierce Biotech reported. The drug is **bispecific**: its antibody targets two proteins on cancer cells, **EGFR** and **c-Met**. Hansoh has signed earlier ADC deals with **Roche**, valued at up to $15 billion, and **GSK**.",
+            "Separately, Bayer said it will withdraw **Kerendia** (finerenone) from the German market on **Dec. 15**. Germany's **Federal Joint Committee (G-BA)**, which judges whether new drugs offer extra benefit over existing ones to guide reimbursement talks, found Kerendia offered no added benefit for a type of chronic heart failure. Bayer said that made the drug *unviable* in Germany and that the assessment differs from other European countries'. Kerendia brought in **€977 million ($1.1 billion)** in the first nine months of 2026, mostly from the U.S. and China. It had earlier been judged beneficial in Germany for kidney disease linked to type 2 diabetes."
+          ],
+          "whyItMatters": [
+            "The Hansoh deal shows the typical structure of a **biobucks** licensing deal. The headline number, $3.3 billion, is mostly milestones that are paid only if the drug clears trial and regulatory hurdles and hits sales targets. The money certain to change hands is the $150 million upfront. For an early-stage drug, most of those milestones will likely never be paid, because most phase 1 drugs fail. That's why analysts focus on the upfront payment.",
+            "It also shows how important China has become as a source of new drugs, especially ADCs, which we explained in Monday's edition. It arrives days after a House committee recommended limits on the FDA's use of Chinese trial data. So far, those political worries haven't stopped big pharma from shopping.",
+            "Kerendia shows the other side of drug pricing. In Germany, a new drug's price after its first period on the market depends on whether the G-BA finds it adds benefit. A *no added benefit* ruling usually means a price tied to older, cheaper treatments. Rather than accept a low price that could be referenced by other countries, a company sometimes chooses to leave the market. Fierce noted Germany also raised mandatory rebates this year, and Roche, Lilly and Boehringer have scaled back investment plans there."
+          ],
+          "whatToWatch": [
+            "- Hansoh's next deal. Fierce called its ADCs some of the hottest tickets in China-sourced drugs.\n- Whether other drugmakers follow Bayer in pulling products from Germany or delaying launches there.\n- Early data from HS-20122's phase 1 trial at upcoming cancer meetings."
+          ],
+          "sources": [
+            {
+              "name": "Fierce Biotech: Bayer-Hansoh deal",
+              "url": "https://www.fiercebiotech.com/biotech/bayer-becomes-latest-big-pharma-head-hansoh-33b-deal-phase-1-adc"
+            },
+            {
+              "name": "Fierce Pharma: Bayer pulls Kerendia from Germany",
+              "url": "https://www.fiercepharma.com/pharma/bayer-pulls-kidney-blockbuster-kerendia-german-health-system-amid-pricing-dispute"
+            }
+          ]
+        },
+        {
+          "headline": "Two notable FDA approvals: the first pill for vitiligo, and a new option for a rare stomach cancer after 20 years",
+          "tags": [
+            "FDA",
+            "Approvals",
+            "Dermatology",
+            "Oncology"
+          ],
+          "takeaway": "AbbVie's Rinvoq won its 10th approval, becoming the first oral treatment for vitiligo, and Cogent's Ekitna became the first new second-line treatment for advanced GIST in more than two decades.",
+          "whatHappened": [
+            "The FDA approved AbbVie's **Rinvoq** (upadacitinib) on Monday for **nonsegmental vitiligo**, an autoimmune disease that destroys pigment-producing skin cells and leaves white patches, in patients as young as 12. It's the drug's **10th** approved use and the first **systemic** (whole-body) treatment for the condition, Fierce Pharma reported. In two phase 3 trials, **Viti-Up-1** and **Viti-Up-2**, significantly more patients on Rinvoq than on placebo regained at least 75% of facial pigment and 50% of total body pigment at 48 weeks. Analysts project peak sales of **$500 million to $800 million** in vitiligo.",
+            "The FDA also approved **Cogent Biosciences'** **Ekitna** (bezuclastinib), combined with the older drug sunitinib, for adults with advanced **gastrointestinal stromal tumors (GIST)** who have already received the standard first treatment, imatinib, or couldn't tolerate it. In the phase 3 **PEAK** trial, the combination produced median **progression-free survival** of **16.5 months** versus **9.2 months** for sunitinib alone, about a 50% reduction in the risk of the cancer worsening or death. It's the first new second-line GIST option in more than 20 years. The list price is just over **$49,000 a month**, per Fierce."
+          ],
+          "whyItMatters": [
+            "Rinvoq is a **JAK inhibitor**, a pill that blocks signaling enzymes that drive inflammation. Getting more approved uses, called **label expansion**, is how a drug company grows a franchise without discovering a new molecule. It also matters for AbbVie's patent cliff: Rinvoq and Skyrizi are the drugs replacing Humira's lost sales. The vitiligo market has been led by **Incyte's Opzelura**, a cream. A pill offers whole-body treatment, though JAK inhibitors carry safety warnings that doctors will weigh.",
+            "**Progression-free survival (PFS)** measures how long patients live without their cancer growing. It's often used in cancer approvals because it reads out sooner than **overall survival**. A gain of more than seven months in a disease with few options is large, which is why one oncologist quoted by Fierce called the combination a *new standard of care*. A $49,000 monthly price is typical for new cancer drugs in the U.S., and it's the sort of price that could eventually bring a drug into Medicare negotiation."
+          ],
+          "whatToWatch": [
+            "- How quickly dermatologists adopt Rinvoq in vitiligo and how Incyte responds.\n- Cogent's launch numbers and its other trials of bezuclastinib, including in a rare mast-cell disease."
+          ],
+          "sources": [
+            {
+              "name": "Fierce Pharma: Rinvoq vitiligo approval",
+              "url": "https://www.fiercepharma.com/pharma/rinvoq-secures-fda-nod-vitiligo-ramping-competition-incyte"
+            },
+            {
+              "name": "Fierce Pharma: Cogent's Ekitna approval",
+              "url": "https://www.fiercepharma.com/pharma/cogent-secures-2nd-line-approval-rare-stomach-cancer-first-20-years"
+            }
+          ]
+        },
+        {
+          "headline": "Trial readouts: BMS's lupus pill posts a hit and a miss; GSK's twice-a-year shot matches a monthly rival",
+          "tags": [
+            "Clinical trials",
+            "Immunology",
+            "Lupus"
+          ],
+          "takeaway": "Bristol Myers Squibb's Sotyktu met its main goal in one phase 3 lupus trial but missed in a second, leaving its path to approval unclear. GSK's Exdensur proved non-inferior to Nucala in a rare blood-vessel disease with just two doses a year.",
+          "whatHappened": [
+            "**Bristol Myers Squibb** reported results from two phase 3 trials of **Sotyktu** (deucravacitinib) in **systemic lupus erythematosus (SLE)**, an autoimmune disease that can damage skin, joints, kidneys and other organs. In **POETYK SLE-1** (510 patients), significantly more patients on Sotyktu than on placebo achieved a response on the **SRI-4** scale at one year, though key secondary goals weren't statistically significant. In **POETYK SLE-2** (513 patients), Sotyktu's response rate was similar, but the trial **missed** its primary endpoint. Safety was consistent with its approved uses in psoriasis and psoriatic arthritis. BMS said it will review the data and discuss them with regulators.",
+            "**GSK** said its **Exdensur** (depemokimab), given just **twice a year**, was **non-inferior** to monthly **Nucala** (mepolizumab), GSK's own older drug, at helping patients reach remission of **EGPA**, a rare disease that inflames small blood vessels, in the **OCEAN** trial. Safety was similar between the two. GSK plans to file for approval in the first half of 2027. Exdensur is approved in the U.S. for severe eosinophilic asthma; the FDA rejected it earlier this year for nasal polyps."
+          ],
+          "whyItMatters": [
+            "Why can the *same* drug hit in one trial and miss in another with a similar response rate? Because success is measured against **placebo**. If more patients on placebo happen to improve in the second trial, the gap shrinks and may not be **statistically significant**, meaning large enough that chance is an unlikely explanation. Lupus trials are notorious for high placebo responses. Regulators usually want two successful phase 3 trials, so a split result makes approval harder, though not impossible.",
+            "A **non-inferiority** trial asks a different question: not *is it better?* but *is it at least about as good?* Proving that a twice-yearly shot works about as well as a monthly one is a convenience win for patients. It's also a business strategy: by moving patients from Nucala to a newer drug with longer patent life, GSK protects its franchise, the same logic we covered in Tuesday's patent cliff explainer."
+          ],
+          "whatToWatch": [
+            "- Full Sotyktu data at a medical meeting, and its phase 3 results in Sjögren's disease, expected next year.\n- GSK's EGPA filing in the first half of 2027 and its continuing talks with the FDA on nasal polyps."
+          ],
+          "sources": [
+            {
+              "name": "Fierce Pharma: Sotyktu lupus results",
+              "url": "https://www.fiercepharma.com/pharma/bristol-myers-sotyktu-posts-hit-and-miss-pair-ph-3-lupus-trials"
+            },
+            {
+              "name": "Fierce Pharma: Exdensur in EGPA",
+              "url": "https://www.fiercepharma.com/pharma/gsk-eyes-approval-filings-after-asthma-med-exdensur-scores-rare-vascular-disease"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "area": "Investing",
+      "title": "Reading inflation: headline vs. core, month-over-month vs. year-over-year",
+      "body": [
+        "Inflation reports come with several numbers, and the market reacts to the *right* one, not the biggest one. Start with the measure. The **CPI** (consumer price index) tracks what urban households pay. The **PCE price index** tracks prices across everything consumers spend on, including spending made on their behalf, like employer-paid health insurance, and it adjusts faster when people switch to cheaper goods. The Fed's 2% target is defined in PCE, which is why Wednesday's report mattered so much.",
+        "**Headline** inflation includes everything. **Core** inflation leaves out food and energy, whose prices swing with weather, wars and harvests. Core isn't more important because food and gas don't matter; it's more useful for spotting the *trend*, because it's less noisy. When oil jumps 3.5% in a day, as it did Wednesday, headline inflation will bounce around, but the Fed wants to know whether price increases are spreading through the rest of the economy.",
+        "Then there's timing. **Year-over-year (YoY)** compares this month's price level to the same month last year: 3.8% for October's headline PCE. It's stable and easy to understand, but slow, because it includes 12 months of history. **Month-over-month (MoM)** shows only the latest change, 0.3%, and reveals turning points sooner. Economists often **annualize** a monthly number to compare it with the target: compound it over 12 months.",
+        "One more trap: **revisions** and **base effects**. The year-over-year rate can rise even when the latest month is normal, if earlier months were revised up or if a very low month from a year ago drops out of the 12-month window. That's part of why core PCE jumped to 3.3% even though the monthly reading matched forecasts. The same annualizing logic applies to GDP: the 4.3% growth figure is a quarterly change expressed at an annual rate."
+      ],
+      "example": [
+        "**Annualizing a monthly rate.** Core PCE rose about **0.3%** in October. Annualized: (1.003)^12 − 1 ≈ **3.66%**. Using IBD's more precise 0.29%: (1.0029)^12 − 1 ≈ **3.54%**. Either way, the latest pace is well above the Fed's 2% target. A monthly reading consistent with 2% would be about (1.02)^(1/12) − 1 ≈ **0.165%**.",
+        "**Why YoY moves slowly.** The 12-month rate is roughly the sum of the last 12 monthly changes. Suppose the 12 monthly core readings from last November through October averaged **0.275%**: 12 × 0.275% ≈ 3.3%. If November 2025's reading was 0.20% and November 2026's comes in at 0.30%, the new month replaces the old one and the YoY rate rises by about 0.10 point, to ~3.4%, even though 0.30% is the same as October's pace. That's a base effect. (These monthly inputs are illustrative, not official data.)",
+        "**De-annualizing GDP.** A 4.3% annualized growth rate means the economy grew about (1.043)^(1/4) − 1 ≈ **1.06%** in the quarter itself. That's how a seemingly small quarterly change becomes a big headline number.",
+        "**A rough real yield.** With the 10-year Treasury at about **4.87%** and headline PCE at **3.8%**, a back-of-the-envelope real (inflation-adjusted) yield is about 4.87% − 3.8% ≈ **1.1%**. Investors would normally use expected future inflation rather than last year's, so treat this as a rough illustration."
+      ]
+    },
+    {
+      "area": "Biotech",
+      "title": "How Medicare drug price negotiation works, and why headline discounts overstate the savings",
+      "body": [
+        "The **Inflation Reduction Act (IRA)** of 2022 let Medicare negotiate prices directly for some of the drugs it spends the most on. Each year CMS picks drugs from the top of its spending list that have been on the market a long time without generic or biosimilar competition: at least **7 years** for small-molecule drugs and **11 years** for biologics. Negotiated prices take effect two years after selection, so roughly **9** and **13** years after approval. Drugs with a generic or biosimilar competitor are exempt.",
+        "The law sets a **ceiling**, not a floor. The negotiated *maximum fair price* can't exceed a set percentage of the drug's average price to non-federal buyers, and the ceiling is lower the longer a drug has been on the market. CMS makes an initial offer based on factors like clinical benefit, alternatives and the company's costs, and the company can counter. Companies that refuse face a steep excise tax or must pull the drug from Medicare and Medicaid, so in practice they sign.",
+        "Why the gap between the headline discount and real savings? **List prices** are the official sticker prices. Insurers and pharmacy benefit managers (**PBMs**) already negotiate confidential **rebates**, so the **net price** actually paid is lower. A negotiated price that's 84% below list may be much less than 84% below net. CMS's **45%** savings figure is measured against net prices in 2025, but before counting a separate manufacturer discount program; including it, Fierce reported, savings were **33%**.",
+        "The investor angle: negotiation creates a **revenue cliff** that can arrive before patents expire. Analysts now model an *IRA date* alongside the patent expiry for big drugs. Critics argue the shorter 7-year window for pills, often called the **pill penalty**, pushes companies toward biologics, which get 11 years. Supporters reply that most of a drug's lifetime profits come before negotiation starts."
+      ],
+      "example": [
+        "Take a hypothetical drug, **Medix**, with a Medicare list price of **$1,000** a month and 1 million patient-months a year in Medicare: **$1.0 billion** in gross spending.",
+        "Say Medicare's drug plans already get a **40%** rebate. The net price is **$600** a month, so Medicare really pays **$600 million**. Now CMS negotiates a price of **$350** a month, a **65%** cut from list. The *headline* discount is 65%. But actual spending falls from $600 million to **$350 million**, a savings of **$250 million**, or **~42%** of what was really being paid. Higher existing rebates would make the real savings smaller still.",
+        "For the company: if Medicare provided 40% of Medix's $1.5 billion in total net U.S. revenue ($600 million), the cut reduces revenue by $250 million, or about **17%** of the drug's U.S. sales, starting the year the price takes effect. Discount that lost revenue over the remaining years before generics arrive and you get the hit to the drug's value, which is why investors track which drugs might be selected next."
+      ]
+    }
+  ],
+  "weekAhead": [
+    {
+      "when": "Thu, Nov 26",
+      "event": "Thanksgiving: U.S. stock and bond markets closed",
+      "why": "No trading, but overseas markets and oil futures will react to any weekend news."
+    },
+    {
+      "when": "Fri, Nov 27",
+      "event": "Shortened session (stocks close 1 p.m. ET); Black Friday",
+      "why": "Light volume can exaggerate moves. Early holiday spending reports will test the strong retailer forecasts and the consumer data."
+    },
+    {
+      "when": "Sun, Nov 29",
+      "event": "OPEC+ ministers meet",
+      "why": "Production decisions shape the supply glut that has kept oil in check despite Middle East attacks."
+    },
+    {
+      "when": "Dec 1 & Dec 3",
+      "event": "Jensen Huang testifies before the House Foreign Affairs and Senate Banking committees",
+      "why": "Questions about the circumstances of his exit and export controls could move Nvidia and the AI trade."
+    },
+    {
+      "when": "Dec 8–9",
+      "event": "Fed meeting (FOMC) with new projections",
+      "why": "A quarter-point hike is fully priced in. The *dot plot* will show how many more hikes officials expect in 2027."
+    },
+    {
+      "when": "Dec 10",
+      "event": "November CPI",
+      "why": "The other major inflation gauge, and the last big data point officials see during the meeting week."
+    },
+    {
+      "when": "From Dec 12",
+      "event": "American Society of Hematology (ASH) annual meeting, New Orleans",
+      "why": "A major venue for blood cancer and cell therapy data."
+    },
+    {
+      "when": "Jan 5 & Jan 25, 2027",
+      "event": "Comment deadline and start of hearings on USTR's proposed tariffs",
+      "why": "Final rates and timing will show how much the tariffs could add to inflation and corporate costs."
+    }
+  ],
+  "glossary": [
+    {
+      "term": "PCE price index",
+      "definition": "The Commerce Department's measure of prices for goods and services consumers buy. The Fed's 2% inflation target is defined using it."
+    },
+    {
+      "term": "Core inflation",
+      "definition": "Inflation excluding food and energy, whose prices are volatile. It's used to judge the underlying trend."
+    },
+    {
+      "term": "Annualized rate",
+      "definition": "A monthly or quarterly change compounded to show what it would equal over a full year."
+    },
+    {
+      "term": "Base effect",
+      "definition": "A change in a year-over-year rate caused by which month drops out of the 12-month comparison, not by the latest month alone."
+    },
+    {
+      "term": "Saving rate",
+      "definition": "The share of after-tax income that households don't spend."
+    },
+    {
+      "term": "Flight to safety",
+      "definition": "When investors sell risky assets like stocks and buy safer ones like Treasuries, pushing bond yields down."
+    },
+    {
+      "term": "Intraday reversal",
+      "definition": "When a market moves sharply in one direction during a session and then reverses to close near or past where it started."
+    },
+    {
+      "term": "Priced in",
+      "definition": "When investors already expected news, so it's reflected in the price before it's announced and causes little move."
+    },
+    {
+      "term": "CreditWatch negative",
+      "definition": "A notice from a rating agency that it may downgrade a borrower's credit rating soon."
+    },
+    {
+      "term": "Section 301",
+      "definition": "A U.S. trade law that lets the government impose tariffs or other measures against foreign practices found unfair, after an investigation."
+    },
+    {
+      "term": "Excess capacity",
+      "definition": "More production capacity than domestic demand needs, often supported by government aid, with the surplus exported cheaply."
+    },
+    {
+      "term": "Maximum fair price",
+      "definition": "The negotiated price Medicare pays for a drug selected under the Inflation Reduction Act."
+    },
+    {
+      "term": "Net price",
+      "definition": "What a payer really pays for a drug after rebates and discounts, usually well below the list price."
+    },
+    {
+      "term": "Part B vs. Part D",
+      "definition": "Medicare Part B covers drugs given in clinics and doctors' offices; Part D covers drugs picked up at the pharmacy."
+    },
+    {
+      "term": "Biobucks",
+      "definition": "The headline value of a licensing deal, mostly contingent milestone payments that may never be paid."
+    },
+    {
+      "term": "Label expansion",
+      "definition": "When an approved drug wins approval for additional diseases or patient groups."
+    },
+    {
+      "term": "Progression-free survival (PFS)",
+      "definition": "How long patients live without their cancer growing or spreading, a common cancer trial endpoint."
+    },
+    {
+      "term": "Non-inferiority trial",
+      "definition": "A study designed to show a treatment is not meaningfully worse than an existing one, rather than better."
+    }
+  ],
+  "quiz": [
+    {
+      "topic": "Core vs. headline",
+      "question": "Why does the Fed pay close attention to core PCE, which excludes food and energy?",
+      "choices": [
+        "Food and energy prices don't affect consumers",
+        "Core is less volatile, so it gives a clearer read on the underlying inflation trend",
+        "Core inflation is always lower than headline inflation",
+        "The law requires the Fed to ignore headline inflation"
+      ],
+      "answer": 1,
+      "explanation": "Food and energy prices swing with weather, wars and harvests. Excluding them makes it easier to see whether price increases are spreading through the economy. The Fed's official target is still headline PCE."
+    },
+    {
+      "topic": "Annualizing",
+      "question": "Core PCE rose about 0.3% in October. Roughly what annual inflation rate does that monthly pace imply?",
+      "choices": [
+        "0.3%",
+        "About 1.2%",
+        "About 3.7%",
+        "About 30%"
+      ],
+      "answer": 2,
+      "explanation": "Compound it for 12 months: (1.003)^12 − 1 ≈ 3.66%. A monthly pace consistent with the Fed's 2% target would be only about 0.165%."
+    },
+    {
+      "topic": "Base effects",
+      "question": "October's monthly core PCE reading matched forecasts, yet the yearly rate rose from 3.1% to 3.3%. Which explanation fits?",
+      "choices": [
+        "Revisions to earlier months and which months entered and left the 12-month window pushed the yearly rate up",
+        "The BEA changed the Fed's inflation target",
+        "Food and energy prices were added to core inflation",
+        "Yearly rates only count the latest month"
+      ],
+      "answer": 0,
+      "explanation": "The year-over-year rate reflects 12 months of changes. Upward revisions to earlier months, and base effects from the month dropping out, can raise it even when the newest month is normal."
+    },
+    {
+      "topic": "Yields on a hot day",
+      "question": "Inflation came in hot on Wednesday, yet the 10-year Treasury yield fell. What's the best explanation?",
+      "choices": [
+        "The Fed cut rates Wednesday morning",
+        "Bond yields always fall when inflation rises",
+        "As stocks plunged, investors bought Treasuries for safety, and the monthly core reading was in line with forecasts",
+        "The Treasury stopped issuing 10-year bonds"
+      ],
+      "answer": 2,
+      "explanation": "A flight to safety pushes bond prices up and yields down. Bond investors also focused on the in-line monthly number, and some see hikes now as a sign of slower growth later."
+    },
+    {
+      "topic": "Market facts",
+      "question": "At its low on Wednesday, how far had the Dow fallen, and where did it close?",
+      "choices": [
+        "Down about 300 points; closed down 300",
+        "Down 4.6%; closed down 4.6%",
+        "Up 1,100 points; closed down 164 points",
+        "Down more than 1,100 points; closed up about 164 points"
+      ],
+      "answer": 3,
+      "explanation": "The Dow fell more than 1,100 points (2.2%) before bargain hunting, a Michael Burry newsletter post and thin holiday trading helped it close up 164.25 points at 50,182.95."
+    },
+    {
+      "topic": "Priced in",
+      "question": "Dell's revenue doubled and it raised its forecast by $10 billion, but the stock ended Wednesday little changed. Which concept best explains that?",
+      "choices": [
+        "Dell's results were restated lower",
+        "Strong AI demand was largely expected and investors worry it may not last, so the good news was priced in",
+        "Stocks can't rise after earnings reports",
+        "Buybacks always lower a company's share price"
+      ],
+      "answer": 1,
+      "explanation": "Prices reflect expectations. When investors already expect great results, or doubt they'll continue, even a blowout quarter can produce little reaction."
+    },
+    {
+      "topic": "Credit ratings",
+      "question": "S&P Global put Nvidia's AA rating on CreditWatch negative. Why is that notable for a company with plenty of cash?",
+      "choices": [
+        "It means Nvidia has defaulted on its bonds",
+        "It forces Nvidia to stop selling chips",
+        "It's an independent signal that governance and key-person risk, not finances, are now seen as real credit risks",
+        "It automatically removes Nvidia from the S&P 500"
+      ],
+      "answer": 2,
+      "explanation": "A downgrade would barely change Nvidia's borrowing costs, but S&P's reasoning, citing board independence and key man risk, shows how outside analysts view the Huang episode."
+    },
+    {
+      "topic": "Tariff mechanics",
+      "question": "Why might broad new tariffs complicate the Fed's job right now?",
+      "choices": [
+        "Tariffs are taxes on imports that can be partly passed to consumers, adding to inflation that is already well above target",
+        "Tariffs automatically lower interest rates",
+        "Tariffs are paid directly by the Federal Reserve",
+        "Tariffs only affect foreign consumers"
+      ],
+      "answer": 0,
+      "explanation": "Importers pay tariffs and often pass part of the cost on as higher prices. With PCE inflation at 3.8%, that could push the Fed to tighten more."
+    },
+    {
+      "topic": "Drug price negotiation",
+      "question": "Trulicity's Medicare price falls 84% from list, but CMS estimates overall net savings of 45%. Why the difference?",
+      "choices": [
+        "CMS made a calculation error",
+        "Only some patients will get the new price",
+        "Drug plans already received confidential rebates, so the price really paid (net) was well below list, and the savings are measured against net",
+        "The 84% cut applies only in 2025"
+      ],
+      "answer": 2,
+      "explanation": "Discounts from list prices overstate the savings. Measured against net prices, CMS estimated 45% savings, or 33% after counting a separate manufacturer discount program."
+    },
+    {
+      "topic": "Reading trials",
+      "question": "Sotyktu had a similar response rate in two lupus trials but met its main goal in only one. How can that happen?",
+      "choices": [
+        "The drug was a different molecule in each trial",
+        "Phase 3 trials don't use placebo",
+        "The FDA decides results randomly",
+        "Success is measured against placebo; a higher placebo response in one trial can shrink the gap below statistical significance"
+      ],
+      "answer": 3,
+      "explanation": "Trials compare a drug to placebo. Lupus trials often have high placebo responses, so the same drug effect can be significant in one study and not another. Regulators usually want two successful phase 3 trials."
+    }
+  ],
+  "footer": "Wednesday edition, written after the close. The market board shows Wednesday's closes; Treasury, gold and bitcoin figures are late-afternoon quotes. Some WSJ and Endpoints articles cited are paywalled; we used their headlines, summaries and freely visible details. Markets are closed Thursday for Thanksgiving."
+}
